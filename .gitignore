@@ -218,3 +218,44 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SCIP-Syn: retain the published source assets; exclude local experiment files.
+.env.*
+!*.example
+assets/
+results/
+checkpoints/
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.csv
+*.tsv
+*.zip
+*.pdf
+*.docx
+*.pem
+*.key
+demo-output/
+figure-output/
+candidate-replay/
+table-output/
+
+# The following small research-result files are intentionally publishable.
+!/data/
+/data/*
+!/data/README.md
+!/data/drug_exposure.csv
+!/reproduce/
+!reproduce/*.csv
+!reproduce/canonical_scores.zip
+
+# Publication exclusions confirmed by the author.
+/AUDIT.md
+/reproduce/initialization_metrics.csv
+/reproduce/existing_initialization_summary.csv
+/reproduce/*multi_seed*
+/reproduce/*multiseed*

@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "batch_size": 128,
+  "num_workers": 3,
+  "epochs": 50,
+  "patience": 12,
+  "lr": 0.00005,
+  "weight_decay": 0.0001,
+  "grad_clip": 5.0,
+  "warmup_epochs": 2,
+  "reg_weight": 5.0,
+  "cls_weight": 1.0,
+  "classification_threshold": 0.0,
+  "strong_synergy_threshold": 10.0,
+  "modality_dropout_prob": 0.0,
+  "target_std_ddof": 1,
+  "selection_metric": "inner_validation_row_PCC"
+}

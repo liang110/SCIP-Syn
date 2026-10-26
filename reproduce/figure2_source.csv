@@ -1,0 +1,50 @@
+panel,regime,method,metric,mean,sd
+a,Unit-Nonoverlap Random,SCIP-Syn,PCC,0.7413,0.005
+a,One-Unseen,SCIP-Syn,PCC,0.2804,0.0923
+a,Both-Unseen,SCIP-Syn,PCC,0.1323,0.1636
+a,Unit-Nonoverlap Random,DeepDDS,PCC,0.7338,0.0076
+a,One-Unseen,DeepDDS,PCC,0.2417,0.1273
+a,Both-Unseen,DeepDDS,PCC,0.0853,0.1591
+a,Unit-Nonoverlap Random,XGBoost,PCC,0.6976,0.0064
+a,One-Unseen,XGBoost,PCC,0.3074,0.0982
+a,Both-Unseen,XGBoost,PCC,0.0889,0.1593
+a,Unit-Nonoverlap Random,LinearSVR,PCC,0.3489,0.0071
+a,One-Unseen,LinearSVR,PCC,0.2066,0.079
+a,Both-Unseen,LinearSVR,PCC,0.0615,0.1067
+a,Unit-Nonoverlap Random,ENV-Syn,PCC,0.8096586594,0.0079548355
+a,One-Unseen,ENV-Syn,PCC,0.3097,0.0798
+a,Both-Unseen,ENV-Syn,PCC,0.1043,0.1405
+a,Unit-Nonoverlap Random,Molecular MLP,PCC,0.7368560174,0.0052793708
+a,One-Unseen,Molecular MLP,PCC,0.273,0.0981
+a,Both-Unseen,Molecular MLP,PCC,0.0911,0.1447
+a,Unit-Nonoverlap Random,MDNNSyn,PCC,0.3126569982,0.0055476068
+a,One-Unseen,MDNNSyn,PCC,0.2089,0.0369
+a,Both-Unseen,MDNNSyn,PCC,0.0601,0.1128
+b,ALMANAC strict Both-Unseen,SCIP-Syn,PCC,0.1323175912271298,0.1636160840207508
+b,ALMANAC strict Both-Unseen,SCIP-Syn,Spearman,0.1342455480409782,0.1536320601207937
+b,ALMANAC strict Both-Unseen,ENV-Syn,PCC,0.1042805908983678,0.1404574126129657
+b,ALMANAC strict Both-Unseen,ENV-Syn,Spearman,0.1131817522688848,0.1278731972852174
+b,ALMANAC strict Both-Unseen,DeepDDS,PCC,0.0853185949598352,0.1590736071906425
+b,ALMANAC strict Both-Unseen,DeepDDS,Spearman,0.0826941336876369,0.1384851484229363
+b,ALMANAC strict Both-Unseen,MDNNSyn,PCC,0.0601252110330061,0.1128475672376127
+b,ALMANAC strict Both-Unseen,MDNNSyn,Spearman,0.0430708634171711,0.1139622471856532
+b,ALMANAC strict Both-Unseen,Molecular MLP,PCC,0.0911356556518981,0.1446896943621297
+b,ALMANAC strict Both-Unseen,Molecular MLP,Spearman,0.0807781703729411,0.1240076532586502
+b,ALMANAC strict Both-Unseen,XGBoost,PCC,0.0888943772739538,0.1592616863337041
+b,ALMANAC strict Both-Unseen,XGBoost,Spearman,0.1025376780247083,0.1462001801978735
+b,ALMANAC strict Both-Unseen,LinearSVR,PCC,0.0615454455840529,0.1066947407704776
+b,ALMANAC strict Both-Unseen,LinearSVR,Spearman,0.0644491723346067,0.1092879863973637
+b,ALMANAC strict Both-Unseen,GraphTranSynergy,PCC,0.0401741857505517,0.1021389670878508
+b,ALMANAC strict Both-Unseen,GraphTranSynergy,Spearman,0.0469815866288487,0.0995370738968273
+c,Retrospective O'Neil strict Both-Unseen,SCIP-Syn,PCC,0.0865491564132107,0.0572920544721996
+c,Retrospective O'Neil strict Both-Unseen,SCIP-Syn,Spearman,0.0888328259132296,0.0583502061322674
+c,Retrospective O'Neil strict Both-Unseen,ENV-Syn,PCC,0.081944492334566,0.0804593007812988
+c,Retrospective O'Neil strict Both-Unseen,ENV-Syn,Spearman,0.0839609982952971,0.089532675670259
+c,Retrospective O'Neil strict Both-Unseen,DeepDDS,PCC,0.0743832077772918,0.103140067349137
+c,Retrospective O'Neil strict Both-Unseen,DeepDDS,Spearman,0.0633670583528885,0.0909065767172929
+c,Retrospective O'Neil strict Both-Unseen,XGBoost,PCC,-0.063072971274013,0.0637909358322583
+c,Retrospective O'Neil strict Both-Unseen,XGBoost,Spearman,-0.0576135833909034,0.0718752331579738
+c,Retrospective O'Neil strict Both-Unseen,LinearSVR,PCC,-0.1040850693664392,0.0457511842866576
+c,Retrospective O'Neil strict Both-Unseen,LinearSVR,Spearman,-0.0911647724863101,0.0606610211575841
+c,Retrospective O'Neil strict Both-Unseen,Molecular MLP,PCC,0.08559903118207107,0.04771372636105618
+c,Retrospective O'Neil strict Both-Unseen,Molecular MLP,Spearman,0.0901094907341877,0.042547821459924924

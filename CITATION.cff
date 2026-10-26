@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this software release when using SCIP-Syn. This is a software-maintainer attribution, not a manuscript author list."
+type: software
+title: "SCIP-Syn"
+authors:
+  - name: "dan110liang110"
+    website: "https://github.com/liang110"
+version: 0.2.0
+date-released: "2026-10-15"
+license: MIT
+repository-code: "https://github.com/liang110/SCIP-Syn"
+url: "https://github.com/liang110/SCIP-Syn"
+abstract: "Context-aware, exchange-invariant drug-synergy prioritization using frozen molecular features, available target/pathway information and cell-expression context. Includes synthetic software demos and a frozen fold-metric reproduction entry point."
+keywords:
+  - drug synergy
+  - cold start
+  - candidate prioritization
+  - reproducible research

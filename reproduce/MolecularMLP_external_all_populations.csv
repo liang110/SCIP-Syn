@@ -1,0 +1,1801 @@
+model,fold,population,metric,value
+Molecular MLP,0,External Overall,PCC,0.1247075699932418
+Molecular MLP,0,External Overall,Spearman,0.12523439924826
+Molecular MLP,0,External Overall,C_index,0.5411922449773513
+Molecular MLP,0,External Overall,AUC,0.5565319509927658
+Molecular MLP,0,External Overall,AUPRC,0.4529486736140626
+Molecular MLP,0,External Overall,RMSE,16.75210184063435
+Molecular MLP,0,External Overall,strong_prevalence,0.0629194180490685
+Molecular MLP,0,External Overall,n_candidates,18627.0
+Molecular MLP,0,External Overall,EF@1%,0.7649203336314357
+Molecular MLP,0,External Overall,EF@5%,0.9038060832881688
+Molecular MLP,0,External Overall,P@10,0.0
+Molecular MLP,0,External Overall,NDCG@10,0.0
+Molecular MLP,0,External Overall,P@50,0.02
+Molecular MLP,0,External Overall,NDCG@50,0.014036776925438
+Molecular MLP,0,External Overall,CanonicalUnits,18627.0
+Molecular MLP,0,External Overall,TotalStrong,1172.0
+Molecular MLP,0,External Overall,Budget@5%,932.0
+Molecular MLP,0,External Overall,Hits@5%,53.0
+Molecular MLP,0,External Overall,Precision@5%,0.0568669527896995
+Molecular MLP,0,External Overall,RandomExpectedHits,58.640897621731895
+Molecular MLP,0,External Nonoverlap,PCC,0.1206434458396339
+Molecular MLP,0,External Nonoverlap,Spearman,0.1228790571156067
+Molecular MLP,0,External Nonoverlap,C_index,0.5409069953267149
+Molecular MLP,0,External Nonoverlap,AUC,0.5551841013122134
+Molecular MLP,0,External Nonoverlap,AUPRC,0.4525589925208555
+Molecular MLP,0,External Nonoverlap,RMSE,16.743308027634555
+Molecular MLP,0,External Nonoverlap,strong_prevalence,0.0634173055859802
+Molecular MLP,0,External Nonoverlap,n_candidates,18260.0
+Molecular MLP,0,External Nonoverlap,EF@1%,0.7755032701945128
+Molecular MLP,0,External Nonoverlap,EF@5%,0.8981001727115717
+Molecular MLP,0,External Nonoverlap,P@10,0.0
+Molecular MLP,0,External Nonoverlap,NDCG@10,0.0
+Molecular MLP,0,External Nonoverlap,P@50,0.02
+Molecular MLP,0,External Nonoverlap,NDCG@50,0.0141178224637555
+Molecular MLP,0,External Nonoverlap,CanonicalUnits,18260.0
+Molecular MLP,0,External Nonoverlap,TotalStrong,1158.0
+Molecular MLP,0,External Nonoverlap,Budget@5%,913.0
+Molecular MLP,0,External Nonoverlap,Hits@5%,52.0
+Molecular MLP,0,External Nonoverlap,Precision@5%,0.0569550930996714
+Molecular MLP,0,External Nonoverlap,RandomExpectedHits,57.9
+Molecular MLP,0,External Both-Seen,PCC,0.2332306190338517
+Molecular MLP,0,External Both-Seen,Spearman,0.2382223075614197
+Molecular MLP,0,External Both-Seen,C_index,0.5806366099487373
+Molecular MLP,0,External Both-Seen,AUC,0.6195264997579424
+Molecular MLP,0,External Both-Seen,AUPRC,0.5257670548900357
+Molecular MLP,0,External Both-Seen,RMSE,17.467262411403354
+Molecular MLP,0,External Both-Seen,strong_prevalence,0.052014652014652
+Molecular MLP,0,External Both-Seen,n_candidates,2730.0
+Molecular MLP,0,External Both-Seen,EF@1%,3.4330985915492955
+Molecular MLP,0,External Both-Seen,EF@5%,1.9646345224632464
+Molecular MLP,0,External Both-Seen,P@10,0.1
+Molecular MLP,0,External Both-Seen,NDCG@10,0.066254223454389
+Molecular MLP,0,External Both-Seen,P@50,0.16
+Molecular MLP,0,External Both-Seen,NDCG@50,0.1474202406038042
+Molecular MLP,0,External Both-Seen,CanonicalUnits,2730.0
+Molecular MLP,0,External Both-Seen,TotalStrong,142.0
+Molecular MLP,0,External Both-Seen,Budget@5%,137.0
+Molecular MLP,0,External Both-Seen,Hits@5%,14.0
+Molecular MLP,0,External Both-Seen,Precision@5%,0.1021897810218978
+Molecular MLP,0,External Both-Seen,RandomExpectedHits,7.1260073260073264
+Molecular MLP,0,External One-Unseen,PCC,0.1402512539602142
+Molecular MLP,0,External One-Unseen,Spearman,0.1410739673549511
+Molecular MLP,0,External One-Unseen,C_index,0.547578841358191
+Molecular MLP,0,External One-Unseen,AUC,0.5630985561349895
+Molecular MLP,0,External One-Unseen,AUPRC,0.4811675179089848
+Molecular MLP,0,External One-Unseen,RMSE,16.504147285093687
+Molecular MLP,0,External One-Unseen,strong_prevalence,0.0603595460480064
+Molecular MLP,0,External One-Unseen,n_candidates,9957.0
+Molecular MLP,0,External One-Unseen,EF@1%,0.8283693843594011
+Molecular MLP,0,External One-Unseen,EF@5%,0.96476755608123
+Molecular MLP,0,External One-Unseen,P@10,0.0
+Molecular MLP,0,External One-Unseen,NDCG@10,0.0
+Molecular MLP,0,External One-Unseen,P@50,0.06
+Molecular MLP,0,External One-Unseen,NDCG@50,0.0517750861403161
+Molecular MLP,0,External One-Unseen,CanonicalUnits,9957.0
+Molecular MLP,0,External One-Unseen,TotalStrong,601.0
+Molecular MLP,0,External One-Unseen,Budget@5%,498.0
+Molecular MLP,0,External One-Unseen,Hits@5%,29.0
+Molecular MLP,0,External One-Unseen,Precision@5%,0.0582329317269076
+Molecular MLP,0,External One-Unseen,RandomExpectedHits,30.0590539319072
+Molecular MLP,0,External Both-Unseen,PCC,0.0322308814178149
+Molecular MLP,0,External Both-Unseen,Spearman,0.043866899144497
+Molecular MLP,0,External Both-Unseen,C_index,0.5140965406878618
+Molecular MLP,0,External Both-Unseen,AUC,0.5175188508829824
+Molecular MLP,0,External Both-Unseen,AUPRC,0.3888746552018978
+Molecular MLP,0,External Both-Unseen,RMSE,16.828786455492104
+Molecular MLP,0,External Both-Unseen,strong_prevalence,0.0722222222222222
+Molecular MLP,0,External Both-Unseen,n_candidates,5940.0
+Molecular MLP,0,External Both-Unseen,EF@1%,0.2307692307692307
+Molecular MLP,0,External Both-Unseen,EF@5%,0.6060606060606062
+Molecular MLP,0,External Both-Unseen,P@10,0.0
+Molecular MLP,0,External Both-Unseen,NDCG@10,0.0
+Molecular MLP,0,External Both-Unseen,P@50,0.02
+Molecular MLP,0,External Both-Unseen,NDCG@50,0.0143784204326484
+Molecular MLP,0,External Both-Unseen,CanonicalUnits,5940.0
+Molecular MLP,0,External Both-Unseen,TotalStrong,429.0
+Molecular MLP,0,External Both-Unseen,Budget@5%,297.0
+Molecular MLP,0,External Both-Unseen,Hits@5%,13.0
+Molecular MLP,0,External Both-Unseen,Precision@5%,0.0437710437710437
+Molecular MLP,0,External Both-Unseen,RandomExpectedHits,21.45
+Molecular MLP,0,External Global-Drug-Unseen,PCC,0.0178328393142136
+Molecular MLP,0,External Global-Drug-Unseen,Spearman,0.0238547067702881
+Molecular MLP,0,External Global-Drug-Unseen,C_index,0.5079825195774531
+Molecular MLP,0,External Global-Drug-Unseen,AUC,0.5126954409221142
+Molecular MLP,0,External Global-Drug-Unseen,AUPRC,0.4267300299234539
+Molecular MLP,0,External Global-Drug-Unseen,RMSE,16.98550052833327
+Molecular MLP,0,External Global-Drug-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,0,External Global-Drug-Unseen,n_candidates,3927.0
+Molecular MLP,0,External Global-Drug-Unseen,EF@1%,0.2682377049180328
+Molecular MLP,0,External Global-Drug-Unseen,EF@5%,0.5446450861279853
+Molecular MLP,0,External Global-Drug-Unseen,P@10,0.0
+Molecular MLP,0,External Global-Drug-Unseen,NDCG@10,0.0
+Molecular MLP,0,External Global-Drug-Unseen,P@50,0.02
+Molecular MLP,0,External Global-Drug-Unseen,NDCG@50,0.0164948412617172
+Molecular MLP,0,External Global-Drug-Unseen,CanonicalUnits,3927.0
+Molecular MLP,0,External Global-Drug-Unseen,TotalStrong,366.0
+Molecular MLP,0,External Global-Drug-Unseen,Budget@5%,197.0
+Molecular MLP,0,External Global-Drug-Unseen,Hits@5%,10.0
+Molecular MLP,0,External Global-Drug-Unseen,Precision@5%,0.0507614213197969
+Molecular MLP,0,External Global-Drug-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,0,External Both-Unseen Cell-Seen,PCC,0.0315331394052986
+Molecular MLP,0,External Both-Unseen Cell-Seen,Spearman,0.0477246169645076
+Molecular MLP,0,External Both-Unseen Cell-Seen,C_index,0.5159075484790947
+Molecular MLP,0,External Both-Unseen Cell-Seen,AUC,0.5230309411741407
+Molecular MLP,0,External Both-Unseen Cell-Seen,AUPRC,0.3638329059896749
+Molecular MLP,0,External Both-Unseen Cell-Seen,RMSE,18.45201808685892
+Molecular MLP,0,External Both-Unseen Cell-Seen,strong_prevalence,0.0654320987654321
+Molecular MLP,0,External Both-Unseen Cell-Seen,n_candidates,1620.0
+Molecular MLP,0,External Both-Unseen Cell-Seen,EF@1%,0.0
+Molecular MLP,0,External Both-Unseen Cell-Seen,EF@5%,0.7547169811320754
+Molecular MLP,0,External Both-Unseen Cell-Seen,P@10,0.0
+Molecular MLP,0,External Both-Unseen Cell-Seen,NDCG@10,0.0
+Molecular MLP,0,External Both-Unseen Cell-Seen,P@50,0.02
+Molecular MLP,0,External Both-Unseen Cell-Seen,NDCG@50,0.0138089071677089
+Molecular MLP,0,External Both-Unseen Cell-Seen,CanonicalUnits,1620.0
+Molecular MLP,0,External Both-Unseen Cell-Seen,TotalStrong,106.0
+Molecular MLP,0,External Both-Unseen Cell-Seen,Budget@5%,81.0
+Molecular MLP,0,External Both-Unseen Cell-Seen,Hits@5%,4.0
+Molecular MLP,0,External Both-Unseen Cell-Seen,Precision@5%,0.0493827160493827
+Molecular MLP,0,External Both-Unseen Cell-Seen,RandomExpectedHits,5.3
+Molecular MLP,0,External Both-Unseen Cell-Unseen,PCC,0.0381991718982054
+Molecular MLP,0,External Both-Unseen Cell-Unseen,Spearman,0.0453606260790897
+Molecular MLP,0,External Both-Unseen Cell-Unseen,C_index,0.5138238258012408
+Molecular MLP,0,External Both-Unseen Cell-Unseen,AUC,0.516716757004979
+Molecular MLP,0,External Both-Unseen Cell-Unseen,AUPRC,0.4004812308311123
+Molecular MLP,0,External Both-Unseen Cell-Unseen,RMSE,16.178139860537097
+Molecular MLP,0,External Both-Unseen Cell-Unseen,strong_prevalence,0.0747685185185185
+Molecular MLP,0,External Both-Unseen Cell-Unseen,n_candidates,4320.0
+Molecular MLP,0,External Both-Unseen Cell-Unseen,EF@1%,0.6079369546861808
+Molecular MLP,0,External Both-Unseen Cell-Unseen,EF@5%,0.6191950464396285
+Molecular MLP,0,External Both-Unseen Cell-Unseen,P@10,0.0
+Molecular MLP,0,External Both-Unseen Cell-Unseen,NDCG@10,0.0
+Molecular MLP,0,External Both-Unseen Cell-Unseen,P@50,0.04
+Molecular MLP,0,External Both-Unseen Cell-Unseen,NDCG@50,0.0316747653878057
+Molecular MLP,0,External Both-Unseen Cell-Unseen,CanonicalUnits,4320.0
+Molecular MLP,0,External Both-Unseen Cell-Unseen,TotalStrong,323.0
+Molecular MLP,0,External Both-Unseen Cell-Unseen,Budget@5%,216.0
+Molecular MLP,0,External Both-Unseen Cell-Unseen,Hits@5%,10.0
+Molecular MLP,0,External Both-Unseen Cell-Unseen,Precision@5%,0.0462962962962962
+Molecular MLP,0,External Both-Unseen Cell-Unseen,RandomExpectedHits,16.15
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,PCC,0.0407120295948399
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,Spearman,0.0531233490837564
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,C_index,0.5173257511242548
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,AUC,0.518937811262555
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,AUPRC,0.4192710452620373
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,RMSE,16.105553705846923
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,strong_prevalence,0.0645087235996327
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,n_candidates,8712.0
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,EF@1%,0.1761565836298932
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,EF@5%,0.5333180972281172
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,P@10,0.0
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,NDCG@10,0.0
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,P@50,0.0
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,NDCG@50,0.0
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,CanonicalUnits,8712.0
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,TotalStrong,562.0
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,Budget@5%,436.0
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,Hits@5%,15.0
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,Precision@5%,0.0344036697247706
+Molecular MLP,0,External Name-Only Both-Unseen Sensitivity,RandomExpectedHits,28.125803489439853
+Molecular MLP,1,External Overall,PCC,0.1206258200717958
+Molecular MLP,1,External Overall,Spearman,0.0931268896212398
+Molecular MLP,1,External Overall,C_index,0.5305584154336411
+Molecular MLP,1,External Overall,AUC,0.5387753178120803
+Molecular MLP,1,External Overall,AUPRC,0.4387167291957737
+Molecular MLP,1,External Overall,RMSE,17.258708192664496
+Molecular MLP,1,External Overall,strong_prevalence,0.0629194180490685
+Molecular MLP,1,External Overall,n_candidates,18627.0
+Molecular MLP,1,External Overall,EF@1%,0.5949380372688945
+Molecular MLP,1,External Overall,EF@5%,0.7503295785788572
+Molecular MLP,1,External Overall,P@10,0.0
+Molecular MLP,1,External Overall,NDCG@10,0.0
+Molecular MLP,1,External Overall,P@50,0.02
+Molecular MLP,1,External Overall,NDCG@50,0.0139583701118744
+Molecular MLP,1,External Overall,CanonicalUnits,18627.0
+Molecular MLP,1,External Overall,TotalStrong,1172.0
+Molecular MLP,1,External Overall,Budget@5%,932.0
+Molecular MLP,1,External Overall,Hits@5%,44.0
+Molecular MLP,1,External Overall,Precision@5%,0.0472103004291845
+Molecular MLP,1,External Overall,RandomExpectedHits,58.640897621731895
+Molecular MLP,1,External Nonoverlap,PCC,0.114043864135165
+Molecular MLP,1,External Nonoverlap,Spearman,0.0878588416394359
+Molecular MLP,1,External Nonoverlap,C_index,0.5286217459265015
+Molecular MLP,1,External Nonoverlap,AUC,0.5368517737943819
+Molecular MLP,1,External Nonoverlap,AUPRC,0.4413270038113852
+Molecular MLP,1,External Nonoverlap,RMSE,17.246288319563696
+Molecular MLP,1,External Nonoverlap,strong_prevalence,0.0637458926615553
+Molecular MLP,1,External Nonoverlap,n_candidates,18260.0
+Molecular MLP,1,External Nonoverlap,EF@1%,0.6000600905113327
+Molecular MLP,1,External Nonoverlap,EF@5%,0.7560137457044674
+Molecular MLP,1,External Nonoverlap,P@10,0.0
+Molecular MLP,1,External Nonoverlap,NDCG@10,0.0
+Molecular MLP,1,External Nonoverlap,P@50,0.02
+Molecular MLP,1,External Nonoverlap,NDCG@50,0.0139583701118744
+Molecular MLP,1,External Nonoverlap,CanonicalUnits,18260.0
+Molecular MLP,1,External Nonoverlap,TotalStrong,1164.0
+Molecular MLP,1,External Nonoverlap,Budget@5%,913.0
+Molecular MLP,1,External Nonoverlap,Hits@5%,44.0
+Molecular MLP,1,External Nonoverlap,Precision@5%,0.0481927710843373
+Molecular MLP,1,External Nonoverlap,RandomExpectedHits,58.2
+Molecular MLP,1,External Both-Seen,PCC,0.2940841398771222
+Molecular MLP,1,External Both-Seen,Spearman,0.2638581452047072
+Molecular MLP,1,External Both-Seen,C_index,0.5876102361574597
+Molecular MLP,1,External Both-Seen,AUC,0.594465065582584
+Molecular MLP,1,External Both-Seen,AUPRC,0.3611075500512168
+Molecular MLP,1,External Both-Seen,RMSE,18.39438794373527
+Molecular MLP,1,External Both-Seen,strong_prevalence,0.0234487734487734
+Molecular MLP,1,External Both-Seen,n_candidates,2772.0
+Molecular MLP,1,External Both-Seen,EF@1%,0.0
+Molecular MLP,1,External Both-Seen,EF@5%,0.920420586607637
+Molecular MLP,1,External Both-Seen,P@10,0.0
+Molecular MLP,1,External Both-Seen,NDCG@10,0.0
+Molecular MLP,1,External Both-Seen,P@50,0.0
+Molecular MLP,1,External Both-Seen,NDCG@50,0.0
+Molecular MLP,1,External Both-Seen,CanonicalUnits,2772.0
+Molecular MLP,1,External Both-Seen,TotalStrong,65.0
+Molecular MLP,1,External Both-Seen,Budget@5%,139.0
+Molecular MLP,1,External Both-Seen,Hits@5%,3.0
+Molecular MLP,1,External Both-Seen,Precision@5%,0.0215827338129496
+Molecular MLP,1,External Both-Seen,RandomExpectedHits,3.2593795093795093
+Molecular MLP,1,External One-Unseen,PCC,0.0566403297310109
+Molecular MLP,1,External One-Unseen,Spearman,0.0503762751777551
+Molecular MLP,1,External One-Unseen,C_index,0.5170593621097194
+Molecular MLP,1,External One-Unseen,AUC,0.5186246610548779
+Molecular MLP,1,External One-Unseen,AUPRC,0.4345422540840783
+Molecular MLP,1,External One-Unseen,RMSE,17.114491437620096
+Molecular MLP,1,External One-Unseen,strong_prevalence,0.0527723959774887
+Molecular MLP,1,External One-Unseen,n_candidates,10839.0
+Molecular MLP,1,External One-Unseen,EF@1%,0.8692339770321422
+Molecular MLP,1,External One-Unseen,EF@5%,0.8041216163909891
+Molecular MLP,1,External One-Unseen,P@10,0.0
+Molecular MLP,1,External One-Unseen,NDCG@10,0.0
+Molecular MLP,1,External One-Unseen,P@50,0.02
+Molecular MLP,1,External One-Unseen,NDCG@50,0.0147740239956425
+Molecular MLP,1,External One-Unseen,CanonicalUnits,10839.0
+Molecular MLP,1,External One-Unseen,TotalStrong,572.0
+Molecular MLP,1,External One-Unseen,Budget@5%,542.0
+Molecular MLP,1,External One-Unseen,Hits@5%,23.0
+Molecular MLP,1,External One-Unseen,Precision@5%,0.0424354243542435
+Molecular MLP,1,External One-Unseen,RandomExpectedHits,28.602638619798874
+Molecular MLP,1,External Both-Unseen,PCC,0.0389325775919817
+Molecular MLP,1,External Both-Unseen,Spearman,0.0486294633565754
+Molecular MLP,1,External Both-Unseen,C_index,0.51610835085754
+Molecular MLP,1,External Both-Unseen,AUC,0.5272445652703729
+Molecular MLP,1,External Both-Unseen,AUPRC,0.4825494175484981
+Molecular MLP,1,External Both-Unseen,RMSE,16.91740527003762
+Molecular MLP,1,External Both-Unseen,strong_prevalence,0.1066586921850079
+Molecular MLP,1,External Both-Unseen,n_candidates,5016.0
+Molecular MLP,1,External Both-Unseen,EF@1%,0.3676745464540956
+Molecular MLP,1,External Both-Unseen,EF@5%,0.5976542428417172
+Molecular MLP,1,External Both-Unseen,P@10,0.0
+Molecular MLP,1,External Both-Unseen,NDCG@10,0.0
+Molecular MLP,1,External Both-Unseen,P@50,0.04
+Molecular MLP,1,External Both-Unseen,NDCG@50,0.0282806298769195
+Molecular MLP,1,External Both-Unseen,CanonicalUnits,5016.0
+Molecular MLP,1,External Both-Unseen,TotalStrong,535.0
+Molecular MLP,1,External Both-Unseen,Budget@5%,251.0
+Molecular MLP,1,External Both-Unseen,Hits@5%,16.0
+Molecular MLP,1,External Both-Unseen,Precision@5%,0.0637450199203187
+Molecular MLP,1,External Both-Unseen,RandomExpectedHits,26.771331738437
+Molecular MLP,1,External Global-Drug-Unseen,PCC,0.0236896923934935
+Molecular MLP,1,External Global-Drug-Unseen,Spearman,0.0305825879052013
+Molecular MLP,1,External Global-Drug-Unseen,C_index,0.5101740740407323
+Molecular MLP,1,External Global-Drug-Unseen,AUC,0.518883006113099
+Molecular MLP,1,External Global-Drug-Unseen,AUPRC,0.448881779247632
+Molecular MLP,1,External Global-Drug-Unseen,RMSE,17.087558037566666
+Molecular MLP,1,External Global-Drug-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,1,External Global-Drug-Unseen,n_candidates,3927.0
+Molecular MLP,1,External Global-Drug-Unseen,EF@1%,0.2682377049180328
+Molecular MLP,1,External Global-Drug-Unseen,EF@5%,0.6535741033535825
+Molecular MLP,1,External Global-Drug-Unseen,P@10,0.0
+Molecular MLP,1,External Global-Drug-Unseen,NDCG@10,0.0
+Molecular MLP,1,External Global-Drug-Unseen,P@50,0.04
+Molecular MLP,1,External Global-Drug-Unseen,NDCG@50,0.0282806298769195
+Molecular MLP,1,External Global-Drug-Unseen,CanonicalUnits,3927.0
+Molecular MLP,1,External Global-Drug-Unseen,TotalStrong,366.0
+Molecular MLP,1,External Global-Drug-Unseen,Budget@5%,197.0
+Molecular MLP,1,External Global-Drug-Unseen,Hits@5%,12.0
+Molecular MLP,1,External Global-Drug-Unseen,Precision@5%,0.0609137055837563
+Molecular MLP,1,External Global-Drug-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,1,External Both-Unseen Cell-Seen,PCC,0.0481940966699357
+Molecular MLP,1,External Both-Unseen Cell-Seen,Spearman,0.08184559453965
+Molecular MLP,1,External Both-Unseen Cell-Seen,C_index,0.526795988997121
+Molecular MLP,1,External Both-Unseen Cell-Seen,AUC,0.546882402954367
+Molecular MLP,1,External Both-Unseen Cell-Seen,AUPRC,0.4746880829156704
+Molecular MLP,1,External Both-Unseen Cell-Seen,RMSE,17.11221717651457
+Molecular MLP,1,External Both-Unseen Cell-Seen,strong_prevalence,0.0950292397660818
+Molecular MLP,1,External Both-Unseen Cell-Seen,n_candidates,1368.0
+Molecular MLP,1,External Both-Unseen Cell-Seen,EF@1%,0.0
+Molecular MLP,1,External Both-Unseen Cell-Seen,EF@5%,0.7625418060200669
+Molecular MLP,1,External Both-Unseen Cell-Seen,P@10,0.0
+Molecular MLP,1,External Both-Unseen Cell-Seen,NDCG@10,0.0
+Molecular MLP,1,External Both-Unseen Cell-Seen,P@50,0.04
+Molecular MLP,1,External Both-Unseen Cell-Seen,NDCG@50,0.0314665253065503
+Molecular MLP,1,External Both-Unseen Cell-Seen,CanonicalUnits,1368.0
+Molecular MLP,1,External Both-Unseen Cell-Seen,TotalStrong,130.0
+Molecular MLP,1,External Both-Unseen Cell-Seen,Budget@5%,69.0
+Molecular MLP,1,External Both-Unseen Cell-Seen,Hits@5%,5.0
+Molecular MLP,1,External Both-Unseen Cell-Seen,Precision@5%,0.072463768115942
+Molecular MLP,1,External Both-Unseen Cell-Seen,RandomExpectedHits,6.557017543859649
+Molecular MLP,1,External Both-Unseen Cell-Unseen,PCC,0.0413647232438928
+Molecular MLP,1,External Both-Unseen Cell-Unseen,Spearman,0.0415209622056908
+Molecular MLP,1,External Both-Unseen Cell-Unseen,C_index,0.5133650228718845
+Molecular MLP,1,External Both-Unseen Cell-Unseen,AUC,0.5224323981976874
+Molecular MLP,1,External Both-Unseen Cell-Unseen,AUPRC,0.487871867468155
+Molecular MLP,1,External Both-Unseen Cell-Unseen,RMSE,16.843769922767667
+Molecular MLP,1,External Both-Unseen Cell-Unseen,strong_prevalence,0.1110197368421052
+Molecular MLP,1,External Both-Unseen Cell-Unseen,n_candidates,3648.0
+Molecular MLP,1,External Both-Unseen Cell-Unseen,EF@1%,0.7303303303303303
+Molecular MLP,1,External Both-Unseen Cell-Unseen,EF@5%,0.6398704715644605
+Molecular MLP,1,External Both-Unseen Cell-Unseen,P@10,0.0
+Molecular MLP,1,External Both-Unseen Cell-Unseen,NDCG@10,0.0
+Molecular MLP,1,External Both-Unseen Cell-Unseen,P@50,0.08
+Molecular MLP,1,External Both-Unseen Cell-Unseen,NDCG@50,0.064395191547054
+Molecular MLP,1,External Both-Unseen Cell-Unseen,CanonicalUnits,3648.0
+Molecular MLP,1,External Both-Unseen Cell-Unseen,TotalStrong,405.0
+Molecular MLP,1,External Both-Unseen Cell-Unseen,Budget@5%,183.0
+Molecular MLP,1,External Both-Unseen Cell-Unseen,Hits@5%,13.0
+Molecular MLP,1,External Both-Unseen Cell-Unseen,Precision@5%,0.0710382513661202
+Molecular MLP,1,External Both-Unseen Cell-Unseen,RandomExpectedHits,20.316611842105264
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,PCC,0.0055732871262835
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,Spearman,-0.0006272340060338
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,C_index,0.499444685861217
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,AUC,0.4930554930220313
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,AUPRC,0.4448037596098821
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,RMSE,16.4648913936497
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,strong_prevalence,0.0769054178145087
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,n_candidates,8712.0
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,EF@1%,0.4432835820895521
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,EF@5%,0.5666438449952075
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,P@10,0.0
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,NDCG@10,0.0
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,P@50,0.02
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,NDCG@50,0.0142016628152878
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,CanonicalUnits,8712.0
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,TotalStrong,670.0
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,Budget@5%,436.0
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,Hits@5%,19.0
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,Precision@5%,0.0435779816513761
+Molecular MLP,1,External Name-Only Both-Unseen Sensitivity,RandomExpectedHits,33.5307621671258
+Molecular MLP,2,External Overall,PCC,0.1211214731489669
+Molecular MLP,2,External Overall,Spearman,0.1210033441762162
+Molecular MLP,2,External Overall,C_index,0.5402094414145571
+Molecular MLP,2,External Overall,AUC,0.5565729367890264
+Molecular MLP,2,External Overall,AUPRC,0.4621078694090221
+Molecular MLP,2,External Overall,RMSE,16.92032683806865
+Molecular MLP,2,External Overall,strong_prevalence,0.0629194180490685
+Molecular MLP,2,External Overall,n_candidates,18627.0
+Molecular MLP,2,External Overall,EF@1%,1.1048849263565184
+Molecular MLP,2,External Overall,EF@5%,1.261917927609896
+Molecular MLP,2,External Overall,P@10,0.1
+Molecular MLP,2,External Overall,NDCG@10,0.1100458831490401
+Molecular MLP,2,External Overall,P@50,0.08
+Molecular MLP,2,External Overall,NDCG@50,0.08376984440187
+Molecular MLP,2,External Overall,CanonicalUnits,18627.0
+Molecular MLP,2,External Overall,TotalStrong,1172.0
+Molecular MLP,2,External Overall,Budget@5%,932.0
+Molecular MLP,2,External Overall,Hits@5%,74.0
+Molecular MLP,2,External Overall,Precision@5%,0.0793991416309012
+Molecular MLP,2,External Overall,RandomExpectedHits,58.640897621731895
+Molecular MLP,2,External Nonoverlap,PCC,0.1208558899023993
+Molecular MLP,2,External Nonoverlap,Spearman,0.1206437400326861
+Molecular MLP,2,External Nonoverlap,C_index,0.5405833944202708
+Molecular MLP,2,External Nonoverlap,AUC,0.5562733509874993
+Molecular MLP,2,External Nonoverlap,AUPRC,0.463749976579721
+Molecular MLP,2,External Nonoverlap,RMSE,16.849913630911505
+Molecular MLP,2,External Nonoverlap,strong_prevalence,0.0638709320956959
+Molecular MLP,2,External Nonoverlap,n_candidates,18099.0
+Molecular MLP,2,External Nonoverlap,EF@1%,1.2110057542679078
+Molecular MLP,2,External Nonoverlap,EF@5%,1.280206083083217
+Molecular MLP,2,External Nonoverlap,P@10,0.1
+Molecular MLP,2,External Nonoverlap,NDCG@10,0.1388624438735545
+Molecular MLP,2,External Nonoverlap,P@50,0.08
+Molecular MLP,2,External Nonoverlap,NDCG@50,0.0957728324193287
+Molecular MLP,2,External Nonoverlap,CanonicalUnits,18099.0
+Molecular MLP,2,External Nonoverlap,TotalStrong,1156.0
+Molecular MLP,2,External Nonoverlap,Budget@5%,905.0
+Molecular MLP,2,External Nonoverlap,Hits@5%,74.0
+Molecular MLP,2,External Nonoverlap,Precision@5%,0.0817679558011049
+Molecular MLP,2,External Nonoverlap,RandomExpectedHits,57.80319354660478
+Molecular MLP,2,External Both-Seen,PCC,0.1549981537877358
+Molecular MLP,2,External Both-Seen,Spearman,0.1782892226359808
+Molecular MLP,2,External Both-Seen,C_index,0.5589375786175318
+Molecular MLP,2,External Both-Seen,AUC,0.585135898351642
+Molecular MLP,2,External Both-Seen,AUPRC,0.4598216594393833
+Molecular MLP,2,External Both-Seen,RMSE,18.71686176451604
+Molecular MLP,2,External Both-Seen,strong_prevalence,0.0425022448368751
+Molecular MLP,2,External Both-Seen,n_candidates,3341.0
+Molecular MLP,2,External Both-Seen,EF@1%,0.6920049710024855
+Molecular MLP,2,External Both-Seen,EF@5%,1.1203890006706907
+Molecular MLP,2,External Both-Seen,P@10,0.1
+Molecular MLP,2,External Both-Seen,NDCG@10,0.1388624438735545
+Molecular MLP,2,External Both-Seen,P@50,0.02
+Molecular MLP,2,External Both-Seen,NDCG@50,0.0489178810071095
+Molecular MLP,2,External Both-Seen,CanonicalUnits,3341.0
+Molecular MLP,2,External Both-Seen,TotalStrong,142.0
+Molecular MLP,2,External Both-Seen,Budget@5%,168.0
+Molecular MLP,2,External Both-Seen,Hits@5%,8.0
+Molecular MLP,2,External Both-Seen,Precision@5%,0.0476190476190476
+Molecular MLP,2,External Both-Seen,RandomExpectedHits,7.140377132595032
+Molecular MLP,2,External One-Unseen,PCC,0.1380268113308974
+Molecular MLP,2,External One-Unseen,Spearman,0.1245465249979067
+Molecular MLP,2,External One-Unseen,C_index,0.5416355386472488
+Molecular MLP,2,External One-Unseen,AUC,0.5573617216933473
+Molecular MLP,2,External One-Unseen,AUPRC,0.4756011777092288
+Molecular MLP,2,External One-Unseen,RMSE,16.119302939553286
+Molecular MLP,2,External One-Unseen,strong_prevalence,0.0631705605133861
+Molecular MLP,2,External One-Unseen,n_candidates,9973.0
+Molecular MLP,2,External One-Unseen,EF@1%,0.9498095238095238
+Molecular MLP,2,External One-Unseen,EF@5%,1.14205553965073
+Molecular MLP,2,External One-Unseen,P@10,0.0
+Molecular MLP,2,External One-Unseen,NDCG@10,0.0
+Molecular MLP,2,External One-Unseen,P@50,0.08
+Molecular MLP,2,External One-Unseen,NDCG@50,0.0671375789078716
+Molecular MLP,2,External One-Unseen,CanonicalUnits,9973.0
+Molecular MLP,2,External One-Unseen,TotalStrong,630.0
+Molecular MLP,2,External One-Unseen,Budget@5%,499.0
+Molecular MLP,2,External One-Unseen,Hits@5%,36.0
+Molecular MLP,2,External One-Unseen,Precision@5%,0.0721442885771543
+Molecular MLP,2,External One-Unseen,RandomExpectedHits,31.522109696179687
+Molecular MLP,2,External Both-Unseen,PCC,0.1002103471283286
+Molecular MLP,2,External Both-Unseen,Spearman,0.0834852379226542
+Molecular MLP,2,External Both-Unseen,C_index,0.5277419800075913
+Molecular MLP,2,External Both-Unseen,AUC,0.5338697461746259
+Molecular MLP,2,External Both-Unseen,AUPRC,0.4367172018075833
+Molecular MLP,2,External Both-Unseen,RMSE,17.196382383471033
+Molecular MLP,2,External Both-Unseen,strong_prevalence,0.0752870318087709
+Molecular MLP,2,External Both-Unseen,n_candidates,5313.0
+Molecular MLP,2,External Both-Unseen,EF@1%,2.21375
+Molecular MLP,2,External Both-Unseen,EF@5%,1.7976315789473682
+Molecular MLP,2,External Both-Unseen,P@10,0.4
+Molecular MLP,2,External Both-Unseen,NDCG@10,0.3164618153841292
+Molecular MLP,2,External Both-Unseen,P@50,0.16
+Molecular MLP,2,External Both-Unseen,NDCG@50,0.1753856507746169
+Molecular MLP,2,External Both-Unseen,CanonicalUnits,5313.0
+Molecular MLP,2,External Both-Unseen,TotalStrong,400.0
+Molecular MLP,2,External Both-Unseen,Budget@5%,266.0
+Molecular MLP,2,External Both-Unseen,Hits@5%,36.0
+Molecular MLP,2,External Both-Unseen,Precision@5%,0.1353383458646616
+Molecular MLP,2,External Both-Unseen,RandomExpectedHits,20.02635046113307
+Molecular MLP,2,External Global-Drug-Unseen,PCC,0.1250662580324699
+Molecular MLP,2,External Global-Drug-Unseen,Spearman,0.1174370645189819
+Molecular MLP,2,External Global-Drug-Unseen,C_index,0.5385057419527141
+Molecular MLP,2,External Global-Drug-Unseen,AUC,0.550261556133564
+Molecular MLP,2,External Global-Drug-Unseen,AUPRC,0.4695292349264123
+Molecular MLP,2,External Global-Drug-Unseen,RMSE,16.533829292442405
+Molecular MLP,2,External Global-Drug-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,2,External Global-Drug-Unseen,n_candidates,3927.0
+Molecular MLP,2,External Global-Drug-Unseen,EF@1%,2.1459016393442623
+Molecular MLP,2,External Global-Drug-Unseen,EF@5%,1.742864275609553
+Molecular MLP,2,External Global-Drug-Unseen,P@10,0.3
+Molecular MLP,2,External Global-Drug-Unseen,NDCG@10,0.2528410271851775
+Molecular MLP,2,External Global-Drug-Unseen,P@50,0.22
+Molecular MLP,2,External Global-Drug-Unseen,NDCG@50,0.2149988014981782
+Molecular MLP,2,External Global-Drug-Unseen,CanonicalUnits,3927.0
+Molecular MLP,2,External Global-Drug-Unseen,TotalStrong,366.0
+Molecular MLP,2,External Global-Drug-Unseen,Budget@5%,197.0
+Molecular MLP,2,External Global-Drug-Unseen,Hits@5%,32.0
+Molecular MLP,2,External Global-Drug-Unseen,Precision@5%,0.1624365482233502
+Molecular MLP,2,External Global-Drug-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,2,External Both-Unseen Cell-Seen,PCC,0.1034715766769345
+Molecular MLP,2,External Both-Unseen Cell-Seen,Spearman,0.0927658388643089
+Molecular MLP,2,External Both-Unseen Cell-Seen,C_index,0.5312141351055596
+Molecular MLP,2,External Both-Unseen Cell-Seen,AUC,0.5392915815202148
+Molecular MLP,2,External Both-Unseen Cell-Seen,AUPRC,0.4173829765839401
+Molecular MLP,2,External Both-Unseen Cell-Seen,RMSE,18.252607612263667
+Molecular MLP,2,External Both-Unseen Cell-Seen,strong_prevalence,0.0662525879917184
+Molecular MLP,2,External Both-Unseen Cell-Seen,n_candidates,1449.0
+Molecular MLP,2,External Both-Unseen Cell-Seen,EF@1%,3.01875
+Molecular MLP,2,External Both-Unseen Cell-Seen,EF@5%,1.8608732876712328
+Molecular MLP,2,External Both-Unseen Cell-Seen,P@10,0.1
+Molecular MLP,2,External Both-Unseen Cell-Seen,NDCG@10,0.1388624438735545
+Molecular MLP,2,External Both-Unseen Cell-Seen,P@50,0.14
+Molecular MLP,2,External Both-Unseen Cell-Seen,NDCG@50,0.1493630575476143
+Molecular MLP,2,External Both-Unseen Cell-Seen,CanonicalUnits,1449.0
+Molecular MLP,2,External Both-Unseen Cell-Seen,TotalStrong,96.0
+Molecular MLP,2,External Both-Unseen Cell-Seen,Budget@5%,73.0
+Molecular MLP,2,External Both-Unseen Cell-Seen,Hits@5%,9.0
+Molecular MLP,2,External Both-Unseen Cell-Seen,Precision@5%,0.1232876712328767
+Molecular MLP,2,External Both-Unseen Cell-Seen,RandomExpectedHits,4.836438923395445
+Molecular MLP,2,External Both-Unseen Cell-Unseen,PCC,0.1021594515019205
+Molecular MLP,2,External Both-Unseen Cell-Unseen,Spearman,0.0818629819862811
+Molecular MLP,2,External Both-Unseen Cell-Unseen,C_index,0.5275234313264582
+Molecular MLP,2,External Both-Unseen Cell-Unseen,AUC,0.5325015604733214
+Molecular MLP,2,External Both-Unseen Cell-Unseen,AUPRC,0.4467459808009644
+Molecular MLP,2,External Both-Unseen Cell-Unseen,RMSE,16.78316933687692
+Molecular MLP,2,External Both-Unseen Cell-Unseen,strong_prevalence,0.0786749482401656
+Molecular MLP,2,External Both-Unseen Cell-Unseen,n_candidates,3864.0
+Molecular MLP,2,External Both-Unseen Cell-Unseen,EF@1%,2.2813765182186234
+Molecular MLP,2,External Both-Unseen Cell-Unseen,EF@5%,1.8345089527943568
+Molecular MLP,2,External Both-Unseen Cell-Unseen,P@10,0.3
+Molecular MLP,2,External Both-Unseen Cell-Unseen,NDCG@10,0.2832325164972662
+Molecular MLP,2,External Both-Unseen Cell-Unseen,P@50,0.16
+Molecular MLP,2,External Both-Unseen Cell-Unseen,NDCG@50,0.1836683913011747
+Molecular MLP,2,External Both-Unseen Cell-Unseen,CanonicalUnits,3864.0
+Molecular MLP,2,External Both-Unseen Cell-Unseen,TotalStrong,304.0
+Molecular MLP,2,External Both-Unseen Cell-Unseen,Budget@5%,194.0
+Molecular MLP,2,External Both-Unseen Cell-Unseen,Hits@5%,28.0
+Molecular MLP,2,External Both-Unseen Cell-Unseen,Precision@5%,0.1443298969072164
+Molecular MLP,2,External Both-Unseen Cell-Unseen,RandomExpectedHits,15.262939958592131
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,PCC,0.0845057490197053
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,Spearman,0.0594212877605355
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,C_index,0.5201884226107133
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,AUC,0.5160282307025508
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,AUPRC,0.4451709992637458
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,RMSE,16.545465868372265
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,strong_prevalence,0.0668911335578002
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,n_candidates,8910.0
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,EF@1%,0.9966442953020134
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,EF@5%,1.1731799440214283
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,P@10,0.1
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,NDCG@10,0.0783982689786753
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,P@50,0.06
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,NDCG@50,0.059475835039865
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,CanonicalUnits,8910.0
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,TotalStrong,596.0
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,Budget@5%,446.0
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,Hits@5%,35.0
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,Precision@5%,0.0784753363228699
+Molecular MLP,2,External Name-Only Both-Unseen Sensitivity,RandomExpectedHits,29.8334455667789
+Molecular MLP,3,External Overall,PCC,0.134199213914102
+Molecular MLP,3,External Overall,Spearman,0.0978630113782444
+Molecular MLP,3,External Overall,C_index,0.532624528036778
+Molecular MLP,3,External Overall,AUC,0.5311419566562143
+Molecular MLP,3,External Overall,AUPRC,0.4320573614743323
+Molecular MLP,3,External Overall,RMSE,16.970148505878335
+Molecular MLP,3,External Overall,strong_prevalence,0.0629194180490685
+Molecular MLP,3,External Overall,n_candidates,18627.0
+Molecular MLP,3,External Overall,EF@1%,0.7649203336314357
+Molecular MLP,3,External Overall,EF@5%,0.9038060832881688
+Molecular MLP,3,External Overall,P@10,0.0
+Molecular MLP,3,External Overall,NDCG@10,0.0
+Molecular MLP,3,External Overall,P@50,0.06
+Molecular MLP,3,External Overall,NDCG@50,0.0482621060994859
+Molecular MLP,3,External Overall,CanonicalUnits,18627.0
+Molecular MLP,3,External Overall,TotalStrong,1172.0
+Molecular MLP,3,External Overall,Budget@5%,932.0
+Molecular MLP,3,External Overall,Hits@5%,53.0
+Molecular MLP,3,External Overall,Precision@5%,0.0568669527896995
+Molecular MLP,3,External Overall,RandomExpectedHits,58.640897621731895
+Molecular MLP,3,External Nonoverlap,PCC,0.1282587218770676
+Molecular MLP,3,External Nonoverlap,Spearman,0.0931586467577997
+Molecular MLP,3,External Nonoverlap,C_index,0.5312783764755767
+Molecular MLP,3,External Nonoverlap,AUC,0.528366109922689
+Molecular MLP,3,External Nonoverlap,AUPRC,0.4329247400907901
+Molecular MLP,3,External Nonoverlap,RMSE,16.927208183666632
+Molecular MLP,3,External Nonoverlap,strong_prevalence,0.0638486714372885
+Molecular MLP,3,External Nonoverlap,n_candidates,18027.0
+Molecular MLP,3,External Nonoverlap,EF@1%,0.7787751222813696
+Molecular MLP,3,External Nonoverlap,EF@5%,0.8855473212342108
+Molecular MLP,3,External Nonoverlap,P@10,0.0
+Molecular MLP,3,External Nonoverlap,NDCG@10,0.0
+Molecular MLP,3,External Nonoverlap,P@50,0.06
+Molecular MLP,3,External Nonoverlap,NDCG@50,0.0482621060994859
+Molecular MLP,3,External Nonoverlap,CanonicalUnits,18027.0
+Molecular MLP,3,External Nonoverlap,TotalStrong,1151.0
+Molecular MLP,3,External Nonoverlap,Budget@5%,902.0
+Molecular MLP,3,External Nonoverlap,Hits@5%,51.0
+Molecular MLP,3,External Nonoverlap,Precision@5%,0.0565410199556541
+Molecular MLP,3,External Nonoverlap,RandomExpectedHits,57.59150163643424
+Molecular MLP,3,External Both-Seen,PCC,0.2694351493620567
+Molecular MLP,3,External Both-Seen,Spearman,0.1845848596460471
+Molecular MLP,3,External Both-Seen,C_index,0.561556450669118
+Molecular MLP,3,External Both-Seen,AUC,0.5698615011172209
+Molecular MLP,3,External Both-Seen,AUPRC,0.4368063982410052
+Molecular MLP,3,External Both-Seen,RMSE,17.895812191436693
+Molecular MLP,3,External Both-Seen,strong_prevalence,0.0424881977228547
+Molecular MLP,3,External Both-Seen,n_candidates,3601.0
+Molecular MLP,3,External Both-Seen,EF@1%,1.2722133898604489
+Molecular MLP,3,External Both-Seen,EF@5%,1.040262882316831
+Molecular MLP,3,External Both-Seen,P@10,0.1
+Molecular MLP,3,External Both-Seen,NDCG@10,0.2200917662980802
+Molecular MLP,3,External Both-Seen,P@50,0.04
+Molecular MLP,3,External Both-Seen,NDCG@50,0.0954724556341184
+Molecular MLP,3,External Both-Seen,CanonicalUnits,3601.0
+Molecular MLP,3,External Both-Seen,TotalStrong,153.0
+Molecular MLP,3,External Both-Seen,Budget@5%,181.0
+Molecular MLP,3,External Both-Seen,Hits@5%,8.0
+Molecular MLP,3,External Both-Seen,Precision@5%,0.0441988950276243
+Molecular MLP,3,External Both-Seen,RandomExpectedHits,7.690363787836712
+Molecular MLP,3,External One-Unseen,PCC,0.088956668970635
+Molecular MLP,3,External One-Unseen,Spearman,0.0710713290998915
+Molecular MLP,3,External One-Unseen,C_index,0.5242588578272164
+Molecular MLP,3,External One-Unseen,AUC,0.5190750058717459
+Molecular MLP,3,External One-Unseen,AUPRC,0.4391654666620612
+Molecular MLP,3,External One-Unseen,RMSE,17.15297839695162
+Molecular MLP,3,External One-Unseen,strong_prevalence,0.0625061425061425
+Molecular MLP,3,External One-Unseen,n_candidates,10175.0
+Molecular MLP,3,External One-Unseen,EF@1%,0.6273893205080775
+Molecular MLP,3,External One-Unseen,EF@5%,0.9115017731153698
+Molecular MLP,3,External One-Unseen,P@10,0.0
+Molecular MLP,3,External One-Unseen,NDCG@10,0.0
+Molecular MLP,3,External One-Unseen,P@50,0.04
+Molecular MLP,3,External One-Unseen,NDCG@50,0.0311565680473372
+Molecular MLP,3,External One-Unseen,CanonicalUnits,10175.0
+Molecular MLP,3,External One-Unseen,TotalStrong,636.0
+Molecular MLP,3,External One-Unseen,Budget@5%,509.0
+Molecular MLP,3,External One-Unseen,Hits@5%,29.0
+Molecular MLP,3,External One-Unseen,Precision@5%,0.0569744597249508
+Molecular MLP,3,External One-Unseen,RandomExpectedHits,31.81562653562653
+Molecular MLP,3,External Both-Unseen,PCC,0.0770576008635467
+Molecular MLP,3,External Both-Unseen,Spearman,0.0909176189152197
+Molecular MLP,3,External Both-Unseen,C_index,0.529871067730825
+Molecular MLP,3,External Both-Unseen,AUC,0.5260558878590018
+Molecular MLP,3,External Both-Unseen,AUPRC,0.4188092239447376
+Molecular MLP,3,External Both-Unseen,RMSE,15.841161141394547
+Molecular MLP,3,External Both-Unseen,strong_prevalence,0.0789527932385075
+Molecular MLP,3,External Both-Unseen,n_candidates,4851.0
+Molecular MLP,3,External Both-Unseen,EF@1%,1.033942558746736
+Molecular MLP,3,External Both-Unseen,EF@5%,0.8860845179383038
+Molecular MLP,3,External Both-Unseen,P@10,0.0
+Molecular MLP,3,External Both-Unseen,NDCG@10,0.0
+Molecular MLP,3,External Both-Unseen,P@50,0.08
+Molecular MLP,3,External Both-Unseen,NDCG@50,0.0636369404827028
+Molecular MLP,3,External Both-Unseen,CanonicalUnits,4851.0
+Molecular MLP,3,External Both-Unseen,TotalStrong,383.0
+Molecular MLP,3,External Both-Unseen,Budget@5%,243.0
+Molecular MLP,3,External Both-Unseen,Hits@5%,17.0
+Molecular MLP,3,External Both-Unseen,Precision@5%,0.0699588477366255
+Molecular MLP,3,External Both-Unseen,RandomExpectedHits,19.18552875695733
+Molecular MLP,3,External Global-Drug-Unseen,PCC,0.1171938958609967
+Molecular MLP,3,External Global-Drug-Unseen,Spearman,0.1260301313796363
+Molecular MLP,3,External Global-Drug-Unseen,C_index,0.5410813935925789
+Molecular MLP,3,External Global-Drug-Unseen,AUC,0.5446887336774977
+Molecular MLP,3,External Global-Drug-Unseen,AUPRC,0.4470068748998566
+Molecular MLP,3,External Global-Drug-Unseen,RMSE,16.42696699826453
+Molecular MLP,3,External Global-Drug-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,3,External Global-Drug-Unseen,n_candidates,3927.0
+Molecular MLP,3,External Global-Drug-Unseen,EF@1%,0.8047131147540982
+Molecular MLP,3,External Global-Drug-Unseen,EF@5%,0.6535741033535825
+Molecular MLP,3,External Global-Drug-Unseen,P@10,0.0
+Molecular MLP,3,External Global-Drug-Unseen,NDCG@10,0.0
+Molecular MLP,3,External Global-Drug-Unseen,P@50,0.08
+Molecular MLP,3,External Global-Drug-Unseen,NDCG@50,0.0639477221406846
+Molecular MLP,3,External Global-Drug-Unseen,CanonicalUnits,3927.0
+Molecular MLP,3,External Global-Drug-Unseen,TotalStrong,366.0
+Molecular MLP,3,External Global-Drug-Unseen,Budget@5%,197.0
+Molecular MLP,3,External Global-Drug-Unseen,Hits@5%,12.0
+Molecular MLP,3,External Global-Drug-Unseen,Precision@5%,0.0609137055837563
+Molecular MLP,3,External Global-Drug-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,3,External Both-Unseen Cell-Seen,PCC,0.0829651502605973
+Molecular MLP,3,External Both-Unseen Cell-Seen,Spearman,0.1101610799094438
+Molecular MLP,3,External Both-Unseen Cell-Seen,C_index,0.5363515047975822
+Molecular MLP,3,External Both-Unseen Cell-Seen,AUC,0.53914202098551
+Molecular MLP,3,External Both-Unseen Cell-Seen,AUPRC,0.4122879031452472
+Molecular MLP,3,External Both-Unseen Cell-Seen,RMSE,16.463317587161868
+Molecular MLP,3,External Both-Unseen Cell-Seen,strong_prevalence,0.0687830687830687
+Molecular MLP,3,External Both-Unseen Cell-Seen,n_candidates,1323.0
+Molecular MLP,3,External Both-Unseen Cell-Seen,EF@1%,1.0384615384615383
+Molecular MLP,3,External Both-Unseen Cell-Seen,EF@5%,0.6509758897818599
+Molecular MLP,3,External Both-Unseen Cell-Seen,P@10,0.0
+Molecular MLP,3,External Both-Unseen Cell-Seen,NDCG@10,0.0
+Molecular MLP,3,External Both-Unseen Cell-Seen,P@50,0.04
+Molecular MLP,3,External Both-Unseen Cell-Seen,NDCG@50,0.0383386747170919
+Molecular MLP,3,External Both-Unseen Cell-Seen,CanonicalUnits,1323.0
+Molecular MLP,3,External Both-Unseen Cell-Seen,TotalStrong,91.0
+Molecular MLP,3,External Both-Unseen Cell-Seen,Budget@5%,67.0
+Molecular MLP,3,External Both-Unseen Cell-Seen,Hits@5%,3.0
+Molecular MLP,3,External Both-Unseen Cell-Seen,Precision@5%,0.044776119402985
+Molecular MLP,3,External Both-Unseen Cell-Seen,RandomExpectedHits,4.608465608465608
+Molecular MLP,3,External Both-Unseen Cell-Unseen,PCC,0.0752239528053319
+Molecular MLP,3,External Both-Unseen Cell-Unseen,Spearman,0.0834880186872929
+Molecular MLP,3,External Both-Unseen Cell-Unseen,C_index,0.5281823274051254
+Molecular MLP,3,External Both-Unseen Cell-Unseen,AUC,0.5211787725832125
+Molecular MLP,3,External Both-Unseen Cell-Unseen,AUPRC,0.4223092014414194
+Molecular MLP,3,External Both-Unseen Cell-Unseen,RMSE,15.601457349622242
+Molecular MLP,3,External Both-Unseen Cell-Unseen,strong_prevalence,0.082766439909297
+Molecular MLP,3,External Both-Unseen Cell-Unseen,n_candidates,3528.0
+Molecular MLP,3,External Both-Unseen Cell-Unseen,EF@1%,1.0068493150684932
+Molecular MLP,3,External Both-Unseen Cell-Unseen,EF@5%,0.8873926166705364
+Molecular MLP,3,External Both-Unseen Cell-Unseen,P@10,0.1
+Molecular MLP,3,External Both-Unseen Cell-Unseen,NDCG@10,0.0636207881989517
+Molecular MLP,3,External Both-Unseen Cell-Unseen,P@50,0.08
+Molecular MLP,3,External Both-Unseen Cell-Unseen,NDCG@50,0.0681464272233496
+Molecular MLP,3,External Both-Unseen Cell-Unseen,CanonicalUnits,3528.0
+Molecular MLP,3,External Both-Unseen Cell-Unseen,TotalStrong,292.0
+Molecular MLP,3,External Both-Unseen Cell-Unseen,Budget@5%,177.0
+Molecular MLP,3,External Both-Unseen Cell-Unseen,Hits@5%,13.0
+Molecular MLP,3,External Both-Unseen Cell-Unseen,Precision@5%,0.0734463276836158
+Molecular MLP,3,External Both-Unseen Cell-Unseen,RandomExpectedHits,14.649659863945578
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,PCC,0.0471951018367555
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,Spearman,0.055011991570867
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,C_index,0.5183982077849342
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,AUC,0.5088365412805655
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,AUPRC,0.4329911569647326
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,RMSE,15.952892485684556
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,strong_prevalence,0.0649831649831649
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,n_candidates,8910.0
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,EF@1%,1.0259067357512952
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,EF@5%,0.8970933339529263
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,P@10,0.1
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,NDCG@10,0.085143117641621
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,P@50,0.04
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,NDCG@50,0.0457947042304209
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,CanonicalUnits,8910.0
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,TotalStrong,579.0
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,Budget@5%,446.0
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,Hits@5%,26.0
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,Precision@5%,0.0582959641255605
+Molecular MLP,3,External Name-Only Both-Unseen Sensitivity,RandomExpectedHits,28.982491582491583
+Molecular MLP,4,External Overall,PCC,0.14016898036769
+Molecular MLP,4,External Overall,Spearman,0.1392464891890541
+Molecular MLP,4,External Overall,C_index,0.5465450367045004
+Molecular MLP,4,External Overall,AUC,0.566273622933049
+Molecular MLP,4,External Overall,AUPRC,0.4645631834443481
+Molecular MLP,4,External Overall,RMSE,17.052814852718654
+Molecular MLP,4,External Overall,strong_prevalence,0.0629194180490685
+Molecular MLP,4,External Overall,n_candidates,18627.0
+Molecular MLP,4,External Overall,EF@1%,1.189876074537789
+Molecular MLP,4,External Overall,EF@5%,1.1084414229005843
+Molecular MLP,4,External Overall,P@10,0.0
+Molecular MLP,4,External Overall,NDCG@10,0.0
+Molecular MLP,4,External Overall,P@50,0.08
+Molecular MLP,4,External Overall,NDCG@50,0.0677713522142414
+Molecular MLP,4,External Overall,CanonicalUnits,18627.0
+Molecular MLP,4,External Overall,TotalStrong,1172.0
+Molecular MLP,4,External Overall,Budget@5%,932.0
+Molecular MLP,4,External Overall,Hits@5%,65.0
+Molecular MLP,4,External Overall,Precision@5%,0.0697424892703862
+Molecular MLP,4,External Overall,RandomExpectedHits,58.640897621731895
+Molecular MLP,4,External Nonoverlap,PCC,0.1362962247730461
+Molecular MLP,4,External Nonoverlap,Spearman,0.1379773026245261
+Molecular MLP,4,External Nonoverlap,C_index,0.5460236631121663
+Molecular MLP,4,External Nonoverlap,AUC,0.5652572611358515
+Molecular MLP,4,External Nonoverlap,AUPRC,0.4665500348695593
+Molecular MLP,4,External Nonoverlap,RMSE,17.007674942775186
+Molecular MLP,4,External Nonoverlap,strong_prevalence,0.0639124882003442
+Molecular MLP,4,External Nonoverlap,n_candidates,18009.0
+Molecular MLP,4,External Nonoverlap,EF@1%,1.2102183544455698
+Molecular MLP,4,External Nonoverlap,EF@5%,1.1634943700936595
+Molecular MLP,4,External Nonoverlap,P@10,0.0
+Molecular MLP,4,External Nonoverlap,NDCG@10,0.0
+Molecular MLP,4,External Nonoverlap,P@50,0.1
+Molecular MLP,4,External Nonoverlap,NDCG@50,0.0828975219428449
+Molecular MLP,4,External Nonoverlap,CanonicalUnits,18009.0
+Molecular MLP,4,External Nonoverlap,TotalStrong,1151.0
+Molecular MLP,4,External Nonoverlap,Budget@5%,901.0
+Molecular MLP,4,External Nonoverlap,Hits@5%,67.0
+Molecular MLP,4,External Nonoverlap,Precision@5%,0.074361820199778
+Molecular MLP,4,External Nonoverlap,RandomExpectedHits,57.58515186851019
+Molecular MLP,4,External Both-Seen,PCC,0.2510725920945869
+Molecular MLP,4,External Both-Seen,Spearman,0.2133896589642173
+Molecular MLP,4,External Both-Seen,C_index,0.5716384147448474
+Molecular MLP,4,External Both-Seen,AUC,0.5981960777649378
+Molecular MLP,4,External Both-Seen,AUPRC,0.4542068649173281
+Molecular MLP,4,External Both-Seen,RMSE,18.19400412783616
+Molecular MLP,4,External Both-Seen,strong_prevalence,0.0409181636726546
+Molecular MLP,4,External Both-Seen,n_candidates,4008.0
+Molecular MLP,4,External Both-Seen,EF@1%,1.19214753123141
+Molecular MLP,4,External Both-Seen,EF@5%,1.3374590462322535
+Molecular MLP,4,External Both-Seen,P@10,0.1
+Molecular MLP,4,External Both-Seen,NDCG@10,0.07336392209936
+Molecular MLP,4,External Both-Seen,P@50,0.06
+Molecular MLP,4,External Both-Seen,NDCG@50,0.0574546647706294
+Molecular MLP,4,External Both-Seen,CanonicalUnits,4008.0
+Molecular MLP,4,External Both-Seen,TotalStrong,164.0
+Molecular MLP,4,External Both-Seen,Budget@5%,201.0
+Molecular MLP,4,External Both-Seen,Hits@5%,11.0
+Molecular MLP,4,External Both-Seen,Precision@5%,0.0547263681592039
+Molecular MLP,4,External Both-Seen,RandomExpectedHits,8.224550898203592
+Molecular MLP,4,External One-Unseen,PCC,0.0845471885959853
+Molecular MLP,4,External One-Unseen,Spearman,0.1095313385555862
+Molecular MLP,4,External One-Unseen,C_index,0.5368552168449561
+Molecular MLP,4,External One-Unseen,AUC,0.5518630696605851
+Molecular MLP,4,External One-Unseen,AUPRC,0.4619908045414636
+Molecular MLP,4,External One-Unseen,RMSE,16.842987973254587
+Molecular MLP,4,External One-Unseen,strong_prevalence,0.0600448933782267
+Molecular MLP,4,External One-Unseen,n_candidates,10692.0
+Molecular MLP,4,External One-Unseen,EF@1%,1.0895274696480042
+Molecular MLP,4,External One-Unseen,EF@5%,1.0272687570966896
+Molecular MLP,4,External One-Unseen,P@10,0.1
+Molecular MLP,4,External One-Unseen,NDCG@10,0.0636207881989517
+Molecular MLP,4,External One-Unseen,P@50,0.1
+Molecular MLP,4,External One-Unseen,NDCG@50,0.0855103931175939
+Molecular MLP,4,External One-Unseen,CanonicalUnits,10692.0
+Molecular MLP,4,External One-Unseen,TotalStrong,642.0
+Molecular MLP,4,External One-Unseen,Budget@5%,535.0
+Molecular MLP,4,External One-Unseen,Hits@5%,33.0
+Molecular MLP,4,External One-Unseen,Precision@5%,0.0616822429906542
+Molecular MLP,4,External One-Unseen,RandomExpectedHits,32.12401795735129
+Molecular MLP,4,External Both-Unseen,PCC,0.1329125350365839
+Molecular MLP,4,External Both-Unseen,Spearman,0.1363489227812929
+Molecular MLP,4,External Both-Unseen,C_index,0.5451379198937332
+Molecular MLP,4,External Both-Unseen,AUC,0.5651822706927738
+Molecular MLP,4,External Both-Unseen,AUPRC,0.4873136543040092
+Molecular MLP,4,External Both-Unseen,RMSE,16.4045721194237
+Molecular MLP,4,External Both-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,4,External Both-Unseen,n_candidates,3927.0
+Molecular MLP,4,External Both-Unseen,EF@1%,1.6094262295081965
+Molecular MLP,4,External Both-Unseen,EF@5%,1.6883997669967543
+Molecular MLP,4,External Both-Unseen,P@10,0.1
+Molecular MLP,4,External Both-Unseen,NDCG@10,0.1100458831490401
+Molecular MLP,4,External Both-Unseen,P@50,0.14
+Molecular MLP,4,External Both-Unseen,NDCG@50,0.1437738051686078
+Molecular MLP,4,External Both-Unseen,CanonicalUnits,3927.0
+Molecular MLP,4,External Both-Unseen,TotalStrong,366.0
+Molecular MLP,4,External Both-Unseen,Budget@5%,197.0
+Molecular MLP,4,External Both-Unseen,Hits@5%,31.0
+Molecular MLP,4,External Both-Unseen,Precision@5%,0.1573604060913705
+Molecular MLP,4,External Both-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,4,External Global-Drug-Unseen,PCC,0.1329125350365839
+Molecular MLP,4,External Global-Drug-Unseen,Spearman,0.1363489227812929
+Molecular MLP,4,External Global-Drug-Unseen,C_index,0.5451379198937332
+Molecular MLP,4,External Global-Drug-Unseen,AUC,0.5651822706927738
+Molecular MLP,4,External Global-Drug-Unseen,AUPRC,0.4873136543040092
+Molecular MLP,4,External Global-Drug-Unseen,RMSE,16.4045721194237
+Molecular MLP,4,External Global-Drug-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,4,External Global-Drug-Unseen,n_candidates,3927.0
+Molecular MLP,4,External Global-Drug-Unseen,EF@1%,1.6094262295081965
+Molecular MLP,4,External Global-Drug-Unseen,EF@5%,1.6883997669967543
+Molecular MLP,4,External Global-Drug-Unseen,P@10,0.1
+Molecular MLP,4,External Global-Drug-Unseen,NDCG@10,0.1100458831490401
+Molecular MLP,4,External Global-Drug-Unseen,P@50,0.14
+Molecular MLP,4,External Global-Drug-Unseen,NDCG@50,0.1437738051686078
+Molecular MLP,4,External Global-Drug-Unseen,CanonicalUnits,3927.0
+Molecular MLP,4,External Global-Drug-Unseen,TotalStrong,366.0
+Molecular MLP,4,External Global-Drug-Unseen,Budget@5%,197.0
+Molecular MLP,4,External Global-Drug-Unseen,Hits@5%,31.0
+Molecular MLP,4,External Global-Drug-Unseen,Precision@5%,0.1573604060913705
+Molecular MLP,4,External Global-Drug-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,4,External Both-Unseen Cell-Seen,PCC,0.1303969770152147
+Molecular MLP,4,External Both-Unseen Cell-Seen,Spearman,0.1685651984325603
+Molecular MLP,4,External Both-Unseen Cell-Seen,C_index,0.5561576655584353
+Molecular MLP,4,External Both-Unseen Cell-Seen,AUC,0.5866618834080718
+Molecular MLP,4,External Both-Unseen Cell-Seen,AUPRC,0.4911411309943542
+Molecular MLP,4,External Both-Unseen Cell-Seen,RMSE,17.090433984021896
+Molecular MLP,4,External Both-Unseen Cell-Seen,strong_prevalence,0.0802987861811391
+Molecular MLP,4,External Both-Unseen Cell-Seen,n_candidates,1071.0
+Molecular MLP,4,External Both-Unseen Cell-Seen,EF@1%,2.2642706131078225
+Molecular MLP,4,External Both-Unseen Cell-Seen,EF@5%,1.8449612403100768
+Molecular MLP,4,External Both-Unseen Cell-Seen,P@10,0.2
+Molecular MLP,4,External Both-Unseen Cell-Seen,NDCG@10,0.2122263659729146
+Molecular MLP,4,External Both-Unseen Cell-Seen,P@50,0.14
+Molecular MLP,4,External Both-Unseen Cell-Seen,NDCG@50,0.1480340478157921
+Molecular MLP,4,External Both-Unseen Cell-Seen,CanonicalUnits,1071.0
+Molecular MLP,4,External Both-Unseen Cell-Seen,TotalStrong,86.0
+Molecular MLP,4,External Both-Unseen Cell-Seen,Budget@5%,54.0
+Molecular MLP,4,External Both-Unseen Cell-Seen,Hits@5%,8.0
+Molecular MLP,4,External Both-Unseen Cell-Seen,Precision@5%,0.1481481481481481
+Molecular MLP,4,External Both-Unseen Cell-Seen,RandomExpectedHits,4.336134453781512
+Molecular MLP,4,External Both-Unseen Cell-Unseen,PCC,0.1383884614101221
+Molecular MLP,4,External Both-Unseen Cell-Unseen,Spearman,0.1275959527862042
+Molecular MLP,4,External Both-Unseen Cell-Unseen,C_index,0.543168529772176
+Molecular MLP,4,External Both-Unseen Cell-Unseen,AUC,0.5586624203821655
+Molecular MLP,4,External Both-Unseen Cell-Unseen,AUPRC,0.4878202996615224
+Molecular MLP,4,External Both-Unseen Cell-Unseen,RMSE,16.139861559770566
+Molecular MLP,4,External Both-Unseen Cell-Unseen,strong_prevalence,0.0980392156862745
+Molecular MLP,4,External Both-Unseen Cell-Unseen,n_candidates,2856.0
+Molecular MLP,4,External Both-Unseen Cell-Unseen,EF@1%,1.406896551724138
+Molecular MLP,4,External Both-Unseen Cell-Unseen,EF@5%,1.711888111888112
+Molecular MLP,4,External Both-Unseen Cell-Unseen,P@10,0.2
+Molecular MLP,4,External Both-Unseen Cell-Unseen,NDCG@10,0.133052010135729
+Molecular MLP,4,External Both-Unseen Cell-Unseen,P@50,0.16
+Molecular MLP,4,External Both-Unseen Cell-Unseen,NDCG@50,0.1443833273775287
+Molecular MLP,4,External Both-Unseen Cell-Unseen,CanonicalUnits,2856.0
+Molecular MLP,4,External Both-Unseen Cell-Unseen,TotalStrong,280.0
+Molecular MLP,4,External Both-Unseen Cell-Unseen,Budget@5%,143.0
+Molecular MLP,4,External Both-Unseen Cell-Unseen,Hits@5%,24.0
+Molecular MLP,4,External Both-Unseen Cell-Unseen,Precision@5%,0.1678321678321678
+Molecular MLP,4,External Both-Unseen Cell-Unseen,RandomExpectedHits,14.019607843137257
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,PCC,0.0754629803438612
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,Spearman,0.0790843005254285
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,C_index,0.5263233430645692
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,AUC,0.5296014621646075
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,AUPRC,0.4667223976407569
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,RMSE,16.139463942477065
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,strong_prevalence,0.0707070707070707
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,n_candidates,7920.0
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,EF@1%,1.2375
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,EF@5%,1.2857142857142858
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,P@10,0.2
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,NDCG@10,0.1427951440361373
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,P@50,0.06
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,NDCG@50,0.0658098775760925
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,CanonicalUnits,7920.0
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,TotalStrong,560.0
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,Budget@5%,396.0
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,Hits@5%,36.0
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,Precision@5%,0.0909090909090909
+Molecular MLP,4,External Name-Only Both-Unseen Sensitivity,RandomExpectedHits,28.0
+Molecular MLP,5,External Overall,PCC,0.2214050206839098
+Molecular MLP,5,External Overall,Spearman,0.1637743943011041
+Molecular MLP,5,External Overall,C_index,0.5547427334789746
+Molecular MLP,5,External Overall,AUC,0.5665534590373562
+Molecular MLP,5,External Overall,AUPRC,0.46218073974473
+Molecular MLP,5,External Overall,RMSE,15.79087622409318
+Molecular MLP,5,External Overall,strong_prevalence,0.0629194180490685
+Molecular MLP,5,External Overall,n_candidates,18627.0
+Molecular MLP,5,External Overall,EF@1%,0.8499114818127064
+Molecular MLP,5,External Overall,EF@5%,0.972017863158974
+Molecular MLP,5,External Overall,P@10,0.2
+Molecular MLP,5,External Overall,NDCG@10,0.1487639058405727
+Molecular MLP,5,External Overall,P@50,0.06
+Molecular MLP,5,External Overall,NDCG@50,0.0695457398399999
+Molecular MLP,5,External Overall,CanonicalUnits,18627.0
+Molecular MLP,5,External Overall,TotalStrong,1172.0
+Molecular MLP,5,External Overall,Budget@5%,932.0
+Molecular MLP,5,External Overall,Hits@5%,57.0
+Molecular MLP,5,External Overall,Precision@5%,0.0611587982832618
+Molecular MLP,5,External Overall,RandomExpectedHits,58.640897621731895
+Molecular MLP,5,External Nonoverlap,PCC,0.2200389392280659
+Molecular MLP,5,External Nonoverlap,Spearman,0.1632727288533144
+Molecular MLP,5,External Nonoverlap,C_index,0.5544342116184855
+Molecular MLP,5,External Nonoverlap,AUC,0.5650225911524903
+Molecular MLP,5,External Nonoverlap,AUPRC,0.4634935232429742
+Molecular MLP,5,External Nonoverlap,RMSE,15.743840347501829
+Molecular MLP,5,External Nonoverlap,strong_prevalence,0.0636093043765847
+Molecular MLP,5,External Nonoverlap,n_candidates,18142.0
+Molecular MLP,5,External Nonoverlap,EF@1%,0.8637895899594339
+Molecular MLP,5,External Nonoverlap,EF@5%,1.004202963833897
+Molecular MLP,5,External Nonoverlap,P@10,0.2
+Molecular MLP,5,External Nonoverlap,NDCG@10,0.1487639058405727
+Molecular MLP,5,External Nonoverlap,P@50,0.06
+Molecular MLP,5,External Nonoverlap,NDCG@50,0.0695457398399999
+Molecular MLP,5,External Nonoverlap,CanonicalUnits,18142.0
+Molecular MLP,5,External Nonoverlap,TotalStrong,1154.0
+Molecular MLP,5,External Nonoverlap,Budget@5%,908.0
+Molecular MLP,5,External Nonoverlap,Hits@5%,58.0
+Molecular MLP,5,External Nonoverlap,Precision@5%,0.0638766519823788
+Molecular MLP,5,External Nonoverlap,RandomExpectedHits,57.75724837393893
+Molecular MLP,5,External Both-Seen,PCC,0.3099971249098952
+Molecular MLP,5,External Both-Seen,Spearman,0.2387017159736244
+Molecular MLP,5,External Both-Seen,C_index,0.5807423360413246
+Molecular MLP,5,External Both-Seen,AUC,0.6114448898329635
+Molecular MLP,5,External Both-Seen,AUPRC,0.431322410891412
+Molecular MLP,5,External Both-Seen,RMSE,17.269352287648715
+Molecular MLP,5,External Both-Seen,strong_prevalence,0.0353235386058143
+Molecular MLP,5,External Both-Seen,n_candidates,3199.0
+Molecular MLP,5,External Both-Seen,EF@1%,0.0
+Molecular MLP,5,External Both-Seen,EF@5%,1.238550884955752
+Molecular MLP,5,External Both-Seen,P@10,0.0
+Molecular MLP,5,External Both-Seen,NDCG@10,0.0
+Molecular MLP,5,External Both-Seen,P@50,0.0
+Molecular MLP,5,External Both-Seen,NDCG@50,0.0
+Molecular MLP,5,External Both-Seen,CanonicalUnits,3199.0
+Molecular MLP,5,External Both-Seen,TotalStrong,113.0
+Molecular MLP,5,External Both-Seen,Budget@5%,160.0
+Molecular MLP,5,External Both-Seen,Hits@5%,7.0
+Molecular MLP,5,External Both-Seen,Precision@5%,0.04375
+Molecular MLP,5,External Both-Seen,RandomExpectedHits,5.651766176930291
+Molecular MLP,5,External One-Unseen,PCC,0.2003844322148876
+Molecular MLP,5,External One-Unseen,Spearman,0.1375379202498146
+Molecular MLP,5,External One-Unseen,C_index,0.546596920424378
+Molecular MLP,5,External One-Unseen,AUC,0.5483406778374229
+Molecular MLP,5,External One-Unseen,AUPRC,0.4436709941531864
+Molecular MLP,5,External One-Unseen,RMSE,15.455162293917072
+Molecular MLP,5,External One-Unseen,strong_prevalence,0.0589807215117388
+Molecular MLP,5,External One-Unseen,n_candidates,10478.0
+Molecular MLP,5,External One-Unseen,EF@1%,1.1303128371089537
+Molecular MLP,5,External One-Unseen,EF@5%,0.9383322216457916
+Molecular MLP,5,External One-Unseen,P@10,0.2
+Molecular MLP,5,External One-Unseen,NDCG@10,0.1884441521277154
+Molecular MLP,5,External One-Unseen,P@50,0.06
+Molecular MLP,5,External One-Unseen,NDCG@50,0.085767569593674
+Molecular MLP,5,External One-Unseen,CanonicalUnits,10478.0
+Molecular MLP,5,External One-Unseen,TotalStrong,618.0
+Molecular MLP,5,External One-Unseen,Budget@5%,524.0
+Molecular MLP,5,External One-Unseen,Hits@5%,29.0
+Molecular MLP,5,External One-Unseen,Precision@5%,0.0553435114503816
+Molecular MLP,5,External One-Unseen,RandomExpectedHits,30.90589807215117
+Molecular MLP,5,External Both-Unseen,PCC,0.1649528048547912
+Molecular MLP,5,External Both-Unseen,Spearman,0.1470431911343198
+Molecular MLP,5,External Both-Unseen,C_index,0.5488705485449833
+Molecular MLP,5,External Both-Unseen,AUC,0.5575955836246573
+Molecular MLP,5,External Both-Unseen,AUPRC,0.5150634051353575
+Molecular MLP,5,External Both-Unseen,RMSE,15.490887018128408
+Molecular MLP,5,External Both-Unseen,strong_prevalence,0.0890909090909091
+Molecular MLP,5,External Both-Unseen,n_candidates,4950.0
+Molecular MLP,5,External Both-Unseen,EF@1%,0.673469387755102
+Molecular MLP,5,External Both-Unseen,EF@5%,0.9504608294930874
+Molecular MLP,5,External Both-Unseen,P@10,0.0
+Molecular MLP,5,External Both-Unseen,NDCG@10,0.0
+Molecular MLP,5,External Both-Unseen,P@50,0.06
+Molecular MLP,5,External Both-Unseen,NDCG@50,0.0490465930253458
+Molecular MLP,5,External Both-Unseen,CanonicalUnits,4950.0
+Molecular MLP,5,External Both-Unseen,TotalStrong,441.0
+Molecular MLP,5,External Both-Unseen,Budget@5%,248.0
+Molecular MLP,5,External Both-Unseen,Hits@5%,21.0
+Molecular MLP,5,External Both-Unseen,Precision@5%,0.0846774193548387
+Molecular MLP,5,External Both-Unseen,RandomExpectedHits,22.09454545454545
+Molecular MLP,5,External Global-Drug-Unseen,PCC,0.1619659881352181
+Molecular MLP,5,External Global-Drug-Unseen,Spearman,0.1426175334419361
+Molecular MLP,5,External Global-Drug-Unseen,C_index,0.5475615330678661
+Molecular MLP,5,External Global-Drug-Unseen,AUC,0.5501572505578368
+Molecular MLP,5,External Global-Drug-Unseen,AUPRC,0.462063835460784
+Molecular MLP,5,External Global-Drug-Unseen,RMSE,16.045072584077708
+Molecular MLP,5,External Global-Drug-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,5,External Global-Drug-Unseen,n_candidates,3927.0
+Molecular MLP,5,External Global-Drug-Unseen,EF@1%,0.8047131147540982
+Molecular MLP,5,External Global-Drug-Unseen,EF@5%,1.143754680868769
+Molecular MLP,5,External Global-Drug-Unseen,P@10,0.0
+Molecular MLP,5,External Global-Drug-Unseen,NDCG@10,0.0
+Molecular MLP,5,External Global-Drug-Unseen,P@50,0.08
+Molecular MLP,5,External Global-Drug-Unseen,NDCG@50,0.0666267216987772
+Molecular MLP,5,External Global-Drug-Unseen,CanonicalUnits,3927.0
+Molecular MLP,5,External Global-Drug-Unseen,TotalStrong,366.0
+Molecular MLP,5,External Global-Drug-Unseen,Budget@5%,197.0
+Molecular MLP,5,External Global-Drug-Unseen,Hits@5%,21.0
+Molecular MLP,5,External Global-Drug-Unseen,Precision@5%,0.1065989847715736
+Molecular MLP,5,External Global-Drug-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,5,External Both-Unseen Cell-Seen,PCC,0.2058047399520131
+Molecular MLP,5,External Both-Unseen Cell-Seen,Spearman,0.1980265485285131
+Molecular MLP,5,External Both-Unseen Cell-Seen,C_index,0.5661345852895149
+Molecular MLP,5,External Both-Unseen Cell-Seen,AUC,0.5810188904958309
+Molecular MLP,5,External Both-Unseen Cell-Seen,AUPRC,0.4957874302339535
+Molecular MLP,5,External Both-Unseen Cell-Seen,RMSE,16.036930905235682
+Molecular MLP,5,External Both-Unseen Cell-Seen,strong_prevalence,0.0718518518518518
+Molecular MLP,5,External Both-Unseen Cell-Seen,n_candidates,1350.0
+Molecular MLP,5,External Both-Unseen Cell-Seen,EF@1%,0.0
+Molecular MLP,5,External Both-Unseen Cell-Seen,EF@5%,1.0233474833232263
+Molecular MLP,5,External Both-Unseen Cell-Seen,P@10,0.0
+Molecular MLP,5,External Both-Unseen Cell-Seen,NDCG@10,0.0
+Molecular MLP,5,External Both-Unseen Cell-Seen,P@50,0.06
+Molecular MLP,5,External Both-Unseen Cell-Seen,NDCG@50,0.0457605443718155
+Molecular MLP,5,External Both-Unseen Cell-Seen,CanonicalUnits,1350.0
+Molecular MLP,5,External Both-Unseen Cell-Seen,TotalStrong,97.0
+Molecular MLP,5,External Both-Unseen Cell-Seen,Budget@5%,68.0
+Molecular MLP,5,External Both-Unseen Cell-Seen,Hits@5%,5.0
+Molecular MLP,5,External Both-Unseen Cell-Seen,Precision@5%,0.0735294117647058
+Molecular MLP,5,External Both-Unseen Cell-Seen,RandomExpectedHits,4.885925925925926
+Molecular MLP,5,External Both-Unseen Cell-Unseen,PCC,0.1435690708646071
+Molecular MLP,5,External Both-Unseen Cell-Unseen,Spearman,0.1246963412911719
+Molecular MLP,5,External Both-Unseen Cell-Unseen,C_index,0.5421810576097851
+Molecular MLP,5,External Both-Unseen Cell-Unseen,AUC,0.5478149091515025
+Molecular MLP,5,External Both-Unseen Cell-Unseen,AUPRC,0.522269242766792
+Molecular MLP,5,External Both-Unseen Cell-Unseen,RMSE,15.281090962831732
+Molecular MLP,5,External Both-Unseen Cell-Unseen,strong_prevalence,0.0955555555555555
+Molecular MLP,5,External Both-Unseen Cell-Unseen,n_candidates,3600.0
+Molecular MLP,5,External Both-Unseen Cell-Unseen,EF@1%,0.8720930232558138
+Molecular MLP,5,External Both-Unseen Cell-Unseen,EF@5%,0.9883720930232558
+Molecular MLP,5,External Both-Unseen Cell-Unseen,P@10,0.0
+Molecular MLP,5,External Both-Unseen Cell-Unseen,NDCG@10,0.0
+Molecular MLP,5,External Both-Unseen Cell-Unseen,P@50,0.08
+Molecular MLP,5,External Both-Unseen Cell-Unseen,NDCG@50,0.066750492306475
+Molecular MLP,5,External Both-Unseen Cell-Unseen,CanonicalUnits,3600.0
+Molecular MLP,5,External Both-Unseen Cell-Unseen,TotalStrong,344.0
+Molecular MLP,5,External Both-Unseen Cell-Unseen,Budget@5%,180.0
+Molecular MLP,5,External Both-Unseen Cell-Unseen,Hits@5%,17.0
+Molecular MLP,5,External Both-Unseen Cell-Unseen,Precision@5%,0.0944444444444444
+Molecular MLP,5,External Both-Unseen Cell-Unseen,RandomExpectedHits,17.2
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,PCC,0.1214116602611705
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,Spearman,0.0818441455112569
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,C_index,0.5277704574878398
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,AUC,0.5203368747676533
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,AUPRC,0.4698006934906792
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,RMSE,15.168004383056052
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,strong_prevalence,0.0720844811753902
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,n_candidates,8712.0
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,EF@1%,1.1035031847133758
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,EF@5%,0.8590837375094957
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,P@10,0.2
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,NDCG@10,0.1834098052484001
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,P@50,0.06
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,NDCG@50,0.0798508535858429
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,CanonicalUnits,8712.0
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,TotalStrong,628.0
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,Budget@5%,436.0
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,Hits@5%,27.0
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,Precision@5%,0.0619266055045871
+Molecular MLP,5,External Name-Only Both-Unseen Sensitivity,RandomExpectedHits,31.428833792470154
+Molecular MLP,6,External Overall,PCC,0.0754308345344
+Molecular MLP,6,External Overall,Spearman,0.1082109856102132
+Molecular MLP,6,External Overall,C_index,0.5357461981678001
+Molecular MLP,6,External Overall,AUC,0.551634926024912
+Molecular MLP,6,External Overall,AUPRC,0.4670901021731596
+Molecular MLP,6,External Overall,RMSE,16.918504012714976
+Molecular MLP,6,External Overall,strong_prevalence,0.0629194180490685
+Molecular MLP,6,External Overall,n_candidates,18627.0
+Molecular MLP,6,External Overall,EF@1%,1.0198937781752475
+Molecular MLP,6,External Overall,EF@5%,1.3471826524484027
+Molecular MLP,6,External Overall,P@10,0.0
+Molecular MLP,6,External Overall,NDCG@10,0.0
+Molecular MLP,6,External Overall,P@50,0.1
+Molecular MLP,6,External Overall,NDCG@50,0.0835919314381727
+Molecular MLP,6,External Overall,CanonicalUnits,18627.0
+Molecular MLP,6,External Overall,TotalStrong,1172.0
+Molecular MLP,6,External Overall,Budget@5%,932.0
+Molecular MLP,6,External Overall,Hits@5%,79.0
+Molecular MLP,6,External Overall,Precision@5%,0.084763948497854
+Molecular MLP,6,External Overall,RandomExpectedHits,58.640897621731895
+Molecular MLP,6,External Nonoverlap,PCC,0.077274568428185
+Molecular MLP,6,External Nonoverlap,Spearman,0.1078160708060472
+Molecular MLP,6,External Nonoverlap,C_index,0.5359805149088349
+Molecular MLP,6,External Nonoverlap,AUC,0.5505148964801331
+Molecular MLP,6,External Nonoverlap,AUPRC,0.4676468798774824
+Molecular MLP,6,External Nonoverlap,RMSE,16.919462243081487
+Molecular MLP,6,External Nonoverlap,strong_prevalence,0.0636293521375055
+Molecular MLP,6,External Nonoverlap,n_candidates,18152.0
+Molecular MLP,6,External Nonoverlap,EF@1%,1.0362209219352077
+Molecular MLP,6,External Nonoverlap,EF@5%,1.3846711291645213
+Molecular MLP,6,External Nonoverlap,P@10,0.0
+Molecular MLP,6,External Nonoverlap,NDCG@10,0.0
+Molecular MLP,6,External Nonoverlap,P@50,0.1
+Molecular MLP,6,External Nonoverlap,NDCG@50,0.0837346715605075
+Molecular MLP,6,External Nonoverlap,CanonicalUnits,18152.0
+Molecular MLP,6,External Nonoverlap,TotalStrong,1155.0
+Molecular MLP,6,External Nonoverlap,Budget@5%,908.0
+Molecular MLP,6,External Nonoverlap,Hits@5%,80.0
+Molecular MLP,6,External Nonoverlap,Precision@5%,0.0881057268722467
+Molecular MLP,6,External Nonoverlap,RandomExpectedHits,57.77545174085501
+Molecular MLP,6,External Both-Seen,PCC,0.013346785401243
+Molecular MLP,6,External Both-Seen,Spearman,0.104534592390811
+Molecular MLP,6,External Both-Seen,C_index,0.5347114060122622
+Molecular MLP,6,External Both-Seen,AUC,0.5716085988881128
+Molecular MLP,6,External Both-Seen,AUPRC,0.4907499022562478
+Molecular MLP,6,External Both-Seen,RMSE,16.50986618364077
+Molecular MLP,6,External Both-Seen,strong_prevalence,0.0508179603202227
+Molecular MLP,6,External Both-Seen,n_candidates,2873.0
+Molecular MLP,6,External Both-Seen,EF@1%,1.3571091166745397
+Molecular MLP,6,External Both-Seen,EF@5%,0.819920091324201
+Molecular MLP,6,External Both-Seen,P@10,0.2
+Molecular MLP,6,External Both-Seen,NDCG@10,0.3589542101716347
+Molecular MLP,6,External Both-Seen,P@50,0.06
+Molecular MLP,6,External Both-Seen,NDCG@50,0.1404092581299923
+Molecular MLP,6,External Both-Seen,CanonicalUnits,2873.0
+Molecular MLP,6,External Both-Seen,TotalStrong,146.0
+Molecular MLP,6,External Both-Seen,Budget@5%,144.0
+Molecular MLP,6,External Both-Seen,Hits@5%,6.0
+Molecular MLP,6,External Both-Seen,Precision@5%,0.0416666666666666
+Molecular MLP,6,External Both-Seen,RandomExpectedHits,7.317786286112078
+Molecular MLP,6,External One-Unseen,PCC,0.1085691253824606
+Molecular MLP,6,External One-Unseen,Spearman,0.1127497126010734
+Molecular MLP,6,External One-Unseen,C_index,0.5376468829242022
+Molecular MLP,6,External One-Unseen,AUC,0.5461994044692824
+Molecular MLP,6,External One-Unseen,AUPRC,0.4611231148725745
+Molecular MLP,6,External One-Unseen,RMSE,16.842519646563485
+Molecular MLP,6,External One-Unseen,strong_prevalence,0.0575044198380943
+Molecular MLP,6,External One-Unseen,n_candidates,10747.0
+Molecular MLP,6,External One-Unseen,EF@1%,0.6440728754644612
+Molecular MLP,6,External One-Unseen,EF@5%,1.389904476606393
+Molecular MLP,6,External One-Unseen,P@10,0.0
+Molecular MLP,6,External One-Unseen,NDCG@10,0.0
+Molecular MLP,6,External One-Unseen,P@50,0.04
+Molecular MLP,6,External One-Unseen,NDCG@50,0.0315879608105244
+Molecular MLP,6,External One-Unseen,CanonicalUnits,10747.0
+Molecular MLP,6,External One-Unseen,TotalStrong,618.0
+Molecular MLP,6,External One-Unseen,Budget@5%,538.0
+Molecular MLP,6,External One-Unseen,Hits@5%,43.0
+Molecular MLP,6,External One-Unseen,Precision@5%,0.0799256505576208
+Molecular MLP,6,External One-Unseen,RandomExpectedHits,30.93737787289476
+Molecular MLP,6,External Both-Unseen,PCC,0.0603141056412818
+Molecular MLP,6,External Both-Unseen,Spearman,0.1055534792789815
+Molecular MLP,6,External Both-Unseen,C_index,0.5350262600681932
+Molecular MLP,6,External Both-Unseen,AUC,0.5512205899614042
+Molecular MLP,6,External Both-Unseen,AUPRC,0.467903097817948
+Molecular MLP,6,External Both-Unseen,RMSE,17.308381346232412
+Molecular MLP,6,External Both-Unseen,strong_prevalence,0.0814859197124026
+Molecular MLP,6,External Both-Unseen,n_candidates,5007.0
+Molecular MLP,6,External Both-Unseen,EF@1%,2.8875432525951554
+Molecular MLP,6,External Both-Unseen,EF@5%,1.857921256151863
+Molecular MLP,6,External Both-Unseen,P@10,0.2
+Molecular MLP,6,External Both-Unseen,NDCG@10,0.2048342475185909
+Molecular MLP,6,External Both-Unseen,P@50,0.24
+Molecular MLP,6,External Both-Unseen,NDCG@50,0.2308095010143021
+Molecular MLP,6,External Both-Unseen,CanonicalUnits,5007.0
+Molecular MLP,6,External Both-Unseen,TotalStrong,408.0
+Molecular MLP,6,External Both-Unseen,Budget@5%,251.0
+Molecular MLP,6,External Both-Unseen,Hits@5%,38.0
+Molecular MLP,6,External Both-Unseen,Precision@5%,0.1513944223107569
+Molecular MLP,6,External Both-Unseen,RandomExpectedHits,20.45296584781306
+Molecular MLP,6,External Global-Drug-Unseen,PCC,0.1006538776987561
+Molecular MLP,6,External Global-Drug-Unseen,Spearman,0.132961119555026
+Molecular MLP,6,External Global-Drug-Unseen,C_index,0.5439481188740751
+Molecular MLP,6,External Global-Drug-Unseen,AUC,0.5627386155085228
+Molecular MLP,6,External Global-Drug-Unseen,AUPRC,0.4931338925971841
+Molecular MLP,6,External Global-Drug-Unseen,RMSE,16.531696379193036
+Molecular MLP,6,External Global-Drug-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,6,External Global-Drug-Unseen,n_candidates,3927.0
+Molecular MLP,6,External Global-Drug-Unseen,EF@1%,2.682377049180328
+Molecular MLP,6,External Global-Drug-Unseen,EF@5%,1.633935258383956
+Molecular MLP,6,External Global-Drug-Unseen,P@10,0.2
+Molecular MLP,6,External Global-Drug-Unseen,NDCG@10,0.2048342475185909
+Molecular MLP,6,External Global-Drug-Unseen,P@50,0.24
+Molecular MLP,6,External Global-Drug-Unseen,NDCG@50,0.2308095010143021
+Molecular MLP,6,External Global-Drug-Unseen,CanonicalUnits,3927.0
+Molecular MLP,6,External Global-Drug-Unseen,TotalStrong,366.0
+Molecular MLP,6,External Global-Drug-Unseen,Budget@5%,197.0
+Molecular MLP,6,External Global-Drug-Unseen,Hits@5%,30.0
+Molecular MLP,6,External Global-Drug-Unseen,Precision@5%,0.1522842639593908
+Molecular MLP,6,External Global-Drug-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,6,External Both-Unseen Cell-Seen,PCC,0.0634302655086915
+Molecular MLP,6,External Both-Unseen Cell-Seen,Spearman,0.1205252641098769
+Molecular MLP,6,External Both-Unseen Cell-Seen,C_index,0.5400412457830359
+Molecular MLP,6,External Both-Unseen Cell-Seen,AUC,0.5606741775900046
+Molecular MLP,6,External Both-Unseen Cell-Seen,AUPRC,0.4555211261290136
+Molecular MLP,6,External Both-Unseen Cell-Seen,RMSE,17.917321977413547
+Molecular MLP,6,External Both-Unseen Cell-Seen,strong_prevalence,0.0691685062545989
+Molecular MLP,6,External Both-Unseen Cell-Seen,n_candidates,1359.0
+Molecular MLP,6,External Both-Unseen Cell-Seen,EF@1%,3.0980243161094223
+Molecular MLP,6,External Both-Unseen Cell-Seen,EF@5%,2.76392365456821
+Molecular MLP,6,External Both-Unseen Cell-Seen,P@10,0.2
+Molecular MLP,6,External Both-Unseen Cell-Seen,NDCG@10,0.1794771050858173
+Molecular MLP,6,External Both-Unseen Cell-Seen,P@50,0.2
+Molecular MLP,6,External Both-Unseen Cell-Seen,NDCG@50,0.1927345411289595
+Molecular MLP,6,External Both-Unseen Cell-Seen,CanonicalUnits,1359.0
+Molecular MLP,6,External Both-Unseen Cell-Seen,TotalStrong,94.0
+Molecular MLP,6,External Both-Unseen Cell-Seen,Budget@5%,68.0
+Molecular MLP,6,External Both-Unseen Cell-Seen,Hits@5%,13.0
+Molecular MLP,6,External Both-Unseen Cell-Seen,Precision@5%,0.1911764705882352
+Molecular MLP,6,External Both-Unseen Cell-Seen,RandomExpectedHits,4.70345842531273
+Molecular MLP,6,External Both-Unseen Cell-Unseen,PCC,0.0587944177749056
+Molecular MLP,6,External Both-Unseen Cell-Unseen,Spearman,0.099092671316791
+Molecular MLP,6,External Both-Unseen Cell-Unseen,C_index,0.5325252901123239
+Molecular MLP,6,External Both-Unseen Cell-Unseen,AUC,0.5476258721117685
+Molecular MLP,6,External Both-Unseen Cell-Unseen,AUPRC,0.4746644328813797
+Molecular MLP,6,External Both-Unseen Cell-Unseen,RMSE,17.0759801877299
+Molecular MLP,6,External Both-Unseen Cell-Unseen,strong_prevalence,0.0860745614035087
+Molecular MLP,6,External Both-Unseen Cell-Unseen,n_candidates,3648.0
+Molecular MLP,6,External Both-Unseen Cell-Unseen,EF@1%,2.825959717679463
+Molecular MLP,6,External Both-Unseen Cell-Unseen,EF@5%,1.5871358462984233
+Molecular MLP,6,External Both-Unseen Cell-Unseen,P@10,0.2
+Molecular MLP,6,External Both-Unseen Cell-Unseen,NDCG@10,0.2863459897524693
+Molecular MLP,6,External Both-Unseen Cell-Unseen,P@50,0.22
+Molecular MLP,6,External Both-Unseen Cell-Unseen,NDCG@50,0.2487523335298503
+Molecular MLP,6,External Both-Unseen Cell-Unseen,CanonicalUnits,3648.0
+Molecular MLP,6,External Both-Unseen Cell-Unseen,TotalStrong,314.0
+Molecular MLP,6,External Both-Unseen Cell-Unseen,Budget@5%,183.0
+Molecular MLP,6,External Both-Unseen Cell-Unseen,Hits@5%,25.0
+Molecular MLP,6,External Both-Unseen Cell-Unseen,Precision@5%,0.1366120218579235
+Molecular MLP,6,External Both-Unseen Cell-Unseen,RandomExpectedHits,15.751644736842104
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,PCC,0.050485103082344
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,Spearman,0.0784976830321433
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,C_index,0.5264139310139979
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,AUC,0.5266009174684879
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,AUPRC,0.4508794412905544
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,RMSE,16.992631815414594
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,strong_prevalence,0.0640218303946263
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,n_candidates,9528.0
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,EF@1%,1.1389344262295082
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,EF@5%,1.2770801113516856
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,P@10,0.1
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,NDCG@10,0.0783982689786753
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,P@50,0.06
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,NDCG@50,0.0638092238890374
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,CanonicalUnits,9528.0
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,TotalStrong,610.0
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,Budget@5%,477.0
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,Hits@5%,39.0
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,Precision@5%,0.0817610062893081
+Molecular MLP,6,External Name-Only Both-Unseen Sensitivity,RandomExpectedHits,30.538413098236777
+Molecular MLP,7,External Overall,PCC,0.2194775524934284
+Molecular MLP,7,External Overall,Spearman,0.1885245818159167
+Molecular MLP,7,External Overall,C_index,0.5637437240329598
+Molecular MLP,7,External Overall,AUC,0.5858311378070225
+Molecular MLP,7,External Overall,AUPRC,0.4915846753592845
+Molecular MLP,7,External Overall,RMSE,15.485756996677331
+Molecular MLP,7,External Overall,strong_prevalence,0.0629194180490685
+Molecular MLP,7,External Overall,n_candidates,18627.0
+Molecular MLP,7,External Overall,EF@1%,0.7649203336314357
+Molecular MLP,7,External Overall,EF@5%,1.0231766980620778
+Molecular MLP,7,External Overall,P@10,0.0
+Molecular MLP,7,External Overall,NDCG@10,0.0
+Molecular MLP,7,External Overall,P@50,0.04
+Molecular MLP,7,External Overall,NDCG@50,0.0323832287030085
+Molecular MLP,7,External Overall,CanonicalUnits,18627.0
+Molecular MLP,7,External Overall,TotalStrong,1172.0
+Molecular MLP,7,External Overall,Budget@5%,932.0
+Molecular MLP,7,External Overall,Hits@5%,60.0
+Molecular MLP,7,External Overall,Precision@5%,0.0643776824034334
+Molecular MLP,7,External Overall,RandomExpectedHits,58.640897621731895
+Molecular MLP,7,External Nonoverlap,PCC,0.2170336754786923
+Molecular MLP,7,External Nonoverlap,Spearman,0.1870597093014555
+Molecular MLP,7,External Nonoverlap,C_index,0.5636204355035171
+Molecular MLP,7,External Nonoverlap,AUC,0.5846438658133073
+Molecular MLP,7,External Nonoverlap,AUPRC,0.492902757446522
+Molecular MLP,7,External Nonoverlap,RMSE,15.437473960049102
+Molecular MLP,7,External Nonoverlap,strong_prevalence,0.0636358644923955
+Molecular MLP,7,External Nonoverlap,n_candidates,18213.0
+Molecular MLP,7,External Nonoverlap,EF@1%,0.77283978556981
+Molecular MLP,7,External Nonoverlap,EF@5%,1.034977539401941
+Molecular MLP,7,External Nonoverlap,P@10,0.0
+Molecular MLP,7,External Nonoverlap,NDCG@10,0.0
+Molecular MLP,7,External Nonoverlap,P@50,0.04
+Molecular MLP,7,External Nonoverlap,NDCG@50,0.0323832287030085
+Molecular MLP,7,External Nonoverlap,CanonicalUnits,18213.0
+Molecular MLP,7,External Nonoverlap,TotalStrong,1159.0
+Molecular MLP,7,External Nonoverlap,Budget@5%,911.0
+Molecular MLP,7,External Nonoverlap,Hits@5%,60.0
+Molecular MLP,7,External Nonoverlap,Precision@5%,0.0658616904500548
+Molecular MLP,7,External Nonoverlap,RandomExpectedHits,57.97227255257234
+Molecular MLP,7,External Both-Seen,PCC,0.3582748327010476
+Molecular MLP,7,External Both-Seen,Spearman,0.3166230209168217
+Molecular MLP,7,External Both-Seen,C_index,0.6083598857537302
+Molecular MLP,7,External Both-Seen,AUC,0.6532696835665873
+Molecular MLP,7,External Both-Seen,AUPRC,0.4802589484414998
+Molecular MLP,7,External Both-Seen,RMSE,15.883031466269374
+Molecular MLP,7,External Both-Seen,strong_prevalence,0.038110361254466
+Molecular MLP,7,External Both-Seen,n_candidates,2519.0
+Molecular MLP,7,External Both-Seen,EF@1%,0.0
+Molecular MLP,7,External Both-Seen,EF@5%,0.6247519841269842
+Molecular MLP,7,External Both-Seen,P@10,0.0
+Molecular MLP,7,External Both-Seen,NDCG@10,0.0
+Molecular MLP,7,External Both-Seen,P@50,0.02
+Molecular MLP,7,External Both-Seen,NDCG@50,0.0142016628152878
+Molecular MLP,7,External Both-Seen,CanonicalUnits,2519.0
+Molecular MLP,7,External Both-Seen,TotalStrong,96.0
+Molecular MLP,7,External Both-Seen,Budget@5%,126.0
+Molecular MLP,7,External Both-Seen,Hits@5%,3.0
+Molecular MLP,7,External Both-Seen,Precision@5%,0.0238095238095238
+Molecular MLP,7,External Both-Seen,RandomExpectedHits,4.801905518062723
+Molecular MLP,7,External One-Unseen,PCC,0.2184547767198282
+Molecular MLP,7,External One-Unseen,Spearman,0.1945059772720259
+Molecular MLP,7,External One-Unseen,C_index,0.5650626141057882
+Molecular MLP,7,External One-Unseen,AUC,0.5843231154731376
+Molecular MLP,7,External One-Unseen,AUPRC,0.4862277497398739
+Molecular MLP,7,External One-Unseen,RMSE,15.242365483664871
+Molecular MLP,7,External One-Unseen,strong_prevalence,0.0527780538713845
+Molecular MLP,7,External One-Unseen,n_candidates,10061.0
+Molecular MLP,7,External One-Unseen,EF@1%,0.562790177322817
+Molecular MLP,7,External One-Unseen,EF@5%,1.3533763788001076
+Molecular MLP,7,External One-Unseen,P@10,0.0
+Molecular MLP,7,External One-Unseen,NDCG@10,0.0
+Molecular MLP,7,External One-Unseen,P@50,0.02
+Molecular MLP,7,External One-Unseen,NDCG@50,0.0153701327010643
+Molecular MLP,7,External One-Unseen,CanonicalUnits,10061.0
+Molecular MLP,7,External One-Unseen,TotalStrong,531.0
+Molecular MLP,7,External One-Unseen,Budget@5%,504.0
+Molecular MLP,7,External One-Unseen,Hits@5%,36.0
+Molecular MLP,7,External One-Unseen,Precision@5%,0.0714285714285714
+Molecular MLP,7,External One-Unseen,RandomExpectedHits,26.60013915117781
+Molecular MLP,7,External Both-Unseen,PCC,0.1039331291069286
+Molecular MLP,7,External Both-Unseen,Spearman,0.103596803664452
+Molecular MLP,7,External Both-Unseen,C_index,0.5342181735805125
+Molecular MLP,7,External Both-Unseen,AUC,0.5443182717808652
+Molecular MLP,7,External Both-Unseen,AUPRC,0.503006828305054
+Molecular MLP,7,External Both-Unseen,RMSE,15.718169947567947
+Molecular MLP,7,External Both-Unseen,strong_prevalence,0.0901273358690259
+Molecular MLP,7,External Both-Unseen,n_candidates,6047.0
+Molecular MLP,7,External Both-Unseen,EF@1%,0.7275680553466687
+Molecular MLP,7,External Both-Unseen,EF@5%,0.7323704847548974
+Molecular MLP,7,External Both-Unseen,P@10,0.1
+Molecular MLP,7,External Both-Unseen,NDCG@10,0.0694312219367772
+Molecular MLP,7,External Both-Unseen,P@50,0.08
+Molecular MLP,7,External Both-Unseen,NDCG@50,0.0740880119801072
+Molecular MLP,7,External Both-Unseen,CanonicalUnits,6047.0
+Molecular MLP,7,External Both-Unseen,TotalStrong,545.0
+Molecular MLP,7,External Both-Unseen,Budget@5%,303.0
+Molecular MLP,7,External Both-Unseen,Hits@5%,20.0
+Molecular MLP,7,External Both-Unseen,Precision@5%,0.066006600660066
+Molecular MLP,7,External Both-Unseen,RandomExpectedHits,27.308582768314867
+Molecular MLP,7,External Global-Drug-Unseen,PCC,0.1199538342102701
+Molecular MLP,7,External Global-Drug-Unseen,Spearman,0.1445171174706789
+Molecular MLP,7,External Global-Drug-Unseen,C_index,0.5481726876899856
+Molecular MLP,7,External Global-Drug-Unseen,AUC,0.5719478736186112
+Molecular MLP,7,External Global-Drug-Unseen,AUPRC,0.4876200006432661
+Molecular MLP,7,External Global-Drug-Unseen,RMSE,16.240639272427195
+Molecular MLP,7,External Global-Drug-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,7,External Global-Drug-Unseen,n_candidates,3927.0
+Molecular MLP,7,External Global-Drug-Unseen,EF@1%,0.2682377049180328
+Molecular MLP,7,External Global-Drug-Unseen,EF@5%,0.5446450861279853
+Molecular MLP,7,External Global-Drug-Unseen,P@10,0.0
+Molecular MLP,7,External Global-Drug-Unseen,NDCG@10,0.0
+Molecular MLP,7,External Global-Drug-Unseen,P@50,0.02
+Molecular MLP,7,External Global-Drug-Unseen,NDCG@50,0.019383251752752
+Molecular MLP,7,External Global-Drug-Unseen,CanonicalUnits,3927.0
+Molecular MLP,7,External Global-Drug-Unseen,TotalStrong,366.0
+Molecular MLP,7,External Global-Drug-Unseen,Budget@5%,197.0
+Molecular MLP,7,External Global-Drug-Unseen,Hits@5%,10.0
+Molecular MLP,7,External Global-Drug-Unseen,Precision@5%,0.0507614213197969
+Molecular MLP,7,External Global-Drug-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,7,External Both-Unseen Cell-Seen,PCC,0.1343369296349412
+Molecular MLP,7,External Both-Unseen Cell-Seen,Spearman,0.1422070379008656
+Molecular MLP,7,External Both-Unseen Cell-Seen,C_index,0.5476093931608822
+Molecular MLP,7,External Both-Unseen Cell-Seen,AUC,0.5532363685028545
+Molecular MLP,7,External Both-Unseen Cell-Seen,AUPRC,0.4961653728884144
+Molecular MLP,7,External Both-Unseen Cell-Seen,RMSE,16.343878474050857
+Molecular MLP,7,External Both-Unseen Cell-Seen,strong_prevalence,0.0907418761496014
+Molecular MLP,7,External Both-Unseen Cell-Seen,n_candidates,1631.0
+Molecular MLP,7,External Both-Unseen Cell-Seen,EF@1%,0.0
+Molecular MLP,7,External Both-Unseen Cell-Seen,EF@5%,0.6719676994067239
+Molecular MLP,7,External Both-Unseen Cell-Seen,P@10,0.0
+Molecular MLP,7,External Both-Unseen Cell-Seen,NDCG@10,0.0
+Molecular MLP,7,External Both-Unseen Cell-Seen,P@50,0.08
+Molecular MLP,7,External Both-Unseen Cell-Seen,NDCG@50,0.0604658884552366
+Molecular MLP,7,External Both-Unseen Cell-Seen,CanonicalUnits,1631.0
+Molecular MLP,7,External Both-Unseen Cell-Seen,TotalStrong,148.0
+Molecular MLP,7,External Both-Unseen Cell-Seen,Budget@5%,82.0
+Molecular MLP,7,External Both-Unseen Cell-Seen,Hits@5%,5.0
+Molecular MLP,7,External Both-Unseen Cell-Seen,Precision@5%,0.0609756097560975
+Molecular MLP,7,External Both-Unseen Cell-Seen,RandomExpectedHits,7.44083384426732
+Molecular MLP,7,External Both-Unseen Cell-Unseen,PCC,0.0897079668555994
+Molecular MLP,7,External Both-Unseen Cell-Unseen,Spearman,0.0874467024406502
+Molecular MLP,7,External Both-Unseen Cell-Unseen,C_index,0.5289398193389899
+Molecular MLP,7,External Both-Unseen Cell-Unseen,AUC,0.5405127116864854
+Molecular MLP,7,External Both-Unseen Cell-Unseen,AUPRC,0.5062411242385638
+Molecular MLP,7,External Both-Unseen Cell-Unseen,RMSE,15.480677565429326
+Molecular MLP,7,External Both-Unseen Cell-Unseen,strong_prevalence,0.0899003623188405
+Molecular MLP,7,External Both-Unseen Cell-Unseen,n_candidates,4416.0
+Molecular MLP,7,External Both-Unseen Cell-Unseen,EF@1%,0.9887489504617968
+Molecular MLP,7,External Both-Unseen Cell-Unseen,EF@5%,0.7549836443005801
+Molecular MLP,7,External Both-Unseen Cell-Unseen,P@10,0.1
+Molecular MLP,7,External Both-Unseen Cell-Unseen,NDCG@10,0.07336392209936
+Molecular MLP,7,External Both-Unseen Cell-Unseen,P@50,0.08
+Molecular MLP,7,External Both-Unseen Cell-Unseen,NDCG@50,0.0777124810054474
+Molecular MLP,7,External Both-Unseen Cell-Unseen,CanonicalUnits,4416.0
+Molecular MLP,7,External Both-Unseen Cell-Unseen,TotalStrong,397.0
+Molecular MLP,7,External Both-Unseen Cell-Unseen,Budget@5%,221.0
+Molecular MLP,7,External Both-Unseen Cell-Unseen,Hits@5%,15.0
+Molecular MLP,7,External Both-Unseen Cell-Unseen,Precision@5%,0.0678733031674208
+Molecular MLP,7,External Both-Unseen Cell-Unseen,RandomExpectedHits,19.86798007246377
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,PCC,0.1235104822884448
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,Spearman,0.1007629976615449
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,C_index,0.5339432494032017
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,AUC,0.5397866666220608
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,AUPRC,0.4925887944107671
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,RMSE,15.077371886145135
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,strong_prevalence,0.0732651643006055
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,n_candidates,10073.0
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,EF@1%,0.6756956183423221
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,EF@5%,0.8124435411020777
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,P@10,0.0
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,NDCG@10,0.0
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,P@50,0.04
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,NDCG@50,0.0323832287030085
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,CanonicalUnits,10073.0
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,TotalStrong,738.0
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,Budget@5%,504.0
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,Hits@5%,30.0
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,Precision@5%,0.0595238095238095
+Molecular MLP,7,External Name-Only Both-Unseen Sensitivity,RandomExpectedHits,36.92564280750521
+Molecular MLP,8,External Overall,PCC,0.14864812259599
+Molecular MLP,8,External Overall,Spearman,0.1495159979527283
+Molecular MLP,8,External Overall,C_index,0.5496329549960473
+Molecular MLP,8,External Overall,AUC,0.5733824680050769
+Molecular MLP,8,External Overall,AUPRC,0.4763747655322762
+Molecular MLP,8,External Overall,RMSE,16.788774677410178
+Molecular MLP,8,External Overall,strong_prevalence,0.0629194180490685
+Molecular MLP,8,External Overall,n_candidates,18627.0
+Molecular MLP,8,External Overall,EF@1%,0.7649203336314357
+Molecular MLP,8,External Overall,EF@5%,1.0743355329651818
+Molecular MLP,8,External Overall,P@10,0.0
+Molecular MLP,8,External Overall,NDCG@10,0.0
+Molecular MLP,8,External Overall,P@50,0.04
+Molecular MLP,8,External Overall,NDCG@50,0.0366023433669908
+Molecular MLP,8,External Overall,CanonicalUnits,18627.0
+Molecular MLP,8,External Overall,TotalStrong,1172.0
+Molecular MLP,8,External Overall,Budget@5%,932.0
+Molecular MLP,8,External Overall,Hits@5%,63.0
+Molecular MLP,8,External Overall,Precision@5%,0.0675965665236051
+Molecular MLP,8,External Overall,RandomExpectedHits,58.640897621731895
+Molecular MLP,8,External Nonoverlap,PCC,0.1454053671616321
+Molecular MLP,8,External Nonoverlap,Spearman,0.1474224373680194
+Molecular MLP,8,External Nonoverlap,C_index,0.5494102669749505
+Molecular MLP,8,External Nonoverlap,AUC,0.5715923471170437
+Molecular MLP,8,External Nonoverlap,AUPRC,0.4765207193025499
+Molecular MLP,8,External Nonoverlap,RMSE,16.727493770634233
+Molecular MLP,8,External Nonoverlap,strong_prevalence,0.0636122471537526
+Molecular MLP,8,External Nonoverlap,n_candidates,18094.0
+Molecular MLP,8,External Nonoverlap,EF@1%,0.7816695546990127
+Molecular MLP,8,External Nonoverlap,EF@5%,1.059596507480884
+Molecular MLP,8,External Nonoverlap,P@10,0.0
+Molecular MLP,8,External Nonoverlap,NDCG@10,0.0
+Molecular MLP,8,External Nonoverlap,P@50,0.06
+Molecular MLP,8,External Nonoverlap,NDCG@50,0.0515641897885941
+Molecular MLP,8,External Nonoverlap,CanonicalUnits,18094.0
+Molecular MLP,8,External Nonoverlap,TotalStrong,1151.0
+Molecular MLP,8,External Nonoverlap,Budget@5%,905.0
+Molecular MLP,8,External Nonoverlap,Hits@5%,61.0
+Molecular MLP,8,External Nonoverlap,Precision@5%,0.067403314917127
+Molecular MLP,8,External Nonoverlap,RandomExpectedHits,57.56908367414613
+Molecular MLP,8,External Both-Seen,PCC,0.280699569397595
+Molecular MLP,8,External Both-Seen,Spearman,0.2558822665385277
+Molecular MLP,8,External Both-Seen,C_index,0.5865942045294837
+Molecular MLP,8,External Both-Seen,AUC,0.6199468873197701
+Molecular MLP,8,External Both-Seen,AUPRC,0.4908694173323189
+Molecular MLP,8,External Both-Seen,RMSE,18.351151518277323
+Molecular MLP,8,External Both-Seen,strong_prevalence,0.0421903052064632
+Molecular MLP,8,External Both-Seen,n_candidates,3342.0
+Molecular MLP,8,External Both-Seen,EF@1%,0.6971214017521902
+Molecular MLP,8,External Both-Seen,EF@5%,1.269756838905775
+Molecular MLP,8,External Both-Seen,P@10,0.0
+Molecular MLP,8,External Both-Seen,NDCG@10,0.0
+Molecular MLP,8,External Both-Seen,P@50,0.06
+Molecular MLP,8,External Both-Seen,NDCG@50,0.048148846476535
+Molecular MLP,8,External Both-Seen,CanonicalUnits,3342.0
+Molecular MLP,8,External Both-Seen,TotalStrong,141.0
+Molecular MLP,8,External Both-Seen,Budget@5%,168.0
+Molecular MLP,8,External Both-Seen,Hits@5%,9.0
+Molecular MLP,8,External Both-Seen,Precision@5%,0.0535714285714285
+Molecular MLP,8,External Both-Seen,RandomExpectedHits,7.087971274685817
+Molecular MLP,8,External One-Unseen,PCC,0.0919247872868814
+Molecular MLP,8,External One-Unseen,Spearman,0.1204236336314061
+Molecular MLP,8,External One-Unseen,C_index,0.5403661733217723
+Molecular MLP,8,External One-Unseen,AUC,0.5615606016261382
+Molecular MLP,8,External One-Unseen,AUPRC,0.4691995412609975
+Molecular MLP,8,External One-Unseen,RMSE,16.87500259663689
+Molecular MLP,8,External One-Unseen,strong_prevalence,0.0589651022864019
+Molecular MLP,8,External One-Unseen,n_candidates,9972.0
+Molecular MLP,8,External One-Unseen,EF@1%,0.6783673469387755
+Molecular MLP,8,External One-Unseen,EF@5%,1.0535765408367754
+Molecular MLP,8,External One-Unseen,P@10,0.1
+Molecular MLP,8,External One-Unseen,NDCG@10,0.0947883643695507
+Molecular MLP,8,External One-Unseen,P@50,0.04
+Molecular MLP,8,External One-Unseen,NDCG@50,0.0527749003493333
+Molecular MLP,8,External One-Unseen,CanonicalUnits,9972.0
+Molecular MLP,8,External One-Unseen,TotalStrong,588.0
+Molecular MLP,8,External One-Unseen,Budget@5%,499.0
+Molecular MLP,8,External One-Unseen,Hits@5%,31.0
+Molecular MLP,8,External One-Unseen,Precision@5%,0.0621242484969939
+Molecular MLP,8,External One-Unseen,RandomExpectedHits,29.42358604091456
+Molecular MLP,8,External Both-Unseen,PCC,0.1243681152743592
+Molecular MLP,8,External Both-Unseen,Spearman,0.1248902114438888
+Molecular MLP,8,External Both-Unseen,C_index,0.541688357865016
+Molecular MLP,8,External Both-Unseen,AUC,0.5563038999419403
+Molecular MLP,8,External Both-Unseen,AUPRC,0.4798574114368253
+Molecular MLP,8,External Both-Unseen,RMSE,15.552499656920556
+Molecular MLP,8,External Both-Unseen,strong_prevalence,0.0833803877282138
+Molecular MLP,8,External Both-Unseen,n_candidates,5313.0
+Molecular MLP,8,External Both-Unseen,EF@1%,1.1104840732380237
+Molecular MLP,8,External Both-Unseen,EF@5%,1.2173577284067958
+Molecular MLP,8,External Both-Unseen,P@10,0.0
+Molecular MLP,8,External Both-Unseen,NDCG@10,0.0
+Molecular MLP,8,External Both-Unseen,P@50,0.08
+Molecular MLP,8,External Both-Unseen,NDCG@50,0.0591769176344721
+Molecular MLP,8,External Both-Unseen,CanonicalUnits,5313.0
+Molecular MLP,8,External Both-Unseen,TotalStrong,443.0
+Molecular MLP,8,External Both-Unseen,Budget@5%,266.0
+Molecular MLP,8,External Both-Unseen,Hits@5%,27.0
+Molecular MLP,8,External Both-Unseen,Precision@5%,0.1015037593984962
+Molecular MLP,8,External Both-Unseen,RandomExpectedHits,22.179183135704875
+Molecular MLP,8,External Global-Drug-Unseen,PCC,0.1686056334864281
+Molecular MLP,8,External Global-Drug-Unseen,Spearman,0.1759322959052091
+Molecular MLP,8,External Global-Drug-Unseen,C_index,0.558311752873477
+Molecular MLP,8,External Global-Drug-Unseen,AUC,0.5855004687149289
+Molecular MLP,8,External Global-Drug-Unseen,AUPRC,0.5043347538763485
+Molecular MLP,8,External Global-Drug-Unseen,RMSE,16.18337130956054
+Molecular MLP,8,External Global-Drug-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,8,External Global-Drug-Unseen,n_candidates,3927.0
+Molecular MLP,8,External Global-Drug-Unseen,EF@1%,0.8047131147540982
+Molecular MLP,8,External Global-Drug-Unseen,EF@5%,1.2526836980943663
+Molecular MLP,8,External Global-Drug-Unseen,P@10,0.0
+Molecular MLP,8,External Global-Drug-Unseen,NDCG@10,0.0
+Molecular MLP,8,External Global-Drug-Unseen,P@50,0.1
+Molecular MLP,8,External Global-Drug-Unseen,NDCG@50,0.0734818241084949
+Molecular MLP,8,External Global-Drug-Unseen,CanonicalUnits,3927.0
+Molecular MLP,8,External Global-Drug-Unseen,TotalStrong,366.0
+Molecular MLP,8,External Global-Drug-Unseen,Budget@5%,197.0
+Molecular MLP,8,External Global-Drug-Unseen,Hits@5%,23.0
+Molecular MLP,8,External Global-Drug-Unseen,Precision@5%,0.116751269035533
+Molecular MLP,8,External Global-Drug-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,8,External Both-Unseen Cell-Seen,PCC,0.1332985851900087
+Molecular MLP,8,External Both-Unseen Cell-Seen,Spearman,0.149592019302109
+Molecular MLP,8,External Both-Unseen Cell-Seen,C_index,0.5495950722349954
+Molecular MLP,8,External Both-Unseen Cell-Seen,AUC,0.5687750787418562
+Molecular MLP,8,External Both-Unseen Cell-Seen,AUPRC,0.4792949060499061
+Molecular MLP,8,External Both-Unseen Cell-Seen,RMSE,16.11072514960394
+Molecular MLP,8,External Both-Unseen Cell-Seen,strong_prevalence,0.0703933747412008
+Molecular MLP,8,External Both-Unseen Cell-Seen,n_candidates,1449.0
+Molecular MLP,8,External Both-Unseen Cell-Seen,EF@1%,1.8941176470588237
+Molecular MLP,8,External Both-Unseen Cell-Seen,EF@5%,1.167606768734891
+Molecular MLP,8,External Both-Unseen Cell-Seen,P@10,0.1
+Molecular MLP,8,External Both-Unseen Cell-Seen,NDCG@10,0.0636207881989517
+Molecular MLP,8,External Both-Unseen Cell-Seen,P@50,0.1
+Molecular MLP,8,External Both-Unseen Cell-Seen,NDCG@50,0.0883353273030625
+Molecular MLP,8,External Both-Unseen Cell-Seen,CanonicalUnits,1449.0
+Molecular MLP,8,External Both-Unseen Cell-Seen,TotalStrong,102.0
+Molecular MLP,8,External Both-Unseen Cell-Seen,Budget@5%,73.0
+Molecular MLP,8,External Both-Unseen Cell-Seen,Hits@5%,6.0
+Molecular MLP,8,External Both-Unseen Cell-Seen,Precision@5%,0.0821917808219178
+Molecular MLP,8,External Both-Unseen Cell-Seen,RandomExpectedHits,5.13871635610766
+Molecular MLP,8,External Both-Unseen Cell-Unseen,PCC,0.1232439416146841
+Molecular MLP,8,External Both-Unseen Cell-Unseen,Spearman,0.1182966201906428
+Molecular MLP,8,External Both-Unseen Cell-Unseen,C_index,0.5394771588328848
+Molecular MLP,8,External Both-Unseen Cell-Unseen,AUC,0.5529100954212247
+Molecular MLP,8,External Both-Unseen Cell-Unseen,AUPRC,0.4818263506226535
+Molecular MLP,8,External Both-Unseen Cell-Unseen,RMSE,15.337928098448517
+Molecular MLP,8,External Both-Unseen Cell-Unseen,strong_prevalence,0.0882505175983436
+Molecular MLP,8,External Both-Unseen Cell-Unseen,n_candidates,3864.0
+Molecular MLP,8,External Both-Unseen Cell-Unseen,EF@1%,1.1621926460636138
+Molecular MLP,8,External Both-Unseen Cell-Unseen,EF@5%,1.1681833298062096
+Molecular MLP,8,External Both-Unseen Cell-Unseen,P@10,0.0
+Molecular MLP,8,External Both-Unseen Cell-Unseen,NDCG@10,0.0
+Molecular MLP,8,External Both-Unseen Cell-Unseen,P@50,0.08
+Molecular MLP,8,External Both-Unseen Cell-Unseen,NDCG@50,0.062011978521426
+Molecular MLP,8,External Both-Unseen Cell-Unseen,CanonicalUnits,3864.0
+Molecular MLP,8,External Both-Unseen Cell-Unseen,TotalStrong,341.0
+Molecular MLP,8,External Both-Unseen Cell-Unseen,Budget@5%,194.0
+Molecular MLP,8,External Both-Unseen Cell-Unseen,Hits@5%,20.0
+Molecular MLP,8,External Both-Unseen Cell-Unseen,Precision@5%,0.1030927835051546
+Molecular MLP,8,External Both-Unseen Cell-Unseen,RandomExpectedHits,17.120600414078677
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,PCC,0.0958597524113865
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,Spearman,0.1023301191063547
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,C_index,0.5347746729607553
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,AUC,0.5439007014176531
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,AUPRC,0.4894497149011383
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,RMSE,15.729939644598074
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,strong_prevalence,0.0702581369248036
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,n_candidates,8910.0
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,EF@1%,0.6325878594249201
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,EF@5%,1.1807833923122109
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,P@10,0.1
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,NDCG@10,0.066254223454389
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,P@50,0.02
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,NDCG@50,0.0233397607643392
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,CanonicalUnits,8910.0
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,TotalStrong,626.0
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,Budget@5%,446.0
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,Hits@5%,37.0
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,Precision@5%,0.0829596412556053
+Molecular MLP,8,External Name-Only Both-Unseen Sensitivity,RandomExpectedHits,31.3351290684624
+Molecular MLP,9,External Overall,PCC,0.1544983891218424
+Molecular MLP,9,External Overall,Spearman,0.1207668273682365
+Molecular MLP,9,External Overall,C_index,0.5402199419868383
+Molecular MLP,9,External Overall,AUC,0.5590513129821204
+Molecular MLP,9,External Overall,AUPRC,0.4539813444923223
+Molecular MLP,9,External Overall,RMSE,16.536262870025844
+Molecular MLP,9,External Overall,strong_prevalence,0.0629194180490685
+Molecular MLP,9,External Overall,n_candidates,18627.0
+Molecular MLP,9,External Overall,EF@1%,0.3399645927250825
+Molecular MLP,9,External Overall,EF@5%,0.7503295785788572
+Molecular MLP,9,External Overall,P@10,0.0
+Molecular MLP,9,External Overall,NDCG@10,0.0
+Molecular MLP,9,External Overall,P@50,0.0
+Molecular MLP,9,External Overall,NDCG@50,0.0
+Molecular MLP,9,External Overall,CanonicalUnits,18627.0
+Molecular MLP,9,External Overall,TotalStrong,1172.0
+Molecular MLP,9,External Overall,Budget@5%,932.0
+Molecular MLP,9,External Overall,Hits@5%,44.0
+Molecular MLP,9,External Overall,Precision@5%,0.0472103004291845
+Molecular MLP,9,External Overall,RandomExpectedHits,58.640897621731895
+Molecular MLP,9,External Nonoverlap,PCC,0.1521827840033573
+Molecular MLP,9,External Nonoverlap,Spearman,0.1185550741511464
+Molecular MLP,9,External Nonoverlap,C_index,0.539929376680704
+Molecular MLP,9,External Nonoverlap,AUC,0.5569827850517763
+Molecular MLP,9,External Nonoverlap,AUPRC,0.4547730530843412
+Molecular MLP,9,External Nonoverlap,RMSE,16.509644226506893
+Molecular MLP,9,External Nonoverlap,strong_prevalence,0.0639124882003442
+Molecular MLP,9,External Nonoverlap,n_candidates,18009.0
+Molecular MLP,9,External Nonoverlap,EF@1%,0.4322208408734178
+Molecular MLP,9,External Nonoverlap,EF@5%,0.7119890921468665
+Molecular MLP,9,External Nonoverlap,P@10,0.0
+Molecular MLP,9,External Nonoverlap,NDCG@10,0.0
+Molecular MLP,9,External Nonoverlap,P@50,0.0
+Molecular MLP,9,External Nonoverlap,NDCG@50,0.0
+Molecular MLP,9,External Nonoverlap,CanonicalUnits,18009.0
+Molecular MLP,9,External Nonoverlap,TotalStrong,1151.0
+Molecular MLP,9,External Nonoverlap,Budget@5%,901.0
+Molecular MLP,9,External Nonoverlap,Hits@5%,41.0
+Molecular MLP,9,External Nonoverlap,Precision@5%,0.0455049944506104
+Molecular MLP,9,External Nonoverlap,RandomExpectedHits,57.58515186851019
+Molecular MLP,9,External Both-Seen,PCC,0.2919664956714466
+Molecular MLP,9,External Both-Seen,Spearman,0.2070174940093464
+Molecular MLP,9,External Both-Seen,C_index,0.5695823503551725
+Molecular MLP,9,External Both-Seen,AUC,0.5961796232411121
+Molecular MLP,9,External Both-Seen,AUPRC,0.445906949627958
+Molecular MLP,9,External Both-Seen,RMSE,16.556311879588502
+Molecular MLP,9,External Both-Seen,strong_prevalence,0.0409181636726546
+Molecular MLP,9,External Both-Seen,n_candidates,4008.0
+Molecular MLP,9,External Both-Seen,EF@1%,1.19214753123141
+Molecular MLP,9,External Both-Seen,EF@5%,1.3374590462322535
+Molecular MLP,9,External Both-Seen,P@10,0.0
+Molecular MLP,9,External Both-Seen,NDCG@10,0.0
+Molecular MLP,9,External Both-Seen,P@50,0.04
+Molecular MLP,9,External Both-Seen,NDCG@50,0.0322555724302655
+Molecular MLP,9,External Both-Seen,CanonicalUnits,4008.0
+Molecular MLP,9,External Both-Seen,TotalStrong,164.0
+Molecular MLP,9,External Both-Seen,Budget@5%,201.0
+Molecular MLP,9,External Both-Seen,Hits@5%,11.0
+Molecular MLP,9,External Both-Seen,Precision@5%,0.0547263681592039
+Molecular MLP,9,External Both-Seen,RandomExpectedHits,8.224550898203592
+Molecular MLP,9,External One-Unseen,PCC,0.1265286879257601
+Molecular MLP,9,External One-Unseen,Spearman,0.1219277469853198
+Molecular MLP,9,External One-Unseen,C_index,0.5407520305384583
+Molecular MLP,9,External One-Unseen,AUC,0.557650265379614
+Molecular MLP,9,External One-Unseen,AUPRC,0.4649178623030293
+Molecular MLP,9,External One-Unseen,RMSE,16.482361997166
+Molecular MLP,9,External One-Unseen,strong_prevalence,0.0600448933782267
+Molecular MLP,9,External One-Unseen,n_candidates,10692.0
+Molecular MLP,9,External One-Unseen,EF@1%,0.3112935627565726
+Molecular MLP,9,External One-Unseen,EF@5%,0.9027513319940608
+Molecular MLP,9,External One-Unseen,P@10,0.0
+Molecular MLP,9,External One-Unseen,NDCG@10,0.0
+Molecular MLP,9,External One-Unseen,P@50,0.02
+Molecular MLP,9,External One-Unseen,NDCG@50,0.0138089071677089
+Molecular MLP,9,External One-Unseen,CanonicalUnits,10692.0
+Molecular MLP,9,External One-Unseen,TotalStrong,642.0
+Molecular MLP,9,External One-Unseen,Budget@5%,535.0
+Molecular MLP,9,External One-Unseen,Hits@5%,29.0
+Molecular MLP,9,External One-Unseen,Precision@5%,0.0542056074766355
+Molecular MLP,9,External One-Unseen,RandomExpectedHits,32.12401795735129
+Molecular MLP,9,External Both-Unseen,PCC,0.0210782149050942
+Molecular MLP,9,External Both-Unseen,Spearman,0.0167630796999956
+Molecular MLP,9,External Both-Unseen,C_index,0.504367104877534
+Molecular MLP,9,External Both-Unseen,AUC,0.5083645149790729
+Molecular MLP,9,External Both-Unseen,AUPRC,0.4230167343658569
+Molecular MLP,9,External Both-Unseen,RMSE,16.6618273323583
+Molecular MLP,9,External Both-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,9,External Both-Unseen,n_candidates,3927.0
+Molecular MLP,9,External Both-Unseen,EF@1%,0.0
+Molecular MLP,9,External Both-Unseen,EF@5%,0.108929017225597
+Molecular MLP,9,External Both-Unseen,P@10,0.0
+Molecular MLP,9,External Both-Unseen,NDCG@10,0.0
+Molecular MLP,9,External Both-Unseen,P@50,0.0
+Molecular MLP,9,External Both-Unseen,NDCG@50,0.0
+Molecular MLP,9,External Both-Unseen,CanonicalUnits,3927.0
+Molecular MLP,9,External Both-Unseen,TotalStrong,366.0
+Molecular MLP,9,External Both-Unseen,Budget@5%,197.0
+Molecular MLP,9,External Both-Unseen,Hits@5%,2.0
+Molecular MLP,9,External Both-Unseen,Precision@5%,0.0101522842639593
+Molecular MLP,9,External Both-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,9,External Global-Drug-Unseen,PCC,0.0210782149050942
+Molecular MLP,9,External Global-Drug-Unseen,Spearman,0.0167630796999956
+Molecular MLP,9,External Global-Drug-Unseen,C_index,0.504367104877534
+Molecular MLP,9,External Global-Drug-Unseen,AUC,0.5083645149790729
+Molecular MLP,9,External Global-Drug-Unseen,AUPRC,0.4230167343658569
+Molecular MLP,9,External Global-Drug-Unseen,RMSE,16.6618273323583
+Molecular MLP,9,External Global-Drug-Unseen,strong_prevalence,0.0932009167303285
+Molecular MLP,9,External Global-Drug-Unseen,n_candidates,3927.0
+Molecular MLP,9,External Global-Drug-Unseen,EF@1%,0.0
+Molecular MLP,9,External Global-Drug-Unseen,EF@5%,0.108929017225597
+Molecular MLP,9,External Global-Drug-Unseen,P@10,0.0
+Molecular MLP,9,External Global-Drug-Unseen,NDCG@10,0.0
+Molecular MLP,9,External Global-Drug-Unseen,P@50,0.0
+Molecular MLP,9,External Global-Drug-Unseen,NDCG@50,0.0
+Molecular MLP,9,External Global-Drug-Unseen,CanonicalUnits,3927.0
+Molecular MLP,9,External Global-Drug-Unseen,TotalStrong,366.0
+Molecular MLP,9,External Global-Drug-Unseen,Budget@5%,197.0
+Molecular MLP,9,External Global-Drug-Unseen,Hits@5%,2.0
+Molecular MLP,9,External Global-Drug-Unseen,Precision@5%,0.0101522842639593
+Molecular MLP,9,External Global-Drug-Unseen,RandomExpectedHits,18.360580595874712
+Molecular MLP,9,External Both-Unseen Cell-Seen,PCC,0.0754770640182417
+Molecular MLP,9,External Both-Unseen Cell-Seen,Spearman,0.0699747258367707
+Molecular MLP,9,External Both-Unseen Cell-Seen,C_index,0.5233435430246866
+Molecular MLP,9,External Both-Unseen Cell-Seen,AUC,0.5261668161434977
+Molecular MLP,9,External Both-Unseen Cell-Seen,AUPRC,0.4211731218904511
+Molecular MLP,9,External Both-Unseen Cell-Seen,RMSE,17.160121678177667
+Molecular MLP,9,External Both-Unseen Cell-Seen,strong_prevalence,0.0802987861811391
+Molecular MLP,9,External Both-Unseen Cell-Seen,n_candidates,1071.0
+Molecular MLP,9,External Both-Unseen Cell-Seen,EF@1%,0.0
+Molecular MLP,9,External Both-Unseen Cell-Seen,EF@5%,0.2306201550387596
+Molecular MLP,9,External Both-Unseen Cell-Seen,P@10,0.0
+Molecular MLP,9,External Both-Unseen Cell-Seen,NDCG@10,0.0
+Molecular MLP,9,External Both-Unseen Cell-Seen,P@50,0.02
+Molecular MLP,9,External Both-Unseen Cell-Seen,NDCG@50,0.0189684921972994
+Molecular MLP,9,External Both-Unseen Cell-Seen,CanonicalUnits,1071.0
+Molecular MLP,9,External Both-Unseen Cell-Seen,TotalStrong,86.0
+Molecular MLP,9,External Both-Unseen Cell-Seen,Budget@5%,54.0
+Molecular MLP,9,External Both-Unseen Cell-Seen,Hits@5%,1.0
+Molecular MLP,9,External Both-Unseen Cell-Seen,Precision@5%,0.0185185185185185
+Molecular MLP,9,External Both-Unseen Cell-Seen,RandomExpectedHits,4.336134453781512
+Molecular MLP,9,External Both-Unseen Cell-Unseen,PCC,-0.0030843753476541
+Molecular MLP,9,External Both-Unseen Cell-Unseen,Spearman,-0.0046814182678846
+Molecular MLP,9,External Both-Unseen Cell-Unseen,C_index,0.4978658063870758
+Molecular MLP,9,External Both-Unseen Cell-Unseen,AUC,0.5014614848726114
+Molecular MLP,9,External Both-Unseen Cell-Unseen,AUPRC,0.4244769782572226
+Molecular MLP,9,External Both-Unseen Cell-Unseen,RMSE,16.471080954801334
+Molecular MLP,9,External Both-Unseen Cell-Unseen,strong_prevalence,0.0980392156862745
+Molecular MLP,9,External Both-Unseen Cell-Unseen,n_candidates,2856.0
+Molecular MLP,9,External Both-Unseen Cell-Unseen,EF@1%,0.0
+Molecular MLP,9,External Both-Unseen Cell-Unseen,EF@5%,0.0713286713286713
+Molecular MLP,9,External Both-Unseen Cell-Unseen,P@10,0.0
+Molecular MLP,9,External Both-Unseen Cell-Unseen,NDCG@10,0.0
+Molecular MLP,9,External Both-Unseen Cell-Unseen,P@50,0.0
+Molecular MLP,9,External Both-Unseen Cell-Unseen,NDCG@50,0.0
+Molecular MLP,9,External Both-Unseen Cell-Unseen,CanonicalUnits,2856.0
+Molecular MLP,9,External Both-Unseen Cell-Unseen,TotalStrong,280.0
+Molecular MLP,9,External Both-Unseen Cell-Unseen,Budget@5%,143.0
+Molecular MLP,9,External Both-Unseen Cell-Unseen,Hits@5%,1.0
+Molecular MLP,9,External Both-Unseen Cell-Unseen,Precision@5%,0.0069930069930069
+Molecular MLP,9,External Both-Unseen Cell-Unseen,RandomExpectedHits,14.019607843137257
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,PCC,0.0837189255613491
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,Spearman,0.0573876554146224
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,C_index,0.5196174914214106
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,AUC,0.5219573523673942
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,AUPRC,0.4589907460110989
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,RMSE,15.887800773153469
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,strong_prevalence,0.0707070707070707
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,n_candidates,7920.0
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,EF@1%,0.1767857142857143
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,EF@5%,0.6071428571428571
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,P@10,0.0
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,NDCG@10,0.0
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,P@50,0.0
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,NDCG@50,0.0
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,CanonicalUnits,7920.0
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,TotalStrong,560.0
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,Budget@5%,396.0
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,Hits@5%,17.0
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,Precision@5%,0.0429292929292929
+Molecular MLP,9,External Name-Only Both-Unseen Sensitivity,RandomExpectedHits,28.0

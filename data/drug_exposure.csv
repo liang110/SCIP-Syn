@@ -1,0 +1,1031 @@
+evaluation,drug_id,outer_train_exposed
+0,122111-05-1,0
+0,158798-73-3,1
+0,23541-50-6,1
+0,5-Aminolevulinic acid hydrochloride,1
+0,5-Fluoro-2'-deoxyuridine,1
+0,5-Fluorouracil,1
+0,55-86-7,1
+0,6-Mercaptopurine,1
+0,6-Thioguanine,1
+0,7-Ethyl-10-hydroxycamptothecin,1
+0,7803-88-5,0
+0,ADM hydrochloride,1
+0,Abiraterone,1
+0,Antibiotic AD 32,1
+0,Antibiotic AY 22989,1
+0,Axitinib,1
+0,"Azacytidine, 5-",1
+0,Bendamustine hydrochloride,1
+0,Bortezomib,0
+0,CABAZITAXEL,1
+0,CHEMBL17639,1
+0,CHEMBL277800,1
+0,CYTARABINE HYDROCHLORIDE,1
+0,Carboplatinum,1
+0,Co-V,1
+0,Crizotinib,1
+0,Dasatinib,1
+0,Dexrazoxane,1
+0,EXEMESTANE,1
+0,Eloxatin (TN) (Sanofi Synthelab),1
+0,Emcyt (Pharmacia),0
+0,Erlotinib hydrochloride,1
+0,Fludarabine Base,1
+0,Fulvestrant,1
+0,Gefitinib,1
+0,IMIQUIMOD,1
+0,Imatinib,1
+0,Ixabepilone,1
+0,Lapatinib,1
+0,Lenalidomide,1
+0,MEGESTROL ACETATE,0
+0,MITHRAMYCIN,1
+0,Melphalan hydrochloride,0
+0,NSC-127716,1
+0,NSC256439,1
+0,NSC707389,0
+0,NSC733504,1
+0,Navelbine ditartrate (TN),0
+0,Nilotinib,1
+0,Pazopanib hydrochloride,1
+0,Pemetrexed,1
+0,Pralatrexate,1
+0,Procarbazine hydrochloride,1
+0,Quinacrine hydrochloride,1
+0,Retinoic acid,1
+0,Romidepsin,1
+0,Ruxolitinib,1
+0,Sorafenib,1
+0,Sunitinib,1
+0,TOPOTECAN HYDROCHLORIDE,1
+0,Tamoxifen citrate,1
+0,Triethylenemelamine,1
+0,Trisenox,0
+0,Uramustine,1
+0,Vandetanib,1
+0,Vemurafenib,1
+0,Vepesid J,1
+0,Vinblastine sulfate,0
+0,Vincristine sulfate,1
+0,Vismodegib,1
+0,Vorinostat,1
+0,Zanosar,1
+0,Zoledronic acid,1
+0,actinomycin D,1
+0,allopurinol,1
+0,altretamine,1
+0,amifostine,1
+0,anastrozole,1
+0,bleomycin,1
+0,busulfan,1
+0,carmustine,1
+0,celecoxib,1
+0,chlorambucil,1
+0,cis-Platin,1
+0,cyclophosphamide,1
+0,dacarbazine,1
+0,docetaxel,1
+0,hydroxyurea,1
+0,ifosfamide,1
+0,letrozole,1
+0,lomustine,0
+0,methotrexate,1
+0,methoxsalen,1
+0,mitomycin C,1
+0,mitotane,1
+0,mitoxantrone,1
+0,paclitaxel,1
+0,pipobroman,1
+0,raloxifene,1
+0,temozolomide,1
+0,teniposide,1
+0,thalidomide,1
+0,thiotepa,1
+1,122111-05-1,1
+1,158798-73-3,1
+1,23541-50-6,1
+1,5-Aminolevulinic acid hydrochloride,1
+1,5-Fluoro-2'-deoxyuridine,0
+1,5-Fluorouracil,1
+1,55-86-7,1
+1,6-Mercaptopurine,1
+1,6-Thioguanine,1
+1,7-Ethyl-10-hydroxycamptothecin,1
+1,7803-88-5,1
+1,ADM hydrochloride,1
+1,Abiraterone,0
+1,Antibiotic AD 32,1
+1,Antibiotic AY 22989,1
+1,Axitinib,1
+1,"Azacytidine, 5-",1
+1,Bendamustine hydrochloride,1
+1,Bortezomib,1
+1,CABAZITAXEL,1
+1,CHEMBL17639,1
+1,CHEMBL277800,1
+1,CYTARABINE HYDROCHLORIDE,1
+1,Carboplatinum,1
+1,Co-V,1
+1,Crizotinib,1
+1,Dasatinib,0
+1,Dexrazoxane,1
+1,EXEMESTANE,1
+1,Eloxatin (TN) (Sanofi Synthelab),1
+1,Emcyt (Pharmacia),1
+1,Erlotinib hydrochloride,0
+1,Fludarabine Base,1
+1,Fulvestrant,0
+1,Gefitinib,1
+1,IMIQUIMOD,1
+1,Imatinib,1
+1,Ixabepilone,1
+1,Lapatinib,1
+1,Lenalidomide,1
+1,MEGESTROL ACETATE,1
+1,MITHRAMYCIN,1
+1,Melphalan hydrochloride,1
+1,NSC-127716,1
+1,NSC256439,1
+1,NSC707389,1
+1,NSC733504,1
+1,Navelbine ditartrate (TN),1
+1,Nilotinib,1
+1,Pazopanib hydrochloride,1
+1,Pemetrexed,1
+1,Pralatrexate,1
+1,Procarbazine hydrochloride,1
+1,Quinacrine hydrochloride,0
+1,Retinoic acid,1
+1,Romidepsin,1
+1,Ruxolitinib,1
+1,Sorafenib,1
+1,Sunitinib,1
+1,TOPOTECAN HYDROCHLORIDE,1
+1,Tamoxifen citrate,1
+1,Triethylenemelamine,1
+1,Trisenox,1
+1,Uramustine,1
+1,Vandetanib,1
+1,Vemurafenib,1
+1,Vepesid J,1
+1,Vinblastine sulfate,1
+1,Vincristine sulfate,1
+1,Vismodegib,1
+1,Vorinostat,1
+1,Zanosar,1
+1,Zoledronic acid,1
+1,actinomycin D,1
+1,allopurinol,1
+1,altretamine,1
+1,amifostine,0
+1,anastrozole,1
+1,bleomycin,1
+1,busulfan,0
+1,carmustine,1
+1,celecoxib,1
+1,chlorambucil,1
+1,cis-Platin,1
+1,cyclophosphamide,1
+1,dacarbazine,0
+1,docetaxel,1
+1,hydroxyurea,1
+1,ifosfamide,1
+1,letrozole,1
+1,lomustine,1
+1,methotrexate,1
+1,methoxsalen,1
+1,mitomycin C,1
+1,mitotane,1
+1,mitoxantrone,1
+1,paclitaxel,1
+1,pipobroman,0
+1,raloxifene,1
+1,temozolomide,1
+1,teniposide,0
+1,thalidomide,1
+1,thiotepa,1
+2,122111-05-1,1
+2,158798-73-3,1
+2,23541-50-6,1
+2,5-Aminolevulinic acid hydrochloride,1
+2,5-Fluoro-2'-deoxyuridine,1
+2,5-Fluorouracil,1
+2,55-86-7,1
+2,6-Mercaptopurine,1
+2,6-Thioguanine,1
+2,7-Ethyl-10-hydroxycamptothecin,0
+2,7803-88-5,1
+2,ADM hydrochloride,0
+2,Abiraterone,1
+2,Antibiotic AD 32,1
+2,Antibiotic AY 22989,1
+2,Axitinib,0
+2,"Azacytidine, 5-",1
+2,Bendamustine hydrochloride,1
+2,Bortezomib,1
+2,CABAZITAXEL,1
+2,CHEMBL17639,1
+2,CHEMBL277800,1
+2,CYTARABINE HYDROCHLORIDE,0
+2,Carboplatinum,1
+2,Co-V,1
+2,Crizotinib,1
+2,Dasatinib,1
+2,Dexrazoxane,1
+2,EXEMESTANE,1
+2,Eloxatin (TN) (Sanofi Synthelab),1
+2,Emcyt (Pharmacia),1
+2,Erlotinib hydrochloride,1
+2,Fludarabine Base,1
+2,Fulvestrant,1
+2,Gefitinib,1
+2,IMIQUIMOD,1
+2,Imatinib,1
+2,Ixabepilone,1
+2,Lapatinib,1
+2,Lenalidomide,0
+2,MEGESTROL ACETATE,1
+2,MITHRAMYCIN,1
+2,Melphalan hydrochloride,1
+2,NSC-127716,1
+2,NSC256439,0
+2,NSC707389,0
+2,NSC733504,1
+2,Navelbine ditartrate (TN),1
+2,Nilotinib,1
+2,Pazopanib hydrochloride,1
+2,Pemetrexed,1
+2,Pralatrexate,1
+2,Procarbazine hydrochloride,1
+2,Quinacrine hydrochloride,1
+2,Retinoic acid,1
+2,Romidepsin,1
+2,Ruxolitinib,1
+2,Sorafenib,1
+2,Sunitinib,1
+2,TOPOTECAN HYDROCHLORIDE,1
+2,Tamoxifen citrate,1
+2,Triethylenemelamine,1
+2,Trisenox,1
+2,Uramustine,1
+2,Vandetanib,1
+2,Vemurafenib,1
+2,Vepesid J,1
+2,Vinblastine sulfate,1
+2,Vincristine sulfate,0
+2,Vismodegib,1
+2,Vorinostat,1
+2,Zanosar,1
+2,Zoledronic acid,1
+2,actinomycin D,0
+2,allopurinol,1
+2,altretamine,1
+2,amifostine,1
+2,anastrozole,1
+2,bleomycin,1
+2,busulfan,1
+2,carmustine,1
+2,celecoxib,1
+2,chlorambucil,1
+2,cis-Platin,1
+2,cyclophosphamide,0
+2,dacarbazine,1
+2,docetaxel,1
+2,hydroxyurea,1
+2,ifosfamide,1
+2,letrozole,1
+2,lomustine,1
+2,methotrexate,1
+2,methoxsalen,1
+2,mitomycin C,1
+2,mitotane,1
+2,mitoxantrone,1
+2,paclitaxel,1
+2,pipobroman,1
+2,raloxifene,0
+2,temozolomide,1
+2,teniposide,1
+2,thalidomide,0
+2,thiotepa,1
+3,122111-05-1,1
+3,158798-73-3,1
+3,23541-50-6,1
+3,5-Aminolevulinic acid hydrochloride,1
+3,5-Fluoro-2'-deoxyuridine,1
+3,5-Fluorouracil,0
+3,55-86-7,1
+3,6-Mercaptopurine,1
+3,6-Thioguanine,1
+3,7-Ethyl-10-hydroxycamptothecin,1
+3,7803-88-5,1
+3,ADM hydrochloride,1
+3,Abiraterone,1
+3,Antibiotic AD 32,1
+3,Antibiotic AY 22989,1
+3,Axitinib,1
+3,"Azacytidine, 5-",0
+3,Bendamustine hydrochloride,1
+3,Bortezomib,1
+3,CABAZITAXEL,1
+3,CHEMBL17639,1
+3,CHEMBL277800,1
+3,CYTARABINE HYDROCHLORIDE,1
+3,Carboplatinum,1
+3,Co-V,1
+3,Crizotinib,1
+3,Dasatinib,1
+3,Dexrazoxane,1
+3,EXEMESTANE,0
+3,Eloxatin (TN) (Sanofi Synthelab),1
+3,Emcyt (Pharmacia),1
+3,Erlotinib hydrochloride,1
+3,Fludarabine Base,1
+3,Fulvestrant,1
+3,Gefitinib,0
+3,IMIQUIMOD,0
+3,Imatinib,1
+3,Ixabepilone,1
+3,Lapatinib,1
+3,Lenalidomide,1
+3,MEGESTROL ACETATE,1
+3,MITHRAMYCIN,1
+3,Melphalan hydrochloride,1
+3,NSC-127716,1
+3,NSC256439,1
+3,NSC707389,1
+3,NSC733504,1
+3,Navelbine ditartrate (TN),1
+3,Nilotinib,1
+3,Pazopanib hydrochloride,1
+3,Pemetrexed,1
+3,Pralatrexate,1
+3,Procarbazine hydrochloride,1
+3,Quinacrine hydrochloride,1
+3,Retinoic acid,1
+3,Romidepsin,0
+3,Ruxolitinib,1
+3,Sorafenib,1
+3,Sunitinib,1
+3,TOPOTECAN HYDROCHLORIDE,1
+3,Tamoxifen citrate,1
+3,Triethylenemelamine,1
+3,Trisenox,1
+3,Uramustine,1
+3,Vandetanib,0
+3,Vemurafenib,0
+3,Vepesid J,1
+3,Vinblastine sulfate,1
+3,Vincristine sulfate,1
+3,Vismodegib,1
+3,Vorinostat,1
+3,Zanosar,1
+3,Zoledronic acid,1
+3,actinomycin D,1
+3,allopurinol,1
+3,altretamine,1
+3,amifostine,1
+3,anastrozole,1
+3,bleomycin,0
+3,busulfan,1
+3,carmustine,1
+3,celecoxib,1
+3,chlorambucil,1
+3,cis-Platin,1
+3,cyclophosphamide,1
+3,dacarbazine,1
+3,docetaxel,1
+3,hydroxyurea,1
+3,ifosfamide,1
+3,letrozole,1
+3,lomustine,1
+3,methotrexate,0
+3,methoxsalen,1
+3,mitomycin C,1
+3,mitotane,1
+3,mitoxantrone,1
+3,paclitaxel,1
+3,pipobroman,1
+3,raloxifene,1
+3,temozolomide,1
+3,teniposide,1
+3,thalidomide,1
+3,thiotepa,1
+4,122111-05-1,1
+4,158798-73-3,1
+4,23541-50-6,1
+4,5-Aminolevulinic acid hydrochloride,1
+4,5-Fluoro-2'-deoxyuridine,1
+4,5-Fluorouracil,1
+4,55-86-7,1
+4,6-Mercaptopurine,0
+4,6-Thioguanine,1
+4,7-Ethyl-10-hydroxycamptothecin,1
+4,7803-88-5,1
+4,ADM hydrochloride,1
+4,Abiraterone,1
+4,Antibiotic AD 32,0
+4,Antibiotic AY 22989,1
+4,Axitinib,1
+4,"Azacytidine, 5-",1
+4,Bendamustine hydrochloride,1
+4,Bortezomib,1
+4,CABAZITAXEL,0
+4,CHEMBL17639,1
+4,CHEMBL277800,1
+4,CYTARABINE HYDROCHLORIDE,1
+4,Carboplatinum,1
+4,Co-V,1
+4,Crizotinib,0
+4,Dasatinib,1
+4,Dexrazoxane,0
+4,EXEMESTANE,1
+4,Eloxatin (TN) (Sanofi Synthelab),1
+4,Emcyt (Pharmacia),1
+4,Erlotinib hydrochloride,1
+4,Fludarabine Base,1
+4,Fulvestrant,1
+4,Gefitinib,1
+4,IMIQUIMOD,1
+4,Imatinib,1
+4,Ixabepilone,1
+4,Lapatinib,1
+4,Lenalidomide,1
+4,MEGESTROL ACETATE,1
+4,MITHRAMYCIN,1
+4,Melphalan hydrochloride,1
+4,NSC-127716,0
+4,NSC256439,1
+4,NSC707389,1
+4,NSC733504,1
+4,Navelbine ditartrate (TN),1
+4,Nilotinib,1
+4,Pazopanib hydrochloride,0
+4,Pemetrexed,1
+4,Pralatrexate,1
+4,Procarbazine hydrochloride,1
+4,Quinacrine hydrochloride,1
+4,Retinoic acid,1
+4,Romidepsin,1
+4,Ruxolitinib,1
+4,Sorafenib,1
+4,Sunitinib,1
+4,TOPOTECAN HYDROCHLORIDE,1
+4,Tamoxifen citrate,1
+4,Triethylenemelamine,1
+4,Trisenox,1
+4,Uramustine,1
+4,Vandetanib,1
+4,Vemurafenib,1
+4,Vepesid J,1
+4,Vinblastine sulfate,1
+4,Vincristine sulfate,1
+4,Vismodegib,1
+4,Vorinostat,1
+4,Zanosar,1
+4,Zoledronic acid,0
+4,actinomycin D,1
+4,allopurinol,1
+4,altretamine,1
+4,amifostine,1
+4,anastrozole,0
+4,bleomycin,1
+4,busulfan,1
+4,carmustine,1
+4,celecoxib,1
+4,chlorambucil,1
+4,cis-Platin,0
+4,cyclophosphamide,1
+4,dacarbazine,1
+4,docetaxel,1
+4,hydroxyurea,1
+4,ifosfamide,1
+4,letrozole,1
+4,lomustine,1
+4,methotrexate,1
+4,methoxsalen,1
+4,mitomycin C,1
+4,mitotane,1
+4,mitoxantrone,1
+4,paclitaxel,1
+4,pipobroman,1
+4,raloxifene,1
+4,temozolomide,1
+4,teniposide,1
+4,thalidomide,1
+4,thiotepa,1
+5,122111-05-1,1
+5,158798-73-3,1
+5,23541-50-6,1
+5,5-Aminolevulinic acid hydrochloride,0
+5,5-Fluoro-2'-deoxyuridine,1
+5,5-Fluorouracil,1
+5,55-86-7,0
+5,6-Mercaptopurine,1
+5,6-Thioguanine,0
+5,7-Ethyl-10-hydroxycamptothecin,1
+5,7803-88-5,1
+5,ADM hydrochloride,1
+5,Abiraterone,1
+5,Antibiotic AD 32,1
+5,Antibiotic AY 22989,1
+5,Axitinib,1
+5,"Azacytidine, 5-",1
+5,Bendamustine hydrochloride,0
+5,Bortezomib,1
+5,CABAZITAXEL,1
+5,CHEMBL17639,1
+5,CHEMBL277800,1
+5,CYTARABINE HYDROCHLORIDE,1
+5,Carboplatinum,1
+5,Co-V,0
+5,Crizotinib,1
+5,Dasatinib,1
+5,Dexrazoxane,1
+5,EXEMESTANE,1
+5,Eloxatin (TN) (Sanofi Synthelab),1
+5,Emcyt (Pharmacia),1
+5,Erlotinib hydrochloride,1
+5,Fludarabine Base,1
+5,Fulvestrant,1
+5,Gefitinib,1
+5,IMIQUIMOD,1
+5,Imatinib,0
+5,Ixabepilone,1
+5,Lapatinib,0
+5,Lenalidomide,1
+5,MEGESTROL ACETATE,1
+5,MITHRAMYCIN,1
+5,Melphalan hydrochloride,1
+5,NSC-127716,1
+5,NSC256439,1
+5,NSC707389,1
+5,NSC733504,1
+5,Navelbine ditartrate (TN),1
+5,Nilotinib,1
+5,Pazopanib hydrochloride,1
+5,Pemetrexed,1
+5,Pralatrexate,1
+5,Procarbazine hydrochloride,1
+5,Quinacrine hydrochloride,1
+5,Retinoic acid,1
+5,Romidepsin,1
+5,Ruxolitinib,1
+5,Sorafenib,1
+5,Sunitinib,1
+5,TOPOTECAN HYDROCHLORIDE,1
+5,Tamoxifen citrate,1
+5,Triethylenemelamine,1
+5,Trisenox,1
+5,Uramustine,1
+5,Vandetanib,1
+5,Vemurafenib,1
+5,Vepesid J,0
+5,Vinblastine sulfate,1
+5,Vincristine sulfate,1
+5,Vismodegib,1
+5,Vorinostat,1
+5,Zanosar,1
+5,Zoledronic acid,1
+5,actinomycin D,1
+5,allopurinol,1
+5,altretamine,1
+5,amifostine,1
+5,anastrozole,1
+5,bleomycin,1
+5,busulfan,1
+5,carmustine,0
+5,celecoxib,1
+5,chlorambucil,1
+5,cis-Platin,1
+5,cyclophosphamide,1
+5,dacarbazine,1
+5,docetaxel,1
+5,hydroxyurea,1
+5,ifosfamide,1
+5,letrozole,0
+5,lomustine,1
+5,methotrexate,1
+5,methoxsalen,1
+5,mitomycin C,1
+5,mitotane,1
+5,mitoxantrone,1
+5,paclitaxel,1
+5,pipobroman,1
+5,raloxifene,1
+5,temozolomide,1
+5,teniposide,1
+5,thalidomide,1
+5,thiotepa,1
+6,122111-05-1,1
+6,158798-73-3,1
+6,23541-50-6,1
+6,5-Aminolevulinic acid hydrochloride,1
+6,5-Fluoro-2'-deoxyuridine,1
+6,5-Fluorouracil,1
+6,55-86-7,1
+6,6-Mercaptopurine,1
+6,6-Thioguanine,1
+6,7-Ethyl-10-hydroxycamptothecin,1
+6,7803-88-5,1
+6,ADM hydrochloride,1
+6,Abiraterone,1
+6,Antibiotic AD 32,1
+6,Antibiotic AY 22989,1
+6,Axitinib,1
+6,"Azacytidine, 5-",1
+6,Bendamustine hydrochloride,1
+6,Bortezomib,1
+6,CABAZITAXEL,1
+6,CHEMBL17639,1
+6,CHEMBL277800,1
+6,CYTARABINE HYDROCHLORIDE,1
+6,Carboplatinum,1
+6,Co-V,1
+6,Crizotinib,1
+6,Dasatinib,1
+6,Dexrazoxane,1
+6,EXEMESTANE,1
+6,Eloxatin (TN) (Sanofi Synthelab),1
+6,Emcyt (Pharmacia),1
+6,Erlotinib hydrochloride,1
+6,Fludarabine Base,1
+6,Fulvestrant,1
+6,Gefitinib,1
+6,IMIQUIMOD,1
+6,Imatinib,1
+6,Ixabepilone,1
+6,Lapatinib,1
+6,Lenalidomide,1
+6,MEGESTROL ACETATE,1
+6,MITHRAMYCIN,1
+6,Melphalan hydrochloride,1
+6,NSC-127716,1
+6,NSC256439,1
+6,NSC707389,1
+6,NSC733504,0
+6,Navelbine ditartrate (TN),1
+6,Nilotinib,1
+6,Pazopanib hydrochloride,1
+6,Pemetrexed,0
+6,Pralatrexate,1
+6,Procarbazine hydrochloride,1
+6,Quinacrine hydrochloride,1
+6,Retinoic acid,0
+6,Romidepsin,1
+6,Ruxolitinib,0
+6,Sorafenib,1
+6,Sunitinib,1
+6,TOPOTECAN HYDROCHLORIDE,1
+6,Tamoxifen citrate,1
+6,Triethylenemelamine,0
+6,Trisenox,1
+6,Uramustine,1
+6,Vandetanib,1
+6,Vemurafenib,1
+6,Vepesid J,1
+6,Vinblastine sulfate,1
+6,Vincristine sulfate,1
+6,Vismodegib,0
+6,Vorinostat,0
+6,Zanosar,1
+6,Zoledronic acid,1
+6,actinomycin D,1
+6,allopurinol,1
+6,altretamine,1
+6,amifostine,1
+6,anastrozole,1
+6,bleomycin,1
+6,busulfan,1
+6,carmustine,1
+6,celecoxib,0
+6,chlorambucil,1
+6,cis-Platin,1
+6,cyclophosphamide,1
+6,dacarbazine,1
+6,docetaxel,1
+6,hydroxyurea,1
+6,ifosfamide,1
+6,letrozole,1
+6,lomustine,1
+6,methotrexate,1
+6,methoxsalen,1
+6,mitomycin C,1
+6,mitotane,1
+6,mitoxantrone,0
+6,paclitaxel,1
+6,pipobroman,1
+6,raloxifene,1
+6,temozolomide,0
+6,teniposide,1
+6,thalidomide,1
+6,thiotepa,1
+7,122111-05-1,1
+7,158798-73-3,1
+7,23541-50-6,1
+7,5-Aminolevulinic acid hydrochloride,1
+7,5-Fluoro-2'-deoxyuridine,1
+7,5-Fluorouracil,1
+7,55-86-7,1
+7,6-Mercaptopurine,1
+7,6-Thioguanine,1
+7,7-Ethyl-10-hydroxycamptothecin,1
+7,7803-88-5,1
+7,ADM hydrochloride,1
+7,Abiraterone,1
+7,Antibiotic AD 32,1
+7,Antibiotic AY 22989,1
+7,Axitinib,1
+7,"Azacytidine, 5-",1
+7,Bendamustine hydrochloride,1
+7,Bortezomib,1
+7,CABAZITAXEL,1
+7,CHEMBL17639,1
+7,CHEMBL277800,1
+7,CYTARABINE HYDROCHLORIDE,1
+7,Carboplatinum,1
+7,Co-V,1
+7,Crizotinib,1
+7,Dasatinib,1
+7,Dexrazoxane,1
+7,EXEMESTANE,1
+7,Eloxatin (TN) (Sanofi Synthelab),1
+7,Emcyt (Pharmacia),1
+7,Erlotinib hydrochloride,1
+7,Fludarabine Base,0
+7,Fulvestrant,1
+7,Gefitinib,1
+7,IMIQUIMOD,1
+7,Imatinib,1
+7,Ixabepilone,1
+7,Lapatinib,1
+7,Lenalidomide,1
+7,MEGESTROL ACETATE,1
+7,MITHRAMYCIN,0
+7,Melphalan hydrochloride,1
+7,NSC-127716,1
+7,NSC256439,1
+7,NSC707389,1
+7,NSC733504,1
+7,Navelbine ditartrate (TN),1
+7,Nilotinib,0
+7,Pazopanib hydrochloride,1
+7,Pemetrexed,1
+7,Pralatrexate,1
+7,Procarbazine hydrochloride,1
+7,Quinacrine hydrochloride,1
+7,Retinoic acid,1
+7,Romidepsin,1
+7,Ruxolitinib,1
+7,Sorafenib,0
+7,Sunitinib,0
+7,TOPOTECAN HYDROCHLORIDE,0
+7,Tamoxifen citrate,1
+7,Triethylenemelamine,1
+7,Trisenox,1
+7,Uramustine,0
+7,Vandetanib,1
+7,Vemurafenib,1
+7,Vepesid J,1
+7,Vinblastine sulfate,1
+7,Vincristine sulfate,1
+7,Vismodegib,1
+7,Vorinostat,1
+7,Zanosar,1
+7,Zoledronic acid,1
+7,actinomycin D,1
+7,allopurinol,1
+7,altretamine,0
+7,amifostine,1
+7,anastrozole,1
+7,bleomycin,1
+7,busulfan,1
+7,carmustine,1
+7,celecoxib,1
+7,chlorambucil,1
+7,cis-Platin,1
+7,cyclophosphamide,1
+7,dacarbazine,1
+7,docetaxel,1
+7,hydroxyurea,1
+7,ifosfamide,0
+7,letrozole,1
+7,lomustine,1
+7,methotrexate,1
+7,methoxsalen,1
+7,mitomycin C,1
+7,mitotane,1
+7,mitoxantrone,1
+7,paclitaxel,0
+7,pipobroman,1
+7,raloxifene,1
+7,temozolomide,1
+7,teniposide,1
+7,thalidomide,1
+7,thiotepa,1
+8,122111-05-1,1
+8,158798-73-3,0
+8,23541-50-6,0
+8,5-Aminolevulinic acid hydrochloride,1
+8,5-Fluoro-2'-deoxyuridine,1
+8,5-Fluorouracil,1
+8,55-86-7,1
+8,6-Mercaptopurine,1
+8,6-Thioguanine,1
+8,7-Ethyl-10-hydroxycamptothecin,1
+8,7803-88-5,1
+8,ADM hydrochloride,1
+8,Abiraterone,1
+8,Antibiotic AD 32,1
+8,Antibiotic AY 22989,1
+8,Axitinib,1
+8,"Azacytidine, 5-",1
+8,Bendamustine hydrochloride,1
+8,Bortezomib,1
+8,CABAZITAXEL,1
+8,CHEMBL17639,1
+8,CHEMBL277800,0
+8,CYTARABINE HYDROCHLORIDE,1
+8,Carboplatinum,0
+8,Co-V,1
+8,Crizotinib,1
+8,Dasatinib,1
+8,Dexrazoxane,1
+8,EXEMESTANE,1
+8,Eloxatin (TN) (Sanofi Synthelab),0
+8,Emcyt (Pharmacia),1
+8,Erlotinib hydrochloride,1
+8,Fludarabine Base,1
+8,Fulvestrant,1
+8,Gefitinib,1
+8,IMIQUIMOD,1
+8,Imatinib,1
+8,Ixabepilone,0
+8,Lapatinib,1
+8,Lenalidomide,1
+8,MEGESTROL ACETATE,1
+8,MITHRAMYCIN,1
+8,Melphalan hydrochloride,1
+8,NSC-127716,1
+8,NSC256439,1
+8,NSC707389,1
+8,NSC733504,1
+8,Navelbine ditartrate (TN),1
+8,Nilotinib,1
+8,Pazopanib hydrochloride,1
+8,Pemetrexed,1
+8,Pralatrexate,1
+8,Procarbazine hydrochloride,0
+8,Quinacrine hydrochloride,1
+8,Retinoic acid,1
+8,Romidepsin,1
+8,Ruxolitinib,1
+8,Sorafenib,1
+8,Sunitinib,1
+8,TOPOTECAN HYDROCHLORIDE,1
+8,Tamoxifen citrate,1
+8,Triethylenemelamine,1
+8,Trisenox,1
+8,Uramustine,1
+8,Vandetanib,1
+8,Vemurafenib,1
+8,Vepesid J,1
+8,Vinblastine sulfate,1
+8,Vincristine sulfate,1
+8,Vismodegib,1
+8,Vorinostat,1
+8,Zanosar,1
+8,Zoledronic acid,1
+8,actinomycin D,1
+8,allopurinol,1
+8,altretamine,1
+8,amifostine,1
+8,anastrozole,1
+8,bleomycin,1
+8,busulfan,1
+8,carmustine,1
+8,celecoxib,1
+8,chlorambucil,1
+8,cis-Platin,1
+8,cyclophosphamide,1
+8,dacarbazine,1
+8,docetaxel,1
+8,hydroxyurea,0
+8,ifosfamide,1
+8,letrozole,1
+8,lomustine,1
+8,methotrexate,1
+8,methoxsalen,1
+8,mitomycin C,0
+8,mitotane,0
+8,mitoxantrone,1
+8,paclitaxel,1
+8,pipobroman,1
+8,raloxifene,1
+8,temozolomide,1
+8,teniposide,1
+8,thalidomide,1
+8,thiotepa,1
+9,122111-05-1,1
+9,158798-73-3,1
+9,23541-50-6,1
+9,5-Aminolevulinic acid hydrochloride,1
+9,5-Fluoro-2'-deoxyuridine,1
+9,5-Fluorouracil,1
+9,55-86-7,1
+9,6-Mercaptopurine,1
+9,6-Thioguanine,1
+9,7-Ethyl-10-hydroxycamptothecin,1
+9,7803-88-5,1
+9,ADM hydrochloride,1
+9,Abiraterone,1
+9,Antibiotic AD 32,1
+9,Antibiotic AY 22989,0
+9,Axitinib,1
+9,"Azacytidine, 5-",1
+9,Bendamustine hydrochloride,1
+9,Bortezomib,1
+9,CABAZITAXEL,1
+9,CHEMBL17639,0
+9,CHEMBL277800,1
+9,CYTARABINE HYDROCHLORIDE,1
+9,Carboplatinum,1
+9,Co-V,1
+9,Crizotinib,1
+9,Dasatinib,1
+9,Dexrazoxane,1
+9,EXEMESTANE,1
+9,Eloxatin (TN) (Sanofi Synthelab),1
+9,Emcyt (Pharmacia),1
+9,Erlotinib hydrochloride,1
+9,Fludarabine Base,1
+9,Fulvestrant,1
+9,Gefitinib,1
+9,IMIQUIMOD,1
+9,Imatinib,1
+9,Ixabepilone,1
+9,Lapatinib,1
+9,Lenalidomide,1
+9,MEGESTROL ACETATE,1
+9,MITHRAMYCIN,1
+9,Melphalan hydrochloride,1
+9,NSC-127716,1
+9,NSC256439,1
+9,NSC707389,1
+9,NSC733504,1
+9,Navelbine ditartrate (TN),1
+9,Nilotinib,1
+9,Pazopanib hydrochloride,1
+9,Pemetrexed,1
+9,Pralatrexate,0
+9,Procarbazine hydrochloride,1
+9,Quinacrine hydrochloride,1
+9,Retinoic acid,1
+9,Romidepsin,1
+9,Ruxolitinib,1
+9,Sorafenib,1
+9,Sunitinib,1
+9,TOPOTECAN HYDROCHLORIDE,1
+9,Tamoxifen citrate,0
+9,Triethylenemelamine,1
+9,Trisenox,1
+9,Uramustine,1
+9,Vandetanib,1
+9,Vemurafenib,1
+9,Vepesid J,1
+9,Vinblastine sulfate,1
+9,Vincristine sulfate,1
+9,Vismodegib,1
+9,Vorinostat,1
+9,Zanosar,0
+9,Zoledronic acid,1
+9,actinomycin D,1
+9,allopurinol,0
+9,altretamine,1
+9,amifostine,1
+9,anastrozole,1
+9,bleomycin,1
+9,busulfan,1
+9,carmustine,1
+9,celecoxib,1
+9,chlorambucil,0
+9,cis-Platin,1
+9,cyclophosphamide,1
+9,dacarbazine,1
+9,docetaxel,0
+9,hydroxyurea,1
+9,ifosfamide,1
+9,letrozole,1
+9,lomustine,1
+9,methotrexate,1
+9,methoxsalen,0
+9,mitomycin C,1
+9,mitotane,1
+9,mitoxantrone,1
+9,paclitaxel,1
+9,pipobroman,1
+9,raloxifene,1
+9,temozolomide,1
+9,teniposide,1
+9,thalidomide,1
+9,thiotepa,0

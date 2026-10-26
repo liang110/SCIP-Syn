@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scip-syn"
+version = "0.2.0"
+description = "Context-aware, exchange-invariant drug synergy prioritization"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = ["torch>=2.10,<3", "numpy>=1.24,<2", "pandas>=2.0,<4", "scipy>=1.10,<2"]
+
+[project.optional-dependencies]
+figures = ["matplotlib>=3.8,<4"]
+
+[project.urls]
+Repository = "https://github.com/liang110/SCIP-Syn"
+Releases = "https://github.com/liang110/SCIP-Syn/releases"
+
+[project.scripts]
+scip-train = "scip_syn.training:main"
+scip-predict = "scip_syn.predict:main"
+scip-evaluate = "scip_syn.metrics:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

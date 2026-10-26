@@ -1,0 +1,88 @@
+{
+  "manuscript": "SCIP-Syn",
+  "row_count": 7110,
+  "source": "Retained execution results and verified canonical-score summaries",
+  "files": {
+    "budget_sensitivity.csv": "434186b94eb3bb923233eec2473208993aab9bc8c55ca6ea5f0b368ad0988d66",
+    "budget_sensitivity_summary.csv": "df34faf6b9ad0a3f4eb174e343a38133eb0eb3da929395e52056cd8b4d56efeb",
+    "candidate_pool_counts.csv": "64050be51f1bf28db063818499b34331cb6d07c4a3f0f653bfc5e8f9d5c883fe",
+    "canonical_manifest.json": "56202f210be9498a3e12ac6d6cd5adcbba25ba46b570f10963764c127756b19a",
+    "canonical_scores.zip": "8c5ed8a242c606289a88552a5d7ff4c9adcf7add2da87c3833294f98a70e6a37",
+    "controls.csv": "4c3be21c0b90cc579aa308e151e763eae4f7b2b6b08fe0107f68a9dd3bfb7599",
+    "drug_identity_inventory.json": "e5b6b495b0eabb4165352376f4be17d8aba42eb30f5415d6d966c644d36bf8ff",
+    "figure2_source.csv": "4943ef557ea2b0518d2b8deec91fbcf8c9bdaba68ef5c5be6cfbba4c13187ef4",
+    "frozen_fold_metrics.csv": "6b9cb29806477d29634d74e45be21610b2c728a330c94a37e834fddaff132871",
+    "inner_assignment_manifest.json": "9450829e2da444fb0430e8e2cbfa83b7554d2bf554a921c93f0bee3dcfe9a03f",
+    "inner_assignments.csv.gz": "48e60c934e6e00cd24cf11f7b21f8bfd815193ee307db3e874222a851d7fb18c",
+    "internal_random_null.csv": "e3e4cb7379266edfa2f6c444f56b954e9a5644383ead9ef392f444a981395db1",
+    "MolecularMLP_external_all_populations.csv": "8f9a6aa9633586d1f1471075530dffead08cb6aec7393c042e353d69e4648ff4",
+    "paired_EF5_recomputed.csv": "860d8f548f2077dc945125ffd1dbad4266bd7f69879312df0bf84a07d6703cdc",
+    "random_reference_summary.csv": "8cec3c1e33192d04555baca06ff171e31ba80ab3636b28488e8c6dcca520efb2",
+    "strict_metrics.csv": "7a38fa84d2e1d2c16950530ea45c0bedfb0231eb00f0175c7455f263aa44b3b3",
+    "unique_coverage.csv": "e3d417c0148078b9153887bcee3e3e217200ed8843bc3496dc88c9cfd6557e29"
+  },
+  "expected_means": [
+    {
+      "series": "internal",
+      "model": "SCIP-Syn",
+      "population": "Selection-Unseen Both-Unseen",
+      "metric": "PCC",
+      "value": 0.13231759122712994
+    },
+    {
+      "series": "internal",
+      "model": "SCIP-Syn",
+      "population": "Selection-Unseen Both-Unseen",
+      "metric": "EF@5%",
+      "value": 1.4959441731653391
+    },
+    {
+      "series": "external",
+      "model": "SCIP-Syn",
+      "population": "External Both-Unseen",
+      "metric": "PCC",
+      "value": 0.08654915641321072
+    },
+    {
+      "series": "controls",
+      "model": "SCIP-Syn static query",
+      "population": "Selection-Unseen Both-Unseen",
+      "metric": "EF@5%",
+      "value": 0.9862513070884813
+    },
+    {
+      "series": "external",
+      "population": "External Both-Unseen",
+      "model": "Molecular MLP",
+      "metric": "EF@5%",
+      "value": 1.044287002881699
+    }
+  ],
+  "internal_methods": [
+    "SCIP-Syn",
+    "ENV-Syn",
+    "DeepDDS",
+    "GraphTranSynergy",
+    "MDNNSyn",
+    "Molecular MLP",
+    "XGBoost",
+    "LinearSVR"
+  ],
+  "external_methods": [
+    "SCIP-Syn",
+    "ENV-Syn",
+    "DeepDDS",
+    "Molecular MLP",
+    "XGBoost",
+    "LinearSVR"
+  ],
+  "figure2_trajectory_methods": [
+    "SCIP-Syn",
+    "ENV-Syn",
+    "DeepDDS",
+    "MDNNSyn",
+    "Molecular MLP",
+    "XGBoost",
+    "LinearSVR"
+  ]
+}

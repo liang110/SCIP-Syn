@@ -1,0 +1,1042 @@
+{
+  "almanac": [
+    {
+      "drug_id": "122111-05-1",
+      "source_smiles": "C1=CN(C(=O)N=C1N)[C@@H]2C([C@H]([C@H](O2)CO)O)(F)F.Cl",
+      "canonical_smiles": "Cl.Nc1ccn([C@H]2O[C@H](CO)[C@H](O)C2(F)F)c(=O)n1",
+      "parent_identity": "SDUQYLNIPVEERB"
+    },
+    {
+      "drug_id": "158798-73-3",
+      "source_smiles": "CCCCCOC(=O)NC1=NC(=O)N(C=C1F)C2C(C(C(O2)C)O)O",
+      "canonical_smiles": "CCCCCOC(=O)Nc1nc(=O)n(C2OC(C)C(O)C2O)cc1F",
+      "parent_identity": "GAGWJHPBXLXJQN"
+    },
+    {
+      "drug_id": "23541-50-6",
+      "source_smiles": "C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O.Cl",
+      "canonical_smiles": "COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(C)=O)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1.Cl",
+      "parent_identity": "STQGQHZAVUOBTE"
+    },
+    {
+      "drug_id": "5-Aminolevulinic acid hydrochloride",
+      "source_smiles": "C(CC(=O)O)C(=O)CN.Cl",
+      "canonical_smiles": "Cl.NCC(=O)CCC(=O)O",
+      "parent_identity": "ZGXJTSGNIOSYLO"
+    },
+    {
+      "drug_id": "5-Fluoro-2'-deoxyuridine",
+      "source_smiles": "C1C(C(OC1N2C=C(C(=O)NC2=O)F)CO)O",
+      "canonical_smiles": "O=c1[nH]c(=O)n(C2CC(O)C(CO)O2)cc1F",
+      "parent_identity": "ODKNJVUHOIMIIZ"
+    },
+    {
+      "drug_id": "5-Fluorouracil",
+      "source_smiles": "C1=C(C(=O)NC(=O)N1)F",
+      "canonical_smiles": "O=c1[nH]cc(F)c(=O)[nH]1",
+      "parent_identity": "GHASVSINZRGABV"
+    },
+    {
+      "drug_id": "55-86-7",
+      "source_smiles": "CN(CCCl)CCCl.Cl",
+      "canonical_smiles": "CN(CCCl)CCCl.Cl",
+      "parent_identity": "HAWPXGHAZFHHAD"
+    },
+    {
+      "drug_id": "6-Mercaptopurine",
+      "source_smiles": "C1=NC2=C(N1)C(=S)N=CN2",
+      "canonical_smiles": "S=c1nc[nH]c2nc[nH]c12",
+      "parent_identity": "GLVAUDGFNGKCSF"
+    },
+    {
+      "drug_id": "6-Thioguanine",
+      "source_smiles": "C1=NC2=C(N1)C(=S)N=C(N2)N",
+      "canonical_smiles": "Nc1nc(=S)c2[nH]cnc2[nH]1",
+      "parent_identity": "WYWHKKSPHMUBEB"
+    },
+    {
+      "drug_id": "7-Ethyl-10-hydroxycamptothecin",
+      "source_smiles": "CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)[C@@]4(CC)O)C2=NC5=C1C=C(C=C5)O",
+      "canonical_smiles": "CCc1c2c(nc3ccc(O)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC",
+      "parent_identity": "FJHBVJOVLFPMQE"
+    },
+    {
+      "drug_id": "7803-88-5",
+      "source_smiles": "COC1=NC(=NC2=C1N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N",
+      "canonical_smiles": "COc1nc(N)nc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O",
+      "parent_identity": "IXOXBSCIXZEQEQ"
+    },
+    {
+      "drug_id": "ADM hydrochloride",
+      "source_smiles": "C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O.Cl",
+      "canonical_smiles": "COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1.Cl",
+      "parent_identity": "AOJJSUZBOXZQNB"
+    },
+    {
+      "drug_id": "Abiraterone",
+      "source_smiles": "C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CN=CC=C5)C)O",
+      "canonical_smiles": "C[C@]12CC[C@H](O)CC1=CC[C@@H]1[C@@H]2CC[C@]2(C)C(c3cccnc3)=CC[C@@H]12",
+      "parent_identity": "GZOSMCIZMLWJML"
+    },
+    {
+      "drug_id": "Antibiotic AD 32",
+      "source_smiles": "CCCCC(=O)OCC(=O)[C@]1(C[C@@H](C2=C(C1)C(=C3C(=C2O)C(=O)C4=C(C3=O)C=CC=C4OC)O)O[C@H]5C[C@@H]([C@@H]([C@@H](O5)C)O)NC(=O)C(F)(F)F)O",
+      "canonical_smiles": "CCCCC(=O)OCC(=O)[C@]1(O)Cc2c(O)c3c(c(O)c2[C@@H](O[C@H]2C[C@H](NC(=O)C(F)(F)F)[C@H](O)[C@H](C)O2)C1)C(=O)c1c(OC)cccc1C3=O",
+      "parent_identity": "ZOCKGBMQLCSHFP"
+    },
+    {
+      "drug_id": "Antibiotic AY 22989",
+      "source_smiles": "C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC",
+      "canonical_smiles": "CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](O)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C",
+      "parent_identity": "QFJCIRLUMZQUOT"
+    },
+    {
+      "drug_id": "Axitinib",
+      "source_smiles": "CNC(=O)C1=CC=CC=C1SC2=CC3=C(C=C2)C(=NN3)/C=C/C4=CC=CC=N4",
+      "canonical_smiles": "CNC(=O)c1ccccc1Sc1ccc2c(/C=C/c3ccccn3)n[nH]c2c1",
+      "parent_identity": "RITAVMQDGBJQJZ"
+    },
+    {
+      "drug_id": "Azacytidine, 5-",
+      "source_smiles": "C1=NC(=NC(=O)N1C2C(C(C(O2)CO)O)O)N",
+      "canonical_smiles": "Nc1ncn(C2OC(CO)C(O)C2O)c(=O)n1",
+      "parent_identity": "NMUSYJAQQFHJEW"
+    },
+    {
+      "drug_id": "Bendamustine hydrochloride",
+      "source_smiles": "CN1C2=C(C=C(C=C2)N(CCCl)CCCl)N=C1CCCC(=O)O.Cl",
+      "canonical_smiles": "Cl.Cn1c(CCCC(=O)O)nc2cc(N(CCCl)CCCl)ccc21",
+      "parent_identity": "YTKUWDBFDASYHO"
+    },
+    {
+      "drug_id": "Bortezomib",
+      "source_smiles": "B([C@H](CC(C)C)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O",
+      "canonical_smiles": "CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c1cnccn1)B(O)O",
+      "parent_identity": "GXJABQQUPOEUTA"
+    },
+    {
+      "drug_id": "CABAZITAXEL",
+      "source_smiles": "CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)OC)C)OC",
+      "canonical_smiles": "CO[C@H]1C(=O)[C@]2(C)[C@@H](OC)C[C@H]3OC[C@@]3(OC(C)=O)[C@H]2[C@H](OC(=O)c2ccccc2)[C@]2(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c3ccccc3)C(C)=C1C2(C)C",
+      "parent_identity": "BMQGVNUXMIRLCK"
+    },
+    {
+      "drug_id": "CHEMBL17639",
+      "source_smiles": "C1C(C(OC1N2C=NC3=C(N=C(N=C32)Cl)N)CO)O",
+      "canonical_smiles": "Nc1nc(Cl)nc2c1ncn2C1CC(O)C(CO)O1",
+      "parent_identity": "PTOAARAWEBMLNO"
+    },
+    {
+      "drug_id": "CHEMBL277800",
+      "source_smiles": "C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)CO)O)F)Cl)N",
+      "canonical_smiles": "Nc1nc(Cl)nc2c1ncn2C1OC(CO)C(O)C1F",
+      "parent_identity": "WDDPHFBMKLOVOX"
+    },
+    {
+      "drug_id": "CYTARABINE HYDROCHLORIDE",
+      "source_smiles": "C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O.Cl",
+      "canonical_smiles": "Cl.Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@@H]2O)c(=O)n1",
+      "parent_identity": "UHDGCWIWMRVCDJ"
+    },
+    {
+      "drug_id": "Carboplatinum",
+      "source_smiles": "C1CC(C1)(C(=O)[O-])C(=O)[O-].N.N.[Pt+2]",
+      "canonical_smiles": "N.N.O=C([O-])C1(C(=O)[O-])CCC1.[Pt+2]",
+      "parent_identity": "CCQPAEQGAVNNIA"
+    },
+    {
+      "drug_id": "Co-V",
+      "source_smiles": "C1[C@H](C2=C(NC=N1)N(C=N2)C3CC(C(O3)CO)O)O",
+      "canonical_smiles": "OCC1OC(n2cnc3c2NC=NC[C@H]3O)CC1O",
+      "parent_identity": "FPVKHBSQESCIEP"
+    },
+    {
+      "drug_id": "Crizotinib",
+      "source_smiles": "C[C@H](C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N",
+      "canonical_smiles": "C[C@@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl",
+      "parent_identity": "KTEIFNKAUNYNJU"
+    },
+    {
+      "drug_id": "Dasatinib",
+      "source_smiles": "CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO",
+      "canonical_smiles": "Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1",
+      "parent_identity": "ZBNZXTGUTAYRHI"
+    },
+    {
+      "drug_id": "Dexrazoxane",
+      "source_smiles": "C[C@@H](CN1CC(=O)NC(=O)C1)N2CC(=O)NC(=O)C2",
+      "canonical_smiles": "C[C@@H](CN1CC(=O)NC(=O)C1)N1CC(=O)NC(=O)C1",
+      "parent_identity": "BMKDZUISNHGIBY"
+    },
+    {
+      "drug_id": "EXEMESTANE",
+      "source_smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CC(=C)C4=CC(=O)C=C[C@]34C",
+      "canonical_smiles": "C=C1C[C@@H]2[C@H](CC[C@]3(C)C(=O)CC[C@@H]23)[C@@]2(C)C=CC(=O)C=C12",
+      "parent_identity": "BFYIZQONLCFLEV"
+    },
+    {
+      "drug_id": "Eloxatin (TN) (Sanofi Synthelab)",
+      "source_smiles": "C1CC[C@H]([C@@H](C1)N)N.C(=O)(C(=O)[O-])[O-].[Pt+4]",
+      "canonical_smiles": "N[C@@H]1CCCC[C@H]1N.O=C([O-])C(=O)[O-].[Pt+4]",
+      "parent_identity": "SSJXIUAHEKJCMH"
+    },
+    {
+      "drug_id": "Emcyt (Pharmacia)",
+      "source_smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OP(=O)(O)O)CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl.[Na+]",
+      "canonical_smiles": "C[C@]12CC[C@@H]3c4ccc(OC(=O)N(CCCl)CCCl)cc4CC[C@H]3[C@@H]1CC[C@@H]2OP(=O)(O)O.[Na+]",
+      "parent_identity": "ADFOJJHRTBFFOF"
+    },
+    {
+      "drug_id": "Erlotinib hydrochloride",
+      "source_smiles": "COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC.Cl",
+      "canonical_smiles": "C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1.Cl",
+      "parent_identity": "AAKJLRGGTJKAMG"
+    },
+    {
+      "drug_id": "Fludarabine Base",
+      "source_smiles": "C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)CO)O)O)F)N",
+      "canonical_smiles": "Nc1nc(F)nc2c1ncn2C1OC(CO)C(O)C1O",
+      "parent_identity": "HBUBKKRHXORPQB"
+    },
+    {
+      "drug_id": "Fulvestrant",
+      "source_smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)[C@@H](CC4=C3C=CC(=C4)O)CCCCCCCCCS(=O)CCCC(C(F)(F)F)(F)F",
+      "canonical_smiles": "C[C@]12CC[C@@H]3c4ccc(O)cc4C[C@@H](CCCCCCCCCS(=O)CCCC(F)(F)C(F)(F)F)[C@H]3[C@@H]1CC[C@@H]2O",
+      "parent_identity": "VWUXBMIQPBEWFH"
+    },
+    {
+      "drug_id": "Gefitinib",
+      "source_smiles": "COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4",
+      "canonical_smiles": "COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1",
+      "parent_identity": "XGALLCVXEZPNRQ"
+    },
+    {
+      "drug_id": "IMIQUIMOD",
+      "source_smiles": "CC(C)CN1C=NC2=C1C3=CC=CC=C3N=C2N",
+      "canonical_smiles": "CC(C)Cn1cnc2c(N)nc3ccccc3c21",
+      "parent_identity": "DOUYETYNHWVLEO"
+    },
+    {
+      "drug_id": "Imatinib",
+      "source_smiles": "CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5",
+      "canonical_smiles": "Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1",
+      "parent_identity": "KTUFNOKKBVMGRW"
+    },
+    {
+      "drug_id": "Ixabepilone",
+      "source_smiles": "C[C@H]1CCC[C@@]2([C@@H](O2)C[C@H](NC(=O)C[C@@H](C(C(=O)[C@@H]([C@H]1O)C)(C)C)O)/C(=C/C3=CSC(=N3)C)/C)C",
+      "canonical_smiles": "C/C(=C\\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)N1",
+      "parent_identity": "FABUFPQFXZVHFB"
+    },
+    {
+      "drug_id": "Lapatinib",
+      "source_smiles": "CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl",
+      "canonical_smiles": "CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1",
+      "parent_identity": "BCFGMOOMADDAQU"
+    },
+    {
+      "drug_id": "Lenalidomide",
+      "source_smiles": "C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N",
+      "canonical_smiles": "Nc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O",
+      "parent_identity": "GOTYRUGSSMKFNF"
+    },
+    {
+      "drug_id": "MEGESTROL ACETATE",
+      "source_smiles": "CC1=C[C@@H]2[C@H](CC[C@]3([C@H]2CC[C@@]3(C(=O)C)OC(=O)C)C)[C@@]4(C1=CC(=O)CC4)C",
+      "canonical_smiles": "CC(=O)O[C@]1(C(C)=O)CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@]4(C)[C@H]3CC[C@@]21C",
+      "parent_identity": "RQZAXGRLVPAYTJ"
+    },
+    {
+      "drug_id": "MITHRAMYCIN",
+      "source_smiles": "C[C@@H]1[C@H]([C@@H](C[C@@H](O1)O[C@@H]2C[C@@H](O[C@@H]([C@H]2O)C)OC3=CC4=CC5=C(C(=O)[C@H]([C@@H](C5)[C@@H](C(=O)[C@H]([C@@H](C)O)O)OC)O[C@H]6C[C@H]([C@@H]([C@H](O6)C)O)O[C@H]7C[C@H]([C@H]([C@H](O7)C)O)O[C@H]8C[C@]([C@@H]([C@H](O8)C)O)(C)O)C(=C4C(=C3C)O)O)O)O",
+      "canonical_smiles": "CO[C@H](C(=O)[C@@H](O)[C@@H](C)O)[C@@H]1Cc2cc3cc(O[C@H]4C[C@@H](O[C@H]5C[C@@H](O)[C@H](O)[C@@H](C)O5)[C@H](O)[C@@H](C)O4)c(C)c(O)c3c(O)c2C(=O)[C@H]1O[C@H]1C[C@@H](O[C@H]2C[C@@H](O[C@H]3C[C@](C)(O)[C@H](O)[C@@H](C)O3)[C@@H](O)[C@@H](C)O2)[C@H](O)[C@@H](C)O1",
+      "parent_identity": "CFCUWKMKBJTWLW"
+    },
+    {
+      "drug_id": "Melphalan hydrochloride",
+      "source_smiles": "C1=CC(=CC=C1C[C@@H](C(=O)O)N)N(CCCl)CCCl.Cl",
+      "canonical_smiles": "Cl.N[C@@H](Cc1ccc(N(CCCl)CCCl)cc1)C(=O)O",
+      "parent_identity": "SGDBTWWWUNNDEQ"
+    },
+    {
+      "drug_id": "NSC-127716",
+      "source_smiles": "C1[C@@H]([C@H](O[C@H]1N2C=NC(=NC2=O)N)CO)O",
+      "canonical_smiles": "Nc1ncn([C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)n1",
+      "parent_identity": "XAUDJQYHKZQPEU"
+    },
+    {
+      "drug_id": "NSC256439",
+      "source_smiles": "C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O.Cl",
+      "canonical_smiles": "CC(=O)[C@]1(O)Cc2c(O)c3c(c(O)c2[C@@H](O[C@H]2C[C@H](N)[C@H](O)[C@H](C)O2)C1)C(=O)c1ccccc1C3=O.Cl",
+      "parent_identity": "XDXDZDZNSLXDNA"
+    },
+    {
+      "drug_id": "NSC707389",
+      "source_smiles": "C[C@@H]1C[C@@H]2CC[C@H]3C(=C)C[C@@H](O3)CC[C@]45C[C@@H]6[C@H](O4)[C@H]7[C@@H](O6)[C@@H](O5)[C@@H]8[C@@H](O7)CC[C@@H](O8)CC(=O)C[C@H]9[C@H](C[C@H](C1=C)O2)O[C@@H]([C@@H]9OC)C[C@@H](CN)O.CS(=O)(=O)O",
+      "canonical_smiles": "C=C1C[C@@H]2CC[C@@]34C[C@H]5O[C@H]6[C@@H](O3)[C@H]3O[C@H](CC[C@@H]3O[C@H]6[C@H]5O4)CC(=O)C[C@@H]3[C@@H](OC)[C@@H](C[C@H](O)CN)O[C@H]3C[C@H]3O[C@@H](CC[C@@H]1O2)C[C@@H](C)C3=C.CS(=O)(=O)O",
+      "parent_identity": "UFNVPOGXISZXJD"
+    },
+    {
+      "drug_id": "NSC733504",
+      "source_smiles": "C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OCCO)C)/C)O)OC)C)C)/C)OC",
+      "canonical_smiles": "CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](OCCO)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C",
+      "parent_identity": "HKVAMNSJSFKALM"
+    },
+    {
+      "drug_id": "Navelbine ditartrate (TN)",
+      "source_smiles": "CCC1=C[C@H]2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC.[C@@H]([C@H](C(=O)O)O)(C(=O)O)O",
+      "canonical_smiles": "CCC1=C[C@@H]2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2.O=C(O)[C@H](O)[C@@H](O)C(=O)O",
+      "parent_identity": "GBABOYUKABKIAF"
+    },
+    {
+      "drug_id": "Nilotinib",
+      "source_smiles": "CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5",
+      "canonical_smiles": "Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1",
+      "parent_identity": "HHZIURLSWUIHRB"
+    },
+    {
+      "drug_id": "Pazopanib hydrochloride",
+      "source_smiles": "CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N.Cl",
+      "canonical_smiles": "Cc1ccc(Nc2nccc(N(C)c3ccc4c(C)n(C)nc4c3)n2)cc1S(N)(=O)=O.Cl",
+      "parent_identity": "CUIHSIWYWATEQL"
+    },
+    {
+      "drug_id": "Pemetrexed",
+      "source_smiles": "C1=CC(=CC=C1CCC2=CNC3=C2C(=O)NC(=N3)N)C(=O)N[C@@H](CCC(=O)O)C(=O)O",
+      "canonical_smiles": "Nc1nc2[nH]cc(CCc3ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc3)c2c(=O)[nH]1",
+      "parent_identity": "WBXPDJSOTKVWSJ"
+    },
+    {
+      "drug_id": "Pralatrexate",
+      "source_smiles": "C#CCC(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O",
+      "canonical_smiles": "C#CCC(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1",
+      "parent_identity": "OGSBUKJUDHAQEA"
+    },
+    {
+      "drug_id": "Procarbazine hydrochloride",
+      "source_smiles": "CC(C)NC(=O)C1=CC=C(C=C1)CNNC.Cl",
+      "canonical_smiles": "CNNCc1ccc(C(=O)NC(C)C)cc1.Cl",
+      "parent_identity": "CPTBDICYNRMXFX"
+    },
+    {
+      "drug_id": "Quinacrine hydrochloride",
+      "source_smiles": "CCN(CC)CCCC(C)NC1=C2C=C(C=CC2=NC3=C1C=CC(=C3)Cl)OC.Cl.Cl",
+      "canonical_smiles": "CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12.Cl.Cl",
+      "parent_identity": "GPKJTRJOBQGKQK"
+    },
+    {
+      "drug_id": "Retinoic acid",
+      "source_smiles": "CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C",
+      "canonical_smiles": "CC1=C(/C=C/C(C)=C/C=C/C(C)=C/C(=O)O)C(C)(C)CCC1",
+      "parent_identity": "SHGAZHPCJJPHSC"
+    },
+    {
+      "drug_id": "Romidepsin",
+      "source_smiles": "C/C=C\\1/C(=O)N[C@H](C(=O)O[C@H]\\2CC(=O)N[C@@H](C(=O)N[C@H](CSSCC/C=C2)C(=O)N1)C(C)C)C(C)C",
+      "canonical_smiles": "C/C=C1\\NC(=O)[C@H]2CSSCC/C=C/[C@H](CC(=O)N[C@H](C(C)C)C(=O)N2)OC(=O)[C@H](C(C)C)NC1=O",
+      "parent_identity": "OHRURASPPZQGQM"
+    },
+    {
+      "drug_id": "Ruxolitinib",
+      "source_smiles": "C1CCC(C1)[C@@H](CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3",
+      "canonical_smiles": "N#CC[C@H](C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1",
+      "parent_identity": "HFNKQEVNSGCOJV"
+    },
+    {
+      "drug_id": "Sorafenib",
+      "source_smiles": "CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F",
+      "canonical_smiles": "CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1",
+      "parent_identity": "MLDQJTXFUGDVEO"
+    },
+    {
+      "drug_id": "Sunitinib",
+      "source_smiles": "CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\\2/C3=C(C=CC(=C3)F)NC2=O)C",
+      "canonical_smiles": "CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\\C(=O)Nc3ccc(F)cc32)c1C",
+      "parent_identity": "WINHZLLDWRZWRT"
+    },
+    {
+      "drug_id": "TOPOTECAN HYDROCHLORIDE",
+      "source_smiles": "CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O.Cl",
+      "canonical_smiles": "CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1.Cl",
+      "parent_identity": "UCFGDBYHRUNTLO"
+    },
+    {
+      "drug_id": "Tamoxifen citrate",
+      "source_smiles": "CC/C(=C(\\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+      "canonical_smiles": "CC/C(=C(\\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1.O=C(O)CC(O)(CC(=O)O)C(=O)O",
+      "parent_identity": "NKANXQFJJICGDU"
+    },
+    {
+      "drug_id": "Triethylenemelamine",
+      "source_smiles": "C1CN1C2=NC(=NC(=N2)N3CC3)N4CC4",
+      "canonical_smiles": "C1CN1c1nc(N2CC2)nc(N2CC2)n1",
+      "parent_identity": "IUCJMVBFZDHPDX"
+    },
+    {
+      "drug_id": "Trisenox",
+      "source_smiles": "[O-2].[O-2].[O-2].[As+3].[As+3]",
+      "canonical_smiles": "[As+3].[As+3].[O-2].[O-2].[O-2]",
+      "parent_identity": "LULLIKNODDLMDQ"
+    },
+    {
+      "drug_id": "Uramustine",
+      "source_smiles": "C1=C(C(=O)NC(=O)N1)N(CCCl)CCCl",
+      "canonical_smiles": "O=c1[nH]cc(N(CCCl)CCCl)c(=O)[nH]1",
+      "parent_identity": "IDPUKCWIGUEADI"
+    },
+    {
+      "drug_id": "Vandetanib",
+      "source_smiles": "CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC",
+      "canonical_smiles": "COc1cc2c(Nc3ccc(Br)cc3F)ncnc2cc1OCC1CCN(C)CC1",
+      "parent_identity": "UHTHHESEBZOYNR"
+    },
+    {
+      "drug_id": "Vemurafenib",
+      "source_smiles": "CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)C4=CC=C(C=C4)Cl)F",
+      "canonical_smiles": "CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(-c4ccc(Cl)cc4)cc23)c1F",
+      "parent_identity": "GPXBXXGIAQBQNI"
+    },
+    {
+      "drug_id": "Vepesid J",
+      "source_smiles": "C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O",
+      "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(=O)[C@H]23)OCO4)cc(OC)c1O",
+      "parent_identity": "VJJPUSNTGOMMGY"
+    },
+    {
+      "drug_id": "Vinblastine sulfate",
+      "source_smiles": "CC[C@@]1(C[C@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O",
+      "canonical_smiles": "CC[C@]1(O)C[C@@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C)[C@H]3[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]5(CC)C=CCN6CC[C@]43[C@@H]65)C2)C1.O=S(=O)(O)O",
+      "parent_identity": "JXLYSJRDGCGARV"
+    },
+    {
+      "drug_id": "Vincristine sulfate",
+      "source_smiles": "CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O.OS(=O)(=O)O",
+      "canonical_smiles": "CC[C@]1(O)C[C@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C=O)[C@H]3[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]5(CC)C=CCN6CC[C@]43[C@@H]65)C2)C1.O=S(=O)(O)O",
+      "parent_identity": "OGWKCGZFUXNPDA"
+    },
+    {
+      "drug_id": "Vismodegib",
+      "source_smiles": "CS(=O)(=O)C1=CC(=C(C=C1)C(=O)NC2=CC(=C(C=C2)Cl)C3=CC=CC=N3)Cl",
+      "canonical_smiles": "CS(=O)(=O)c1ccc(C(=O)Nc2ccc(Cl)c(-c3ccccn3)c2)c(Cl)c1",
+      "parent_identity": "BPQMGSKTAYIVFO"
+    },
+    {
+      "drug_id": "Vorinostat",
+      "source_smiles": "C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO",
+      "canonical_smiles": "O=C(CCCCCCC(=O)Nc1ccccc1)NO",
+      "parent_identity": "WAEXFXRVDQXREF"
+    },
+    {
+      "drug_id": "Zanosar",
+      "source_smiles": "CN(C(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1O)CO)O)O)N=O",
+      "canonical_smiles": "CN(N=O)C(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1O",
+      "parent_identity": "ZSJLQEPLLKMAKR"
+    },
+    {
+      "drug_id": "Zoledronic acid",
+      "source_smiles": "C1=CN(C=N1)CC(O)(P(=O)(O)O)P(=O)(O)O",
+      "canonical_smiles": "O=P(O)(O)C(O)(Cn1ccnc1)P(=O)(O)O",
+      "parent_identity": "XRASPMIURGNCCH"
+    },
+    {
+      "drug_id": "actinomycin D",
+      "source_smiles": "C[C@@H]1[C@@H](C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N(CC(=O)N([C@H](C(=O)O1)C(C)C)C)C)C(C)C)NC(=O)C3=C4C(=C(C=C3)C)OC5=C(C(=O)C(=C(C5=N4)C(=O)N[C@H]6[C@H](OC(=O)[C@@H](N(C(=O)CN(C(=O)[C@@H]7CCCN7C(=O)[C@H](NC6=O)C(C)C)C)C)C(C)C)C)N)C",
+      "canonical_smiles": "Cc1c2oc3c(C)ccc(C(=O)N[C@@H]4C(=O)N[C@H](C(C)C)C(=O)N5CCC[C@H]5C(=O)N(C)CC(=O)N(C)[C@@H](C(C)C)C(=O)O[C@@H]4C)c3nc-2c(C(=O)N[C@@H]2C(=O)N[C@H](C(C)C)C(=O)N3CCC[C@H]3C(=O)N(C)CC(=O)N(C)[C@@H](C(C)C)C(=O)O[C@@H]2C)c(N)c1=O",
+      "parent_identity": "RJURFGZVJUQBHK"
+    },
+    {
+      "drug_id": "allopurinol",
+      "source_smiles": "C1=NNC2=C1C(=O)NC=N2",
+      "canonical_smiles": "O=c1[nH]cnc2[nH]ncc12",
+      "parent_identity": "OFCNXPDARWKPPY"
+    },
+    {
+      "drug_id": "altretamine",
+      "source_smiles": "CN(C)C1=NC(=NC(=N1)N(C)C)N(C)C",
+      "canonical_smiles": "CN(C)c1nc(N(C)C)nc(N(C)C)n1",
+      "parent_identity": "UUVWYPNAQBNQJQ"
+    },
+    {
+      "drug_id": "amifostine",
+      "source_smiles": "C(CN)CNCCSP(=O)(O)O",
+      "canonical_smiles": "NCCCNCCSP(=O)(O)O",
+      "parent_identity": "JKOQGQFVAUAYPM"
+    },
+    {
+      "drug_id": "anastrozole",
+      "source_smiles": "CC(C)(C#N)C1=CC(=CC(=C1)CN2C=NC=N2)C(C)(C)C#N",
+      "canonical_smiles": "CC(C)(C#N)c1cc(Cn2cncn2)cc(C(C)(C)C#N)c1",
+      "parent_identity": "YBBLVLTVTVSKRW"
+    },
+    {
+      "drug_id": "bleomycin",
+      "source_smiles": "CC1=C(N=C(N=C1N)[C@H](CC(=O)N)NC[C@@H](C(=O)N)N)C(=O)N[C@@H]([C@H](C2=CN=CN2)OC3C(C(C(C(O3)CO)O)O)OC4C(C(C(C(O4)CO)O)OC(=O)N)O)C(=O)N[C@H](C)[C@H]([C@H](C)C(=O)N[C@@H]([C@@H](C)O)C(=O)NCCC5=NC(=CS5)C6=NC(=CS6)C(=O)NCCC[S+](C)C)O",
+      "canonical_smiles": "Cc1c(N)nc([C@H](CC(N)=O)NC[C@H](N)C(N)=O)nc1C(=O)N[C@H](C(=O)N[C@H](C)[C@@H](O)[C@H](C)C(=O)N[C@H](C(=O)NCCc1nc(-c2nc(C(=O)NCCC[S+](C)C)cs2)cs1)[C@@H](C)O)[C@@H](OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(OC(N)=O)C1O)c1cnc[nH]1",
+      "parent_identity": "OYVAGSVQBOHSSS"
+    },
+    {
+      "drug_id": "busulfan",
+      "source_smiles": "CS(=O)(=O)OCCCCOS(=O)(=O)C",
+      "canonical_smiles": "CS(=O)(=O)OCCCCOS(C)(=O)=O",
+      "parent_identity": "COVZYZSDYWQREU"
+    },
+    {
+      "drug_id": "carmustine",
+      "source_smiles": "C(CCl)NC(=O)N(CCCl)N=O",
+      "canonical_smiles": "O=NN(CCCl)C(=O)NCCCl",
+      "parent_identity": "DLGOEMSEDOSKAD"
+    },
+    {
+      "drug_id": "celecoxib",
+      "source_smiles": "CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F",
+      "canonical_smiles": "Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1",
+      "parent_identity": "RZEKVGVHFLEQIL"
+    },
+    {
+      "drug_id": "chlorambucil",
+      "source_smiles": "C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl",
+      "canonical_smiles": "O=C(O)CCCc1ccc(N(CCCl)CCCl)cc1",
+      "parent_identity": "JCKYGMPEJWAADB"
+    },
+    {
+      "drug_id": "cis-Platin",
+      "source_smiles": "N.N.Cl[Pt]Cl",
+      "canonical_smiles": "Cl[Pt]Cl.N.N",
+      "parent_identity": "QGZKDVFQNNGYKY"
+    },
+    {
+      "drug_id": "cyclophosphamide",
+      "source_smiles": "C1CNP(=O)(OC1)N(CCCl)CCCl",
+      "canonical_smiles": "O=P1(N(CCCl)CCCl)NCCCO1",
+      "parent_identity": "CMSMOCZEIVJLDB"
+    },
+    {
+      "drug_id": "dacarbazine",
+      "source_smiles": "CN(C)/N=N/C1=C(NC=N1)C(=O)N",
+      "canonical_smiles": "CN(C)/N=N/c1nc[nH]c1C(N)=O",
+      "parent_identity": "FDKXTQMXEQVLRF"
+    },
+    {
+      "drug_id": "docetaxel",
+      "source_smiles": "CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O",
+      "canonical_smiles": "CC(=O)O[C@@]12CO[C@@H]1C[C@H](O)[C@@]1(C)C(=O)[C@H](O)C3=C(C)[C@@H](OC(=O)[C@H](O)[C@@H](NC(=O)OC(C)(C)C)c4ccccc4)C[C@@](O)([C@@H](OC(=O)c4ccccc4)[C@H]21)C3(C)C",
+      "parent_identity": "ZDZOTLJHXYCWBA"
+    },
+    {
+      "drug_id": "hydroxyurea",
+      "source_smiles": "C(=O)(N)NO",
+      "canonical_smiles": "NC(=O)NO",
+      "parent_identity": "VSNHCAURESNICA"
+    },
+    {
+      "drug_id": "ifosfamide",
+      "source_smiles": "C1CN(P(=O)(OC1)NCCCl)CCCl",
+      "canonical_smiles": "O=P1(NCCCl)OCCCN1CCCl",
+      "parent_identity": "HOMGKSMUEGBAAB"
+    },
+    {
+      "drug_id": "letrozole",
+      "source_smiles": "C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)N3C=NC=N3",
+      "canonical_smiles": "N#Cc1ccc(C(c2ccc(C#N)cc2)n2cncn2)cc1",
+      "parent_identity": "HPJKCIUCZWXJDR"
+    },
+    {
+      "drug_id": "lomustine",
+      "source_smiles": "C1CCC(CC1)NC(=O)N(CCCl)N=O",
+      "canonical_smiles": "O=NN(CCCl)C(=O)NC1CCCCC1",
+      "parent_identity": "GQYIWUVLTXOXAJ"
+    },
+    {
+      "drug_id": "methotrexate",
+      "source_smiles": "CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O",
+      "canonical_smiles": "CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1",
+      "parent_identity": "FBOZXECLQNJBKD"
+    },
+    {
+      "drug_id": "methoxsalen",
+      "source_smiles": "COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2",
+      "canonical_smiles": "COc1c2occc2cc2ccc(=O)oc12",
+      "parent_identity": "QXKHYNVANLEOEG"
+    },
+    {
+      "drug_id": "mitomycin C",
+      "source_smiles": "CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N",
+      "canonical_smiles": "CO[C@@]12[C@H](COC(N)=O)C3=C(C(=O)C(C)=C(N)C3=O)N1C[C@@H]1N[C@@H]12",
+      "parent_identity": "NWIBSHFKIJFRCO"
+    },
+    {
+      "drug_id": "mitotane",
+      "source_smiles": "C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl",
+      "canonical_smiles": "Clc1ccc(C(c2ccccc2Cl)C(Cl)Cl)cc1",
+      "parent_identity": "JWBOIMRXGHLCPP"
+    },
+    {
+      "drug_id": "mitoxantrone",
+      "source_smiles": "C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO",
+      "canonical_smiles": "O=C1c2c(O)ccc(O)c2C(=O)c2c(NCCNCCO)ccc(NCCNCCO)c21",
+      "parent_identity": "KKZJGLLVHKMTCM"
+    },
+    {
+      "drug_id": "paclitaxel",
+      "source_smiles": "CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C",
+      "canonical_smiles": "CC(=O)O[C@H]1C(=O)[C@@]2(C)[C@H]([C@H](OC(=O)c3ccccc3)[C@]3(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)c4ccccc4)c4ccccc4)C(C)=C1C3(C)C)[C@]1(OC(C)=O)CO[C@@H]1C[C@@H]2O",
+      "parent_identity": "RCINICONZNJXQF"
+    },
+    {
+      "drug_id": "pipobroman",
+      "source_smiles": "C1CN(CCN1C(=O)CCBr)C(=O)CCBr",
+      "canonical_smiles": "O=C(CCBr)N1CCN(C(=O)CCBr)CC1",
+      "parent_identity": "NJBFOOCLYDNZJN"
+    },
+    {
+      "drug_id": "raloxifene",
+      "source_smiles": "C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O",
+      "canonical_smiles": "O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12",
+      "parent_identity": "GZUITABIAKMVPG"
+    },
+    {
+      "drug_id": "temozolomide",
+      "source_smiles": "CN1C(=O)N2C=NC(=C2N=N1)C(=O)N",
+      "canonical_smiles": "Cn1nnc2c(C(N)=O)ncn2c1=O",
+      "parent_identity": "BPEGJWRSRHCHSN"
+    },
+    {
+      "drug_id": "teniposide",
+      "source_smiles": "COC1=CC(=CC(=C1O)OC)[C@H]2[C@@H]3[C@H](COC3=O)[C@@H](C4=CC5=C(C=C24)OCO5)O[C@H]6[C@@H]([C@H]([C@H]7[C@H](O6)CO[C@H](O7)C8=CC=CS8)O)O",
+      "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](c6cccs6)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(=O)[C@H]23)OCO4)cc(OC)c1O",
+      "parent_identity": "NRUKOCRGYNPUPR"
+    },
+    {
+      "drug_id": "thalidomide",
+      "source_smiles": "C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O",
+      "canonical_smiles": "O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1",
+      "parent_identity": "UEJJHQNACJXSKW"
+    },
+    {
+      "drug_id": "thiotepa",
+      "source_smiles": "C1CN1P(=S)(N2CC2)N3CC3",
+      "canonical_smiles": "S=P(N1CC1)(N1CC1)N1CC1",
+      "parent_identity": "FOCVUCIESVLUNU"
+    }
+  ],
+  "external": [
+    {
+      "drug_id": "391210-10-9",
+      "source_smiles": "C1=CC(=C(C=C1I)F)NC2=C(C=CC(=C2F)F)C(=O)NOC[C@@H](CO)O",
+      "canonical_smiles": "O=C(NOC[C@H](O)CO)c1ccc(F)c(F)c1Nc1ccc(I)cc1F",
+      "parent_identity": "SUDAHWBOROXANE",
+      "tokens": 43,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "5-Fluorouracil",
+      "source_smiles": "C1=C(C(=O)NC(=O)N1)F",
+      "canonical_smiles": "O=c1[nH]cc(F)c(=O)[nH]1",
+      "parent_identity": "GHASVSINZRGABV",
+      "tokens": 19,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "7-Ethyl-10-hydroxycamptothecin",
+      "source_smiles": "CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)[C@@]4(CC)O)C2=NC5=C1C=C(C=C5)O",
+      "canonical_smiles": "CCc1c2c(nc3ccc(O)cc13)-c1cc3c(c(=O)n1C2)COC(=O)[C@]3(O)CC",
+      "parent_identity": "FJHBVJOVLFPMQE",
+      "tokens": 56,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "891494-63-6",
+      "source_smiles": "CN1C=C(C=N1)C2=C3N=C(C(=C(N3N=C2)N)Br)[C@@H]4CCCNC4",
+      "canonical_smiles": "Cn1cc(-c2cnn3c(N)c(Br)c([C@@H]4CCCNC4)nc23)cn1",
+      "parent_identity": "GMIZZEXBPRLVIV",
+      "tokens": 42,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "915019-65-7",
+      "source_smiles": "CC(C)(C#N)C1=CC=C(C=C1)N2C3=C4C=C(C=CC4=NC=C3N(C2=O)C)C5=CC6=CC=CC=C6N=C5",
+      "canonical_smiles": "Cn1c(=O)n(-c2ccc(C(C)(C)C#N)cc2)c2c3cc(-c4cnc5ccccc5c4)ccc3ncc21",
+      "parent_identity": "JOGKUKXHTYWRGZ",
+      "tokens": 66,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Bortezomib",
+      "source_smiles": "B([C@H](CC(C)C)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O",
+      "canonical_smiles": "CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c1cnccn1)B(O)O",
+      "parent_identity": "GXJABQQUPOEUTA",
+      "tokens": 48,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Carboplatinum",
+      "source_smiles": "C1CC(C1)(C(=O)[O-])C(=O)[O-].N.N.[Pt+2]",
+      "canonical_smiles": "N.N.O=C([O-])C1(C(=O)[O-])CCC1.[Pt+2]",
+      "parent_identity": "CCQPAEQGAVNNIA",
+      "tokens": 28,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Dasatinib",
+      "source_smiles": "CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO",
+      "canonical_smiles": "Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1",
+      "parent_identity": "ZBNZXTGUTAYRHI",
+      "tokens": 56,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Deforolimus",
+      "source_smiles": "C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)OP(=O)(C)C)C)/C)O)OC)C)C)/C)OC",
+      "canonical_smiles": "CO[C@H]1C[C@@H]2CC[C@@H](C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@H]2C(=O)O[C@H]([C@H](C)C[C@@H]2CC[C@@H](OP(C)(C)=O)[C@H](OC)C2)CC(=O)[C@H](C)/C=C(\\C)[C@@H](O)[C@@H](OC)C(=O)[C@H](C)C[C@H](C)/C=C/C=C/C=C/1C",
+      "parent_identity": "BUROJSBIWGDYCN",
+      "tokens": 135,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Dinaciclib",
+      "source_smiles": "CCC1=C2N=C(C=C(N2N=C1)NCC3=C[N+](=CC=C3)[O-])N4CCCC[C@H]4CCO",
+      "canonical_smiles": "CCc1cnn2c(NCc3ccc[n+]([O-])c3)cc(N3CCCC[C@H]3CCO)nc12",
+      "parent_identity": "PIMQWRZWLQKKBJ",
+      "tokens": 45,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Eloxatin (TN)",
+      "source_smiles": "C1CC[C@H]([C@@H](C1)N)N.C(=O)(C(=O)[O-])[O-].[Pt+2]",
+      "canonical_smiles": "N[C@@H]1CCCC[C@H]1N.O=C([O-])C(=O)[O-].[Pt+2]",
+      "parent_identity": "SSJXIUAHEKJCMH",
+      "tokens": 27,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Erlotinib",
+      "source_smiles": "COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC",
+      "canonical_smiles": "C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1",
+      "parent_identity": "AAKJLRGGTJKAMG",
+      "tokens": 44,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "L-778123 free base",
+      "source_smiles": "C1CN(C(=O)CN1CC2=CN=CN2CC3=CC=C(C=C3)C#N)C4=CC(=CC=C4)Cl",
+      "canonical_smiles": "N#Cc1ccc(Cn2cncc2CN2CCN(c3cccc(Cl)c3)C(=O)C2)cc1",
+      "parent_identity": "JNUGFGAVPBYSHF",
+      "tokens": 49,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Lapatinib",
+      "source_smiles": "CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl",
+      "canonical_smiles": "CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1",
+      "parent_identity": "BCFGMOOMADDAQU",
+      "tokens": 69,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "MK-1775",
+      "source_smiles": "CC(C)(C1=NC(=CC=C1)N2C3=NC(=NC=C3C(=O)N2CC=C)NC4=CC=C(C=C4)N5CCN(CC5)C)O",
+      "canonical_smiles": "C=CCn1c(=O)c2cnc(Nc3ccc(N4CCN(C)CC4)cc3)nc2n1-c1cccc(C(C)(C)O)n1",
+      "parent_identity": "BKWJAKQVGHWELA",
+      "tokens": 66,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "MK-2206",
+      "source_smiles": "C1CC(C1)(C2=CC=C(C=C2)C3=C(C=C4C(=N3)C=CN5C4=NNC5=O)C6=CC=CC=C6)N",
+      "canonical_smiles": "NC1(c2ccc(-c3nc4ccn5c(=O)[nH]nc5c4cc3-c3ccccc3)cc2)CCC1",
+      "parent_identity": "ULDXWLCXEDXJGE",
+      "tokens": 54,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "MK-4541",
+      "source_smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2NC(=O)OCC(F)(F)F)CC[C@@H]4[C@@]3(C=CC(=O)N4C)C",
+      "canonical_smiles": "CN1C(=O)C=C[C@]2(C)[C@H]3CC[C@]4(C)[C@@H](NC(=O)OCC(F)(F)F)CC[C@H]4[C@@H]3CC[C@@H]12",
+      "parent_identity": "OGBFNZPDLOPGEO",
+      "tokens": 57,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "MK-5108",
+      "source_smiles": "C1CC(CCC1OC2=C(C(=CC=C2)Cl)F)(CC3=NC(=CC=C3)NC4=NC=CS4)C(=O)O",
+      "canonical_smiles": "O=C(O)C1(Cc2cccc(Nc3nccs3)n2)CCC(Oc2cccc(Cl)c2F)CC1",
+      "parent_identity": "LCVIRAZGMYMNNT",
+      "tokens": 52,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "MRK003",
+      "source_smiles": "C1C[C@@H]2CC3=C(C[C@H]1[C@]24CN(S(=O)(=O)N4)CC(F)(F)F)C=CC(=C3)/C=C/CN5CCC(CC5)C(F)(F)F",
+      "canonical_smiles": "O=S1(=O)N[C@@]2(CN1CC(F)(F)F)[C@@H]1CC[C@H]2Cc2ccc(/C=C/CN3CCC(C(F)(F)F)CC3)cc2C1",
+      "parent_identity": "NKHUILHBYOOZDF",
+      "tokens": 70,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Niraparib",
+      "source_smiles": "C1C[C@H](CNC1)C2=CC=C(C=C2)N3C=C4C=CC=C(C4=N3)C(=O)N",
+      "canonical_smiles": "NC(=O)c1cccc2cn(-c3ccc([C@@H]4CCCNC4)cc3)nc12",
+      "parent_identity": "PCHKPVIQAHNQLW",
+      "tokens": 42,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Sorafenib",
+      "source_smiles": "CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F",
+      "canonical_smiles": "CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1",
+      "parent_identity": "MLDQJTXFUGDVEO",
+      "tokens": 58,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Sunitinib",
+      "source_smiles": "CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\\2/C3=C(C=CC(=C3)F)NC2=O)C",
+      "canonical_smiles": "CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\\C(=O)Nc3ccc(F)cc32)c1C",
+      "parent_identity": "WINHZLLDWRZWRT",
+      "tokens": 54,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Veliparib",
+      "source_smiles": "C[C@@]1(CCCN1)C2=NC3=C(C=CC=C3N2)C(=O)N",
+      "canonical_smiles": "C[C@]1(c2nc3c(C(N)=O)cccc3[nH]2)CCCN1",
+      "parent_identity": "JNAHVYVRKWKWKQ",
+      "tokens": 33,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "Vorinostat",
+      "source_smiles": "C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO",
+      "canonical_smiles": "O=C(CCCCCCC(=O)Nc1ccccc1)NO",
+      "parent_identity": "WAEXFXRVDQXREF",
+      "tokens": 29,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "cyclophosphamide",
+      "source_smiles": "C1CNP(=O)(OC1)N(CCCl)CCCl",
+      "canonical_smiles": "O=P1(N(CCCl)CCCl)NCCCO1",
+      "parent_identity": "CMSMOCZEIVJLDB",
+      "tokens": 23,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "dexamethasone",
+      "source_smiles": "C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C",
+      "canonical_smiles": "C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO",
+      "parent_identity": "UREBDLICKHMUKA",
+      "tokens": 56,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "doxorubicin",
+      "source_smiles": "C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O",
+      "canonical_smiles": "COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1",
+      "parent_identity": "AOJJSUZBOXZQNB",
+      "tokens": 74,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "etoposide",
+      "source_smiles": "C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O",
+      "canonical_smiles": "COc1cc([C@@H]2c3cc4c(cc3[C@@H](O[C@@H]3O[C@@H]5CO[C@@H](C)O[C@H]5[C@H](O)[C@H]3O)[C@H]3COC(=O)[C@H]23)OCO4)cc(OC)c1O",
+      "parent_identity": "VJJPUSNTGOMMGY",
+      "tokens": 73,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "geldanamycin",
+      "source_smiles": "C[C@H]1C[C@@H]([C@@H]([C@H](/C=C(/[C@@H]([C@H](/C=C\\C=C(\\C(=O)NC2=CC(=O)C(=C(C1)C2=O)OC)/C)OC)OC(=O)N)\\C)C)O)OC",
+      "canonical_smiles": "COC1=C2C[C@@H](C)C[C@H](OC)[C@H](O)[C@@H](C)/C=C(\\C)[C@H](OC(N)=O)[C@@H](OC)/C=C\\C=C(/C)C(=O)NC(=CC1=O)C2=O",
+      "parent_identity": "QTQAWLPCGQOSGP",
+      "tokens": 82,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "gemcitabine",
+      "source_smiles": "C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F",
+      "canonical_smiles": "Nc1ccn([C@@H]2O[C@H](CO)[C@@H](O)C2(F)F)c(=O)n1",
+      "parent_identity": "SDUQYLNIPVEERB",
+      "tokens": 35,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "metformin",
+      "source_smiles": "CN(C)C(=N)N=C(N)N",
+      "canonical_smiles": "CN(C)C(=N)N=C(N)N",
+      "parent_identity": "XZWYZXLIPXDOLR",
+      "tokens": 19,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "methotrexate",
+      "source_smiles": "CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O",
+      "canonical_smiles": "CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1",
+      "parent_identity": "FBOZXECLQNJBKD",
+      "tokens": 60,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "mitomycin C",
+      "source_smiles": "CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N",
+      "canonical_smiles": "CO[C@@]12[C@H](COC(N)=O)C3=C(C(=O)C(C)=C(N)C3=O)N1C[C@@H]1N[C@@H]12",
+      "parent_identity": "NWIBSHFKIJFRCO",
+      "tokens": 51,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "paclitaxel",
+      "source_smiles": "CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C",
+      "canonical_smiles": "CC(=O)O[C@H]1C(=O)[C@@]2(C)[C@H]([C@H](OC(=O)c3ccccc3)[C@]3(O)C[C@H](OC(=O)[C@H](O)[C@@H](NC(=O)c4ccccc4)c4ccccc4)C(C)=C1C3(C)C)[C@]1(OC(C)=O)CO[C@@H]1C[C@@H]2O",
+      "parent_identity": "RCINICONZNJXQF",
+      "tokens": 117,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "temozolomide",
+      "source_smiles": "CN1C(=O)N2C=NC(=C2N=N1)C(=O)N",
+      "canonical_smiles": "Cn1nnc2c(C(N)=O)ncn2c1=O",
+      "parent_identity": "BPEGJWRSRHCHSN",
+      "tokens": 26,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": true,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "topotecan",
+      "source_smiles": "CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O",
+      "canonical_smiles": "CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1",
+      "parent_identity": "UCFGDBYHRUNTLO",
+      "tokens": 58,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "vinblastine",
+      "source_smiles": "CC[C@@]1(C[C@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O",
+      "canonical_smiles": "CC[C@]1(O)C[C@@H]2CN(CCc3c([nH]c4ccccc34)[C@@](C(=O)OC)(c3cc4c(cc3OC)N(C)[C@H]3[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]5(CC)C=CCN6CC[C@]43[C@@H]65)C2)C1",
+      "parent_identity": "JXLYSJRDGCGARV",
+      "tokens": 111,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    },
+    {
+      "drug_id": "vinorelbine",
+      "source_smiles": "CCC1=C[C@H]2C[C@@](C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC",
+      "canonical_smiles": "CCC1=C[C@@H]2CN(C1)Cc1c([nH]c3ccccc13)[C@@](C(=O)OC)(c1cc3c(cc1OC)N(C)[C@H]1[C@@](O)(C(=O)OC)[C@H](OC(C)=O)[C@]4(CC)C=CCN5CC[C@]31[C@@H]54)C2",
+      "parent_identity": "GBABOYUKABKIAF",
+      "tokens": 108,
+      "truncated": false,
+      "unknown_tokens": 0,
+      "reused_exact_original_smiles": false,
+      "repeat_max_delta": 0.0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+population,model,metric,mean,sd
+Full historical Random,SCIP-Syn,PCC,0.7376,0.0054
+Full historical Random,SCIP-Syn,Spearman,0.6707,0.0036
+Full historical Random,SCIP-Syn,EF@5%,10.8436,0.3861
+Unit-Nonoverlap,SCIP-Syn,PCC,0.7413,0.005
+Unit-Nonoverlap,SCIP-Syn,Spearman,0.6764,0.0037
+Unit-Nonoverlap,SCIP-Syn,EF@5%,11.1532,0.5072
+Repeated-unit diagnostic,SCIP-Syn,PCC,0.6481,0.0316
+Repeated-unit diagnostic,SCIP-Syn,Spearman,0.5837,0.0266
+Repeated-unit diagnostic,SCIP-Syn,EF@5%,7.2462,1.042
+Unit-Nonoverlap Random,DeepDDS,PCC,0.7338,0.0076
+Unit-Nonoverlap Random,DeepDDS,Spearman,0.6587,0.0063
+Unit-Nonoverlap Random,DeepDDS,EF@5%,10.33,0.465
+Unit-Nonoverlap Random,LinearSVR,PCC,0.3489,0.0071
+Unit-Nonoverlap Random,LinearSVR,Spearman,0.3472,0.0053
+Unit-Nonoverlap Random,LinearSVR,EF@5%,4.9469,0.4615
+Unit-Nonoverlap Random,SCIP-Syn,PCC,0.7413,0.005
+Unit-Nonoverlap Random,SCIP-Syn,Spearman,0.6764,0.0037
+Unit-Nonoverlap Random,SCIP-Syn,EF@5%,11.1532,0.5072
+Unit-Nonoverlap Random,XGBoost,PCC,0.6976,0.0064
+Unit-Nonoverlap Random,XGBoost,Spearman,0.621,0.0033
+Unit-Nonoverlap Random,XGBoost,EF@5%,9.6213,0.7287
+Unit-Nonoverlap Random,ENV-Syn,PCC,0.8097,0.008
+Unit-Nonoverlap Random,ENV-Syn,Spearman,0.7659,0.0063
+Unit-Nonoverlap Random,ENV-Syn,EF@5%,14.5524,0.5041
+Unit-Nonoverlap Random,Molecular MLP,PCC,0.7369,0.0053
+Unit-Nonoverlap Random,Molecular MLP,Spearman,0.6655,0.0034
+Unit-Nonoverlap Random,Molecular MLP,EF@5%,9.9028,0.6739
+Unit-Nonoverlap Random,MDNNSyn,PCC,0.3127,0.0055
+Unit-Nonoverlap Random,MDNNSyn,Spearman,0.283,0.0055
+Unit-Nonoverlap Random,MDNNSyn,EF@5%,3.9992,0.4639

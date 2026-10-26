@@ -1,0 +1,857 @@
+{
+  "schema": [
+    "drug_lo",
+    "drug_hi",
+    "cell_line_id",
+    "y_true_raw",
+    "y_pred_raw",
+    "tie_order",
+    "rank_order"
+  ],
+  "files": [
+    {
+      "path": "SCIP-Syn/ALMANAC/evaluation_00.csv",
+      "sha256": "d9698bb3b5ffd5a6c3ffe7bc42ee694a00d1ee27f891a843ea147e8aa0645054",
+      "source_sha256": "264bf594db0233fa046d807e96b291b89ffaee015818a1af791ddcf08bf0115e",
+      "rows": 1953
+    },
+    {
+      "path": "SCIP-Syn/ALMANAC/evaluation_01.csv",
+      "sha256": "85acb16d33e470f7f5ba5edffceb4c677ff5e02a2c912e98a064cd77c4a70d48",
+      "source_sha256": "f55dfcd247b1bde3f00f82b59cf42066c8e4e672ed12fdeddc77c8236ed1a163",
+      "rows": 2485
+    },
+    {
+      "path": "SCIP-Syn/ALMANAC/evaluation_02.csv",
+      "sha256": "288a3844cdb0ec07fb38e645e6e9aa567432f25f5839cae22a3004d0fa3e71d6",
+      "source_sha256": "3b80db9ce0feec57f488bee2da8f6f54789421d89314a5a8cc39c0ddeba0bbab",
+      "rows": 2583
+    },
+    {
+      "path": "SCIP-Syn/ALMANAC/evaluation_03.csv",
+      "sha256": "8ff703256ce7a2889e4a3b74052407a03fd39585d6895d5c5557d26100b21534",
+      "source_sha256": "8fd7aff552ec21bf7462909eda920202e158b58a68f3794cdb7e2ef888e1192e",
+      "rows": 2081
+    },
+    {
+      "path": "SCIP-Syn/ALMANAC/evaluation_04.csv",
+      "sha256": "92d1cf1374ceb5c6b6e6d2fcf6b770b81787c20c4301786d0eb29f71b6ae1c36",
+      "source_sha256": "0df11d87402d442b9b2f84f2c30d04a1b1c666108ebda1d06abaddd588970550",
+      "rows": 2024
+    },
+    {
+      "path": "SCIP-Syn/ALMANAC/evaluation_05.csv",
+      "sha256": "5092514548809fce6621241af47ee601121990c61fdc2bd36f23f2e5608a443f",
+      "source_sha256": "0f27fb2a95e756cfc39b4497a074a9feb4351ff3572fe5f47a688333ad7b20e9",
+      "rows": 2031
+    },
+    {
+      "path": "SCIP-Syn/ALMANAC/evaluation_06.csv",
+      "sha256": "cc4e33577ac787268d242ec01fd5116fd6208d6e3dc059ad9dd39d9897c38a6d",
+      "source_sha256": "cc8eea7c2fdcb64483666c1615f4822deccfd856cc5d824f8c2fce405efa7a99",
+      "rows": 1934
+    },
+    {
+      "path": "SCIP-Syn/ALMANAC/evaluation_07.csv",
+      "sha256": "b4ff4407e8df30efcce15eccb26d5d4311ce25f0b103c13909c8245c117792c6",
+      "source_sha256": "2c17f88b86803b451763a3cc5f061e234c06ab376146723d76509b4bb9648779",
+      "rows": 2014
+    },
+    {
+      "path": "SCIP-Syn/ALMANAC/evaluation_08.csv",
+      "sha256": "00dbd2c916ac58328aa29b5bea7b47830b066c854689cb34a8c62da1e4f591de",
+      "source_sha256": "9afb0472fa4d6a256e9925b9f8443eecbfc6dd65b58dc863ffcfe27d66ef12df",
+      "rows": 1968
+    },
+    {
+      "path": "SCIP-Syn/ALMANAC/evaluation_09.csv",
+      "sha256": "3f604400bc3f00809aaf191e25d14e39f94b43700697be9c62cfff782010a3eb",
+      "source_sha256": "dec9deb0ef1875a37dc9570ce4288648aca4bed96679130dbc060fbb768da20f",
+      "rows": 1999
+    },
+    {
+      "path": "ENV-Syn/ALMANAC/evaluation_00.csv",
+      "sha256": "6c0fc3a2f21acf355564e42b23406813d4d0705a5f488d147d367b94e6ee95dc",
+      "source_sha256": "d80e9adc58f3d47edeaf88c3e0b3cf4e2115ce5dd8e535fbda640f8aa1220833",
+      "rows": 1953
+    },
+    {
+      "path": "ENV-Syn/ALMANAC/evaluation_01.csv",
+      "sha256": "49aa4a18d0ec43d7e8b194ff20323f09b243be09ba2cdd23826a53d329f4b4e2",
+      "source_sha256": "0e32e7d71855c59466c8dd0de49e4b741434521f3ccc04affdd1d93f6a931864",
+      "rows": 2485
+    },
+    {
+      "path": "ENV-Syn/ALMANAC/evaluation_02.csv",
+      "sha256": "59835a0842450fd0da1d99779f834d7428d788191760ff7e741f53eac6b4af63",
+      "source_sha256": "0581387a5d3dedfe9bba99b59a331c1bf8333ac0ca26e14d23f8f40f536f806c",
+      "rows": 2583
+    },
+    {
+      "path": "ENV-Syn/ALMANAC/evaluation_03.csv",
+      "sha256": "0471d89eeb7f5559d4f0c967154bb985bcd80786ddb5d950297c310e84d1f197",
+      "source_sha256": "a92b835a370699302d68f6b665997d5da68cd06179c7477bc780ce4f8a32093c",
+      "rows": 2081
+    },
+    {
+      "path": "ENV-Syn/ALMANAC/evaluation_04.csv",
+      "sha256": "80b01c79e051c251b966b6f6b1170009e26c6409d08d6ac3e2bd2b235fe1c1d4",
+      "source_sha256": "e26101cfd17afbfc1aee106d4485fe66730a0f50cf24f6385aab7234da6733c7",
+      "rows": 2024
+    },
+    {
+      "path": "ENV-Syn/ALMANAC/evaluation_05.csv",
+      "sha256": "097d039580ed1e59effe3e47831f5e8429eed3e3c11984309380335c7edb2741",
+      "source_sha256": "b4633f06cc983f4ce89915d498fd9b7adc01fbca763cf2bb6d33fc681abddd00",
+      "rows": 2031
+    },
+    {
+      "path": "ENV-Syn/ALMANAC/evaluation_06.csv",
+      "sha256": "8aa6fa6f968bf2a44ceb9f899a954c09755e29ad05e493f98d3c9ed1ed2ee1d6",
+      "source_sha256": "effda4a05ec82205dbc8e21ee29b809242f498ffdd7c2ca20b62d568558b0764",
+      "rows": 1934
+    },
+    {
+      "path": "ENV-Syn/ALMANAC/evaluation_07.csv",
+      "sha256": "64bf4b6608982e96e98f3c019b2e9254770ddce5535aa07ab73ebcf26be8ef19",
+      "source_sha256": "52ffa51813b2df117c75ec83e9656d60cbf7b8a413301541561114fa7b463e00",
+      "rows": 2014
+    },
+    {
+      "path": "ENV-Syn/ALMANAC/evaluation_08.csv",
+      "sha256": "2ff5887ae007d63aa11b9d02b6564156a463b1a13a609854e4bc9caaa32c067c",
+      "source_sha256": "7e4bc1c394548d78a7741e9fdc87992df72b11dfe1ac8228701bd996b8900868",
+      "rows": 1968
+    },
+    {
+      "path": "ENV-Syn/ALMANAC/evaluation_09.csv",
+      "sha256": "f5c620490d47f680fe4ef23d27a309c3a73ad753e9d8ff61a6665ade7f6de301",
+      "source_sha256": "b7f5997f3f859dc6ef22d7a4a6c675537eb5960fda7ada39beacf067d0491cb2",
+      "rows": 1999
+    },
+    {
+      "path": "DeepDDS/ALMANAC/evaluation_00.csv",
+      "sha256": "7248ba7c7ff81e93a21930eabe0388d1458d8702dc2c9ce2fd37d4060450ead2",
+      "source_sha256": "86556cafff7876ce31c6e21be3ba19abe9bda4335ae839529c00015208b6128e",
+      "rows": 1953
+    },
+    {
+      "path": "DeepDDS/ALMANAC/evaluation_01.csv",
+      "sha256": "b1675587402e75df4189cfc3c459513f0fb7236ee82561bc0e3ba532f3356081",
+      "source_sha256": "f681a2a96de89e63deed8c503f832bad6185f6b9b33b38d375ba6b86af8a7cb8",
+      "rows": 2485
+    },
+    {
+      "path": "DeepDDS/ALMANAC/evaluation_02.csv",
+      "sha256": "6641d16d4e668b3d395259a742eba4e18e998133d8b31b0882c28ea94b6165e2",
+      "source_sha256": "b793c6fe49e2a653986ba5268b10fe74528020f5e22d09ca93e8baa466a5ef56",
+      "rows": 2583
+    },
+    {
+      "path": "DeepDDS/ALMANAC/evaluation_03.csv",
+      "sha256": "b1fabc508a25ce7a5163d61dee322360f5096a562a0cdff70a12b6c89f4d5f62",
+      "source_sha256": "cb6a225501eeba7d5a3f288208e21bebb097eba2eb960a723818167aae304dea",
+      "rows": 2081
+    },
+    {
+      "path": "DeepDDS/ALMANAC/evaluation_04.csv",
+      "sha256": "254064a0adc033efba7b44b3d17d26f71195de0d1fe6efdfd29eac105ffb39e3",
+      "source_sha256": "5ce320683c0b5bab9be3b511d1350cb346ef332bc08884a485dfb8987abf31f4",
+      "rows": 2024
+    },
+    {
+      "path": "DeepDDS/ALMANAC/evaluation_05.csv",
+      "sha256": "5c12300492921701633d033e3527f8398ced5cfaa06ac3db083da56ffd4841d6",
+      "source_sha256": "c8f36508316f80065d8fefd349ec9e00a8cb3c60d1542e0ee748265c743cf431",
+      "rows": 2031
+    },
+    {
+      "path": "DeepDDS/ALMANAC/evaluation_06.csv",
+      "sha256": "17808293d3c986607dba09156a941685ca42b2ed92864e1e87b6e1a66a1b08e2",
+      "source_sha256": "91cc3d83b1b3e43929d9f581fa203bc311759c8155556b24905bf62f663c343c",
+      "rows": 1934
+    },
+    {
+      "path": "DeepDDS/ALMANAC/evaluation_07.csv",
+      "sha256": "244c6f1668c77728a2bd4cf52fdf3b46c57e670717be33b43075539479286cc3",
+      "source_sha256": "711546baa8be03310e38726c58387c40fd8cc256ef35f8289c7fa89fc3003f46",
+      "rows": 2014
+    },
+    {
+      "path": "DeepDDS/ALMANAC/evaluation_08.csv",
+      "sha256": "fcce733a3cdb1c0efb124bd8554dcfbdb5441472976ad44a786745853be463a4",
+      "source_sha256": "facdb602fb50fc42d4bac12d90b509a99e3ed1f7565329a22f52a002909029a0",
+      "rows": 1968
+    },
+    {
+      "path": "DeepDDS/ALMANAC/evaluation_09.csv",
+      "sha256": "65fa3c32ceb1671d684831cab63e6bd292c66c86472ad9f5b0361ca6046b63ba",
+      "source_sha256": "1a544840f30e39762fcc1fa55eb7c94e360d410503d7bbf6383e383489bb58c6",
+      "rows": 1999
+    },
+    {
+      "path": "GraphTranSynergy/ALMANAC/evaluation_00.csv",
+      "sha256": "2d4034400f7990515b0d0018b71a06b6f18099d334d3b7792f3fd4c6e5ed32a1",
+      "source_sha256": "a50547e5d1fbced8d55e6a0a70676e52963e650dfb1e5ea5b625fd6f225bc9f4",
+      "rows": 1953
+    },
+    {
+      "path": "GraphTranSynergy/ALMANAC/evaluation_01.csv",
+      "sha256": "d60db1d7bd0f338e2b1c25738bfadc37d802dabde2ac22ac7e03b93b0e07d06d",
+      "source_sha256": "ef6b160e83bb967eb2b0e6ba86ba1f4e4fa6a7b8b9605fed77e6344dc3b75c30",
+      "rows": 2485
+    },
+    {
+      "path": "GraphTranSynergy/ALMANAC/evaluation_02.csv",
+      "sha256": "3a41db0a0118b24b8ed475e4e39745ba5881764aa6d5e98d3812486eecbf167a",
+      "source_sha256": "5ce441c3ac30aa7a8416fe72b9d1e1f4b35586696a327dda5459acefeb60c43b",
+      "rows": 2583
+    },
+    {
+      "path": "GraphTranSynergy/ALMANAC/evaluation_03.csv",
+      "sha256": "a376c6b83d2e8388d7f31774efdd3be9f8d692c10cab5cd01efd99cebced1b67",
+      "source_sha256": "1e152fa6debc4e26f696472febd5e91bde6529686f5cd5f33c95ac8bdae0f48f",
+      "rows": 2081
+    },
+    {
+      "path": "GraphTranSynergy/ALMANAC/evaluation_04.csv",
+      "sha256": "4c90a33bc2d7ccee512d5fa7bd37d43b3fa6acea9025f0111004083c460cf8a2",
+      "source_sha256": "36a23adb0337ac06020a810ca366c99c11bf35eee118b6747c57064434adead6",
+      "rows": 2024
+    },
+    {
+      "path": "GraphTranSynergy/ALMANAC/evaluation_05.csv",
+      "sha256": "d4bddf7d49c589b463296da09a61b10a6990e9ec370f9aa04cf5d0f692299e27",
+      "source_sha256": "8de1f9e88b4f9ce27e4f8fbb327bc1fcb89ffe0e981d9556920f65866796f4eb",
+      "rows": 2031
+    },
+    {
+      "path": "GraphTranSynergy/ALMANAC/evaluation_06.csv",
+      "sha256": "be826c911f0b79dcb00cbb8b3f0a5d72e0dc062bd44395a1f9d9aec310b83f5c",
+      "source_sha256": "6aa957e43cba694d57d1964cf06c7d42ef2fe77b9dc515589c9e7f99e4c97e10",
+      "rows": 1934
+    },
+    {
+      "path": "GraphTranSynergy/ALMANAC/evaluation_07.csv",
+      "sha256": "3251fa067ddceb243e3069149d7a9f125583ab9f82bb5dccb1a80ce93a79fc82",
+      "source_sha256": "6208979a31b89f2eeb329ce09f2a67dbd778f3c3804baac56d244ff0470cb388",
+      "rows": 2014
+    },
+    {
+      "path": "GraphTranSynergy/ALMANAC/evaluation_08.csv",
+      "sha256": "8a24214c4560fc66f160b1a142f2ddd1f58a44ac2cced2d2a25ec44361a3731a",
+      "source_sha256": "e1be500785e97a54e553bc09b2437e2b4c9db44a1700c5368b1f47995ba35ede",
+      "rows": 1968
+    },
+    {
+      "path": "GraphTranSynergy/ALMANAC/evaluation_09.csv",
+      "sha256": "baffdfd92c3bf42aa34f056ac8a1aceb9549f96c36e75c93890d081d5ad4ef73",
+      "source_sha256": "c557dc365be73736030c6b32e02ac721e8d71536d53817a1ca96b4c190f23722",
+      "rows": 1999
+    },
+    {
+      "path": "MDNNSyn/ALMANAC/evaluation_00.csv",
+      "sha256": "e13f376368d5f67308309f1a00df4cd5cb8d9389b8f5d336e0b503217594f9a3",
+      "source_sha256": "5337a2db3c188cc68f5194f7d49b2de8d92a059b4da94de2a1dd30ebe11e7fde",
+      "rows": 1953
+    },
+    {
+      "path": "MDNNSyn/ALMANAC/evaluation_01.csv",
+      "sha256": "d07177e7d8ed2960f15952159c0fbf6437b3b739f3e4a6619c67f1c249d9c908",
+      "source_sha256": "db4660f33cbe269e7ba93d9e3c5199d63602f247756c1cc8315bc9064676ff9c",
+      "rows": 2485
+    },
+    {
+      "path": "MDNNSyn/ALMANAC/evaluation_02.csv",
+      "sha256": "fdb4a79c542b7d7a96efff08fad37ae630d8cb3295d7af8882ac3b4575b5be49",
+      "source_sha256": "ab40b6863b9c5228b77c9e0a72fcbe9ede90997e15a211d7074a9597aa081ac3",
+      "rows": 2583
+    },
+    {
+      "path": "MDNNSyn/ALMANAC/evaluation_03.csv",
+      "sha256": "98b91006403a7095253581d182278de8b44ce6841146364ee57989fa1eff89cc",
+      "source_sha256": "2a09ef8a80eda4ee87f8a7a3b143ad16db0159088bcb483c9bed0739f03cc6b6",
+      "rows": 2081
+    },
+    {
+      "path": "MDNNSyn/ALMANAC/evaluation_04.csv",
+      "sha256": "2e635fced05237faae342d7e6f9e7d3475f0cbec357dc3d5c7473596a93c7979",
+      "source_sha256": "7df9fad9172bda2c6841a7bd9b1d8240269f5396916dfcbfa1bb366351803d42",
+      "rows": 2024
+    },
+    {
+      "path": "MDNNSyn/ALMANAC/evaluation_05.csv",
+      "sha256": "1a455840f01d6dce7cc4848a4a22e19d2413c921d6b7ad3ff5c8ebb46320a9e1",
+      "source_sha256": "c9fae098e2862d889ba9dc52199377d0b4772691240ecded985b8a7ba56b4a3c",
+      "rows": 2031
+    },
+    {
+      "path": "MDNNSyn/ALMANAC/evaluation_06.csv",
+      "sha256": "c7139188bb29848eae65d456be67574fd1b0b7a2fc9b2c1f6fdbbd100c57664e",
+      "source_sha256": "9b381e8dc9ab306c390df7fc5ea6fe3b04a3461ecb1fbd58f8e1d9867450b984",
+      "rows": 1934
+    },
+    {
+      "path": "MDNNSyn/ALMANAC/evaluation_07.csv",
+      "sha256": "f128902d334a3ea9bd55787d5b96fcfc74ff009f55381c4105d9d59236786e72",
+      "source_sha256": "9451fe662fa4900132bc89ef5d4c2f00e74f627196cf7ab0f30343a1703f251f",
+      "rows": 2014
+    },
+    {
+      "path": "MDNNSyn/ALMANAC/evaluation_08.csv",
+      "sha256": "94a6e95bb63f1388bcb5a40332450806bda47f0c37a2753c1d9d80f500c75ca9",
+      "source_sha256": "057383232581b011f06a03c1bd250fe4d4e21dbdb9ce06a52bf66c561d638315",
+      "rows": 1968
+    },
+    {
+      "path": "MDNNSyn/ALMANAC/evaluation_09.csv",
+      "sha256": "18b198bbb4e9c125f3c117908d2a2b6391b9fc76f45629b5c772168c11175d79",
+      "source_sha256": "2fdb49efdae83097e2ab41f1e11cd648705fc5a2a74d4933d507ebcbd292e669",
+      "rows": 1999
+    },
+    {
+      "path": "Molecular_MLP/ALMANAC/evaluation_00.csv",
+      "sha256": "7338847c6569cdbe691426b433e3795b22b7fc92e35cfc6eaa4cfb44e5597598",
+      "source_sha256": "8d82db414c3523c229c2cfa2b20b6472b5c1fd22437feb13da861d058107018c",
+      "rows": 1953
+    },
+    {
+      "path": "Molecular_MLP/ALMANAC/evaluation_01.csv",
+      "sha256": "cd6a0b50ab7ef0d4496effb8dcb888c73fc2284a21d68e83771c0910c2525926",
+      "source_sha256": "7f5b7b41f7245ec75c0df2228eb0851a2831b8b885ace2e61543fd98c18c7670",
+      "rows": 2485
+    },
+    {
+      "path": "Molecular_MLP/ALMANAC/evaluation_02.csv",
+      "sha256": "6717eb92bcb4ef084c70261ee19b0550f0233a6a12d40db0f0a2a446fdf4131b",
+      "source_sha256": "39bbd309574c300ddc99b4619ad1348f8ce39fe86249b1774118fb4d7f57faac",
+      "rows": 2583
+    },
+    {
+      "path": "Molecular_MLP/ALMANAC/evaluation_03.csv",
+      "sha256": "64d968c7e6e34468def0dc90be61449f308ead72dc2268be7a28e6e152eb84b4",
+      "source_sha256": "065cd0230d441a93a1b11fcbd77dd20ffce86654e39518708d485d39aef0e8df",
+      "rows": 2081
+    },
+    {
+      "path": "Molecular_MLP/ALMANAC/evaluation_04.csv",
+      "sha256": "80f328e1a77d1b0a3fba1376ba70412fbe579a72e51b405f1b77104e351cb0ad",
+      "source_sha256": "5eadd49de9ce30c2073a265ca59c851401ea38a147bc6789d4006143db30633d",
+      "rows": 2024
+    },
+    {
+      "path": "Molecular_MLP/ALMANAC/evaluation_05.csv",
+      "sha256": "275866070cf373faad55614f3338530b1c522d8c5b35e9e1727452f25352fb5f",
+      "source_sha256": "0f78032a91e97d8e270a6ee63032fce37823decd964b92a2a4d618fc8c66fcd4",
+      "rows": 2031
+    },
+    {
+      "path": "Molecular_MLP/ALMANAC/evaluation_06.csv",
+      "sha256": "950876a161c8e3f5566c538aa1e88f70e74f1d71f880f46b400b7905a7dbdaa1",
+      "source_sha256": "a6715f3c023942ab9a97e759b2e64e81d6d05b2f92018e67810634cd34e74859",
+      "rows": 1934
+    },
+    {
+      "path": "Molecular_MLP/ALMANAC/evaluation_07.csv",
+      "sha256": "740b28be4284de431008534f7a333795a473ae39583c087f5a50d246171f2f87",
+      "source_sha256": "3644de29b1200ee91f684cbceb7d7c44a349dee09da1202f354e01d5e0c65713",
+      "rows": 2014
+    },
+    {
+      "path": "Molecular_MLP/ALMANAC/evaluation_08.csv",
+      "sha256": "4602e8751e385d7359a71fbed52631265e2cdf89933b849675a9f441c3e0bea9",
+      "source_sha256": "1f825cf490318908e5f3b9bcd489e189bf68638a32ee7dc37eb60432f1d365c3",
+      "rows": 1968
+    },
+    {
+      "path": "Molecular_MLP/ALMANAC/evaluation_09.csv",
+      "sha256": "efff5931e758224123466be7a61b2b7f898fbe6295177562d5b4b12044ca0dec",
+      "source_sha256": "1ba8baeee6ff4e8c9753d12b871d2b9f0cd5cb6ab9bd14a812000c73895b3af4",
+      "rows": 1999
+    },
+    {
+      "path": "XGBoost/ALMANAC/evaluation_00.csv",
+      "sha256": "6b41bd94b2b3060e77bab076c9cd2c8d444639c82154e78f2e6088e5b4c07093",
+      "source_sha256": "0e272271094d184be99268e2daefb1c284c5b6ad863376aac955074088d3939b",
+      "rows": 1953
+    },
+    {
+      "path": "XGBoost/ALMANAC/evaluation_01.csv",
+      "sha256": "effe7d97c037faf82bf87c7ed70093c69d21554643744a144915994e0b647f5a",
+      "source_sha256": "2474b88685394b140bc9c88f9398ce7ccc6738cb3cfc71d9ab81e5981bb3689c",
+      "rows": 2485
+    },
+    {
+      "path": "XGBoost/ALMANAC/evaluation_02.csv",
+      "sha256": "239978b2de05174d3800cb98ccf75539c8bb8582ea5ea1485454d62536efb0ea",
+      "source_sha256": "ae2d987efe7cf7c5069f886875d731d7bcd9a7a2333cb6ad386cf35934c343c3",
+      "rows": 2583
+    },
+    {
+      "path": "XGBoost/ALMANAC/evaluation_03.csv",
+      "sha256": "12a8c810bb67a61733e0294219db476998a9755e1a367c2c8213ff4c2ceb9a3f",
+      "source_sha256": "09e3a38c85ba96798d264aac8fe7ceedcaa5605cc8df7da29290097ae6bd8463",
+      "rows": 2081
+    },
+    {
+      "path": "XGBoost/ALMANAC/evaluation_04.csv",
+      "sha256": "a1565ffd5df57b84f4c8d0539cbffc58ffa76450d8f0b22fed7432fd461f883e",
+      "source_sha256": "c67336b01cd5916c3017448a11e6aa4bd3fb0aa869869aee9f97e005c3123702",
+      "rows": 2024
+    },
+    {
+      "path": "XGBoost/ALMANAC/evaluation_05.csv",
+      "sha256": "0341a65523ab1bbf13befecb1a5487e68c65b363bb8d5b1130569bcb783614b8",
+      "source_sha256": "9dfddb5ab2bea585c069f8e317f269ace383dc07194bc9baae7ea056ac12796e",
+      "rows": 2031
+    },
+    {
+      "path": "XGBoost/ALMANAC/evaluation_06.csv",
+      "sha256": "f89e807f05f9de4d54895deb59a9125e9828e65d41c8b3fcc7dd269681b71fbc",
+      "source_sha256": "902edcd0ad357854d050909940943213339bbeb50a7365c17c52841de99c5367",
+      "rows": 1934
+    },
+    {
+      "path": "XGBoost/ALMANAC/evaluation_07.csv",
+      "sha256": "31ef25460365fab7a3c2380721e659eeb0ea7eee7d4bd5e68e85be4fe273661b",
+      "source_sha256": "738c2da750a5e79d8f943f215fb79cbf41d0c28d91db571272849a12ae4babec",
+      "rows": 2014
+    },
+    {
+      "path": "XGBoost/ALMANAC/evaluation_08.csv",
+      "sha256": "2d05714362b76cddcd3388b539fecbc2083ba715b84061193255f5e6961160d8",
+      "source_sha256": "25751172613b2dde61f4ddd7b780d0c70bba19a984365048fb1dfe508b6ab977",
+      "rows": 1968
+    },
+    {
+      "path": "XGBoost/ALMANAC/evaluation_09.csv",
+      "sha256": "3f255d957fc19ac68dfe512df5566e93fc170b21dacee7fdf1222e931ce5826f",
+      "source_sha256": "19effdfd103212044fbfc15736e8ecbd227785bd52e1f41f10c711e8af9bb486",
+      "rows": 1999
+    },
+    {
+      "path": "LinearSVR/ALMANAC/evaluation_00.csv",
+      "sha256": "7ab6d1c9df68d512e0cec043a81dfd0c0e3c52f4d7de646d51d7d4e195b61768",
+      "source_sha256": "fb9a0b17a618a1f8c0527ab6db514ac7aed8b9085eb2f02dd4c8216881b624c2",
+      "rows": 1953
+    },
+    {
+      "path": "LinearSVR/ALMANAC/evaluation_01.csv",
+      "sha256": "c2aaa75d9dc10fcffaaaeb30e2c2ddc23fd89a422a064d252a5a9b0b779d5182",
+      "source_sha256": "22e89db6892b5df5a1b00d36237301148ff16302968a7d7317d24cd66eefc4e8",
+      "rows": 2485
+    },
+    {
+      "path": "LinearSVR/ALMANAC/evaluation_02.csv",
+      "sha256": "96e72b1169c9a83263460480a3ba6c488948296c0a38e205b1829de57bb525c6",
+      "source_sha256": "c826b5b1398eacee6830bc325208d299db3ad871f4a6e2f2cc43877d01b3a134",
+      "rows": 2583
+    },
+    {
+      "path": "LinearSVR/ALMANAC/evaluation_03.csv",
+      "sha256": "4f5348078ebf4d12050799d07a9d8be576e4b8073576498a37e83ea9852adf8e",
+      "source_sha256": "5997f2dfb303f7f62eafb7e4bc44b55c35f24a16da0b569b313221ee25b8ced7",
+      "rows": 2081
+    },
+    {
+      "path": "LinearSVR/ALMANAC/evaluation_04.csv",
+      "sha256": "71f48bc58770c765c67e989590d18b41e79a28e7fc46ed9fc5ddeedc87f3212f",
+      "source_sha256": "40addba0aba1c28510435ee46f7f30c78571e82f6923b8d58069ca1c2ea19d45",
+      "rows": 2024
+    },
+    {
+      "path": "LinearSVR/ALMANAC/evaluation_05.csv",
+      "sha256": "2ab4af6792d17b86fe91c3a7cc8bae241171e7926664817062203b82b7136daf",
+      "source_sha256": "0999e15829467fe60c6f8a9e1d39902b13c6a020c4c56989c6b5d895e4451cf2",
+      "rows": 2031
+    },
+    {
+      "path": "LinearSVR/ALMANAC/evaluation_06.csv",
+      "sha256": "748388383750416c276307c45828442ef3cda779cfc6c40dc8c4a4055cc0cd88",
+      "source_sha256": "a2dae37b39df27262fd2c3801e2d048437eba0ab9505083a0d301dc297c34f89",
+      "rows": 1934
+    },
+    {
+      "path": "LinearSVR/ALMANAC/evaluation_07.csv",
+      "sha256": "16449ba27cf9e530d2bab0fa6f8e757f225debad22160cbe3523cca1b74962e0",
+      "source_sha256": "742177aaffe5c538a22a1874d129bcd8d7658fcf9f1b9eee03ac486423330b61",
+      "rows": 2014
+    },
+    {
+      "path": "LinearSVR/ALMANAC/evaluation_08.csv",
+      "sha256": "a6e344cc9a7110e88023d4e75ae8a3d1319fcfc8cc3087eeb38179c4b71b9cd7",
+      "source_sha256": "b2747cf4733e26d192af9fc3e6c98a59752d5af9812e72f021e4b453d4541ecb",
+      "rows": 1968
+    },
+    {
+      "path": "LinearSVR/ALMANAC/evaluation_09.csv",
+      "sha256": "ab40f4d3ddcc51d7c2c0804cb682fb7a19e71cfe54975db22a5e529842b5fa2f",
+      "source_sha256": "574dd91d556ac254d64209f3322281fc348c8fabc54a9fa529c9bc2a127deaf8",
+      "rows": 1999
+    },
+    {
+      "path": "SCIP-Syn/ONeil/evaluation_00.csv",
+      "sha256": "1cc1d376c95466442e9f24089e1d4f162e2949c8aaf9d8b5681420bc26ee2551",
+      "source_sha256": "9878212af8534ee2b2aeb507c8f5f948d1710be26ffc255c56f37d484ae100ca",
+      "rows": 5940
+    },
+    {
+      "path": "SCIP-Syn/ONeil/evaluation_01.csv",
+      "sha256": "f49a1d68382fcdbb5ab9a1ff51187d9b3874fd140487b319702f0ec0695b5aab",
+      "source_sha256": "077f8af5514d90279fe677875be3d820593d3677a3544e8472900364134b3eb0",
+      "rows": 5016
+    },
+    {
+      "path": "SCIP-Syn/ONeil/evaluation_02.csv",
+      "sha256": "30d12990b59fe59a1f0709b92e554a6ba465d7edcbefb96d99afd367bc8f967f",
+      "source_sha256": "6e3778bed8dc5452314cba486cf2518aa598d2ba6a0080629a77ed0b3ee9c6d3",
+      "rows": 5313
+    },
+    {
+      "path": "SCIP-Syn/ONeil/evaluation_03.csv",
+      "sha256": "4b4015a4b6c60db94f750abf834336fa42bd78318fbddc3f1a464e7a04de4ce3",
+      "source_sha256": "29dc86d343048572d96bdd517af8310056c999b7d9b18dd0048280faffc65cf8",
+      "rows": 4851
+    },
+    {
+      "path": "SCIP-Syn/ONeil/evaluation_04.csv",
+      "sha256": "a24911301ed8300b399c987a31cf1823f96786a2e2a12dc2b7df8a7edf926132",
+      "source_sha256": "8450c09ac5878a93631243480e8fcf444ae172c62f17c42422c0d512b554de76",
+      "rows": 3927
+    },
+    {
+      "path": "SCIP-Syn/ONeil/evaluation_05.csv",
+      "sha256": "e21a90d2df12ecfad5cc99762f31d1a2eb4cbd7684c6aadcba1742436b0dce5c",
+      "source_sha256": "ae1b9dc76d02f7dd497e0be8415f4b455484fdbca94791ad321b51e53cffb0c5",
+      "rows": 4950
+    },
+    {
+      "path": "SCIP-Syn/ONeil/evaluation_06.csv",
+      "sha256": "b7941e103bedf47612f0dd091b2d186ec81ed5aafcaba208c70c4378ccd55b16",
+      "source_sha256": "e7ef8c3c641e1dd39ff630ee395dd93a21f9f70c10709645eaa5b795e1b0ccb2",
+      "rows": 5007
+    },
+    {
+      "path": "SCIP-Syn/ONeil/evaluation_07.csv",
+      "sha256": "4ecd229258d5ff92275392b7f0c4ef6113f36fc9b0e599b3a46efac0b259cb8d",
+      "source_sha256": "b24eb05fb3ce79bc7771f1be79c7aad13385201ed7360be88c22488949038269",
+      "rows": 6047
+    },
+    {
+      "path": "SCIP-Syn/ONeil/evaluation_08.csv",
+      "sha256": "9f5afeee33db6d9cb6eb69c50ac41ac54afd804afd2d4715784b3c3fa815f472",
+      "source_sha256": "388bedc93a54485209cba089ca26a07fe06a7656845d76bbb6ed3f3576c6a453",
+      "rows": 5313
+    },
+    {
+      "path": "SCIP-Syn/ONeil/evaluation_09.csv",
+      "sha256": "584b2f6f72f19c51faf2d2a8145fb7fa8321f5756dc2bb929a452864d4303a8d",
+      "source_sha256": "599c444461d7801bbd7d2e1da631d1482b44c7e0e45e5db867b4e6d12c79e598",
+      "rows": 3927
+    },
+    {
+      "path": "ENV-Syn/ONeil/evaluation_00.csv",
+      "sha256": "ce834d1a8591826e0510dcd753851164399c508a0710aff6f2d82db405e397ef",
+      "source_sha256": "35db21ea402d16ce45622d3111cba9a417d38070e75be2b377384d35dabb6347",
+      "rows": 5940
+    },
+    {
+      "path": "ENV-Syn/ONeil/evaluation_01.csv",
+      "sha256": "799c93821daa4838db46547762febdfb25547b836effc2b945bbce26ab66caa9",
+      "source_sha256": "adf2c7e3cc0cb5d1c4896ab3350ceeb0a6d646c69dc7fa984a6f66247aaf5b1a",
+      "rows": 5016
+    },
+    {
+      "path": "ENV-Syn/ONeil/evaluation_02.csv",
+      "sha256": "63c52316506732d1137267a93df0cf3a28830a65cec820f5e2542290c0f267cc",
+      "source_sha256": "773731ac5264e8e4660bec6b1de1a6e2426a4f85f48dfa5e220fc047a08a1418",
+      "rows": 5313
+    },
+    {
+      "path": "ENV-Syn/ONeil/evaluation_03.csv",
+      "sha256": "1bcc3c6a3f1739b723916d3a8f3e1b354758e9731ef2de21e032e2fe833e9e0a",
+      "source_sha256": "edc41a22082cf9ae0de794c12f339b81bf2d0243ea10d2f5434e25878d6689bd",
+      "rows": 4851
+    },
+    {
+      "path": "ENV-Syn/ONeil/evaluation_04.csv",
+      "sha256": "277ad9f0c11d537bd985ef5073b821f2fe06b56929eb72de6d282ae2f7f7715e",
+      "source_sha256": "214175cfca6aec37229cd31a4f06aa8ad0a04dd3eb3a674f04ca56e6cde2a2f8",
+      "rows": 3927
+    },
+    {
+      "path": "ENV-Syn/ONeil/evaluation_05.csv",
+      "sha256": "7c7b8592d483c635c304895ccfa07da34c1b24a13347936c3755c39f80929336",
+      "source_sha256": "56c48728284c40d8ff684ea6bbc562e5c7d334b0a870d98cfd9f779c34d1b1eb",
+      "rows": 4950
+    },
+    {
+      "path": "ENV-Syn/ONeil/evaluation_06.csv",
+      "sha256": "e83eddb97187bda7c2ae9c1403f7f1d895ee4584de1e86ea30106dd35c8fad9b",
+      "source_sha256": "590d1ce2ff4d47c8876f9c7ce996f4de8613d90b4cf46cf073579e87fee3fbc8",
+      "rows": 5007
+    },
+    {
+      "path": "ENV-Syn/ONeil/evaluation_07.csv",
+      "sha256": "e0ba03d54a9902f18768ff6868c944fc06cb59fcf72dabbaddc673de4cd64725",
+      "source_sha256": "24f172f1f2f506973ea8247fd20b5f0f36a69f5aff0ad22dcd70bb6a4d346c86",
+      "rows": 6047
+    },
+    {
+      "path": "ENV-Syn/ONeil/evaluation_08.csv",
+      "sha256": "48f621e4842e68098ee3b8c15e616653353ebade5963c8f06213f5abddf100d8",
+      "source_sha256": "fe778d53bd42b3aaf3865770ed63ae16577a5ddf04476d51d9cd3302d0d561c5",
+      "rows": 5313
+    },
+    {
+      "path": "ENV-Syn/ONeil/evaluation_09.csv",
+      "sha256": "1765592bdddfe05960cf8932acc6a432af23c0600306ad0d5b1e8db9080d5733",
+      "source_sha256": "3f6120f8a29807d22ff7e1dcfab0627e17c08acb0d966083542c1133ca838dec",
+      "rows": 3927
+    },
+    {
+      "path": "DeepDDS/ONeil/evaluation_00.csv",
+      "sha256": "d7d36ff47c172fa1bc90a8c87ac3bf3ade9db6ffee8c9dedb2caeffd129be5de",
+      "source_sha256": "ebfb683efea6e2892e5dfc74dca088a393e68249776fe3f84a859eb5784b9f45",
+      "rows": 5940
+    },
+    {
+      "path": "DeepDDS/ONeil/evaluation_01.csv",
+      "sha256": "21f93d96c7365c37487791641e11bd59232cbe136b8fc4280ac7fdb14e49326c",
+      "source_sha256": "b82002e4c5ee97a2f73433eabd19827e7dccdb04aec84dddbbdffae01c275ddd",
+      "rows": 5016
+    },
+    {
+      "path": "DeepDDS/ONeil/evaluation_02.csv",
+      "sha256": "2a3bae7d8c4b7f04ab3440da354fa113e3a4980167fe591103d4b0eaf7584ab7",
+      "source_sha256": "603849ae44c9ef76a7714fd46c48675ef181466c452b67268f915ac44054c99a",
+      "rows": 5313
+    },
+    {
+      "path": "DeepDDS/ONeil/evaluation_03.csv",
+      "sha256": "ae8e78d0344beb8ee7af852cedb90e2d4c5f4eb8aa40cdc71c5376ad8354f505",
+      "source_sha256": "d2f2acbae5bb1dd371c08b8a8e41a775a0e833dea15a73a0ea653ad1d57082dc",
+      "rows": 4851
+    },
+    {
+      "path": "DeepDDS/ONeil/evaluation_04.csv",
+      "sha256": "97cdde2f2aa615318715ac47a1f4ecbc82fa8ba494d3343bcf0b02c4791347cb",
+      "source_sha256": "4c1f82c32734fe42cd5ffa0075072ad4091aef3b254602ce74770a394f8fc727",
+      "rows": 3927
+    },
+    {
+      "path": "DeepDDS/ONeil/evaluation_05.csv",
+      "sha256": "eb30a66b5f25b7e6f8a8b32b742c8fd0251209978b5a60f4c967dbca36eff698",
+      "source_sha256": "6ae9762349a1bbeaaaad482288e68c8fae856bb553525db58e71be5f056996e2",
+      "rows": 4950
+    },
+    {
+      "path": "DeepDDS/ONeil/evaluation_06.csv",
+      "sha256": "5424e8ac97ce107f3a7af45d2589768f40c7dd09bebac55dfe9e0777bd7f0253",
+      "source_sha256": "51db9866d155391db49b09774bb52da8ead64f2d6eed87df9fde1cac9337b55b",
+      "rows": 5007
+    },
+    {
+      "path": "DeepDDS/ONeil/evaluation_07.csv",
+      "sha256": "3f12063b5647fa5684c871322d68b4e77ba328b3d564bda02f27d9de59245f4b",
+      "source_sha256": "5883dd428db3108549c8961b78165f4316c24475472130bfec1355b8cc614574",
+      "rows": 6047
+    },
+    {
+      "path": "DeepDDS/ONeil/evaluation_08.csv",
+      "sha256": "944cb64a4635f285d85c999bf545cd7f3d72273e57cc46e3c9bab24ad1b7e5a6",
+      "source_sha256": "f84226faa559d7749ed248af75134e95b1d264c1556c9b4836903d1e713b44e7",
+      "rows": 5313
+    },
+    {
+      "path": "DeepDDS/ONeil/evaluation_09.csv",
+      "sha256": "e78da111829921bb50c32569124597d5dbf8279d5d0111d50cddaf6128594cf9",
+      "source_sha256": "74540c65a31141c79eeb2a32811b928b3cdabb10ed28a2e87532a3aa7ba7ae2e",
+      "rows": 3927
+    },
+    {
+      "path": "Molecular_MLP/ONeil/evaluation_00.csv",
+      "sha256": "7c128628dfdf7c9734c2891e2c2d49a229eb5f6517f639faafcda07149881555",
+      "source_sha256": "86a11d89899f31c1233f3dc987c7df7fe9ca6d066933333aae982450d3ee952f",
+      "rows": 5940
+    },
+    {
+      "path": "Molecular_MLP/ONeil/evaluation_01.csv",
+      "sha256": "992205930df1b88ae748978640287ed835d8cb4a3f39120e07827b31b7825c9c",
+      "source_sha256": "22f711598e02add322a455fe53aa23a6ec45490ef4de2c6ae7039511d1e35ce5",
+      "rows": 5016
+    },
+    {
+      "path": "Molecular_MLP/ONeil/evaluation_02.csv",
+      "sha256": "220141eccfffe969c7e454ee93f2b3710cf0c3662c8cdde5c24dec7599d5cd34",
+      "source_sha256": "986fde2b9579e842c161d4c49dfffed731cf4f77fa72cfc8d5a77569fed3bdec",
+      "rows": 5313
+    },
+    {
+      "path": "Molecular_MLP/ONeil/evaluation_03.csv",
+      "sha256": "5036348bfaf331d4f4d98b661b503e7ef90a2d146e68b010d0b1988fcaf73e43",
+      "source_sha256": "dcdc47b76fb572f3b9e7b46926e442d85548d3cab053d76bea40b915b1a21421",
+      "rows": 4851
+    },
+    {
+      "path": "Molecular_MLP/ONeil/evaluation_04.csv",
+      "sha256": "3a1187b7510e7160ee42cd43e66a94315d2de9a4862889801fc7ddcb7b93993d",
+      "source_sha256": "1c44cccb5e1a0ceb6f7867859b23b3a686325cc9cc750e81652a35d0627abf70",
+      "rows": 3927
+    },
+    {
+      "path": "Molecular_MLP/ONeil/evaluation_05.csv",
+      "sha256": "abec4c3bca09b8c8c7ef55e7fe92542ec77a8efb096be831b265bdabba3c11f2",
+      "source_sha256": "c6640f2f84f4d2c9479c8e3752a00d501a7fa6008bd2deb0c69b83cb4576f358",
+      "rows": 4950
+    },
+    {
+      "path": "Molecular_MLP/ONeil/evaluation_06.csv",
+      "sha256": "70666d727afaf917ab53da77ba79c194a190ac598b31958fcb3187ea4efbeb8b",
+      "source_sha256": "58e0d0e88a7c681088d759576f7bf7f5b76fd6e1e6b67de9df8902e7f2cc3563",
+      "rows": 5007
+    },
+    {
+      "path": "Molecular_MLP/ONeil/evaluation_07.csv",
+      "sha256": "d6e358dd2c141cff44fa63db0aff618cb0d4bec5d1aa1aea0e5f54289e309cd4",
+      "source_sha256": "daa7436608e97ee39b6c548531b4b021a72ca594717e4694fe91f0d3cfeec906",
+      "rows": 6047
+    },
+    {
+      "path": "Molecular_MLP/ONeil/evaluation_08.csv",
+      "sha256": "7aa54ab982460c55871002cbb56816f2e4ebee12fac3ae1b9e26897025e99851",
+      "source_sha256": "542d3fb12de540e6b3089e94a9dcc9a3c170723388c374b24df8e08d44202efd",
+      "rows": 5313
+    },
+    {
+      "path": "Molecular_MLP/ONeil/evaluation_09.csv",
+      "sha256": "92ebe2c5d38047638d523b03266af87f1f6ba0c456666e81a451f8e03aaf437e",
+      "source_sha256": "3fe98b39ba91d6aba4ba49df04fe96d463237087a604f2d0e7d0eaf4a3b754cb",
+      "rows": 3927
+    },
+    {
+      "path": "XGBoost/ONeil/evaluation_00.csv",
+      "sha256": "a831b971641a537fc92b8a8f06c7b918bfc1a17d4aeeac9db3ce3b50ebcb006f",
+      "source_sha256": "c0b38bad3c54646325e5121b2959b853d18d97a77d77a3efb867932f27ed0770",
+      "rows": 5940
+    },
+    {
+      "path": "XGBoost/ONeil/evaluation_01.csv",
+      "sha256": "350f8232947cda880cf0fb3281ac330aa4a7e88be01456c962ae7f3b321567b9",
+      "source_sha256": "2025a73386f88fea98e8c3ad0690a2d3af4f332998e84de09970972360df743a",
+      "rows": 5016
+    },
+    {
+      "path": "XGBoost/ONeil/evaluation_02.csv",
+      "sha256": "d3de303c5db77554a07dff6f5ca2ce9f3bd995adedce8fff804431fb4640eb80",
+      "source_sha256": "a0aa84facca0fcc191497cbdd8641e3fd52cfebc570949bb715fb29c2306cd9e",
+      "rows": 5313
+    },
+    {
+      "path": "XGBoost/ONeil/evaluation_03.csv",
+      "sha256": "2ae52c26428c9de681266d3a63f38f49c43d16aa7a9700e9162b5eececcad979",
+      "source_sha256": "31ad896ba6717935e00e8c4e11dc0c459499141bb7d729c8d131eb48d3d757a3",
+      "rows": 4851
+    },
+    {
+      "path": "XGBoost/ONeil/evaluation_04.csv",
+      "sha256": "f0d4c69a478805c5773e4973a85eeddacbf2a59c66f25700ab0a6c5bda7f2816",
+      "source_sha256": "5b15652119c40e9a582bcb1de224730057b30c4a3acf2926f0b42a6da37fe29e",
+      "rows": 3927
+    },
+    {
+      "path": "XGBoost/ONeil/evaluation_05.csv",
+      "sha256": "b81aea7346e3fe300b6a17fc52b63c40aae8c8de5f0a2e033bfa70a1e9fda5ec",
+      "source_sha256": "f15840ed989bb50e8630db1d8f1f76dadb23e110329383634d7c91d1acc08b26",
+      "rows": 4950
+    },
+    {
+      "path": "XGBoost/ONeil/evaluation_06.csv",
+      "sha256": "2c99bbe1f1c377919dee1a4fbab9cbf05ea02fb8da3904c62a8f46a6fc716d89",
+      "source_sha256": "4b92e6dd075fcde1cb0849bd83f5be62256d6c3f504488d99a58212d38f8704e",
+      "rows": 5007
+    },
+    {
+      "path": "XGBoost/ONeil/evaluation_07.csv",
+      "sha256": "f07c755ee3144cd11205e6015c7e50dd2d3e1b369f8ea9d7255e1b7d15df3704",
+      "source_sha256": "f8b15f06757f3ab41f96ec135840bafc40a6a29a2907e4cdf2ccffbb3787c952",
+      "rows": 6047
+    },
+    {
+      "path": "XGBoost/ONeil/evaluation_08.csv",
+      "sha256": "b659899903e3e9cb70aa5b132491e0f4450de52e3e3ad856c65710f7b8d5dee6",
+      "source_sha256": "f838c475d4179e27d5b3824a5a4eeae182883a9cedbe7e402e6aeaffcb1527fe",
+      "rows": 5313
+    },
+    {
+      "path": "XGBoost/ONeil/evaluation_09.csv",
+      "sha256": "b2845ee01b1ef252d6f0e4979ad75570eb4a12377efceee67d7573dc149855b6",
+      "source_sha256": "eec871434014d7cefe0be1932508222f7017dc4619b5e797aee3bc622a00e473",
+      "rows": 3927
+    },
+    {
+      "path": "LinearSVR/ONeil/evaluation_00.csv",
+      "sha256": "f5fb37a92a4e53a69665fbe13b754143e54d1200e93429334b885c81af299231",
+      "source_sha256": "a88494ba089cc6fe50d3d9cc2d5bb2df00ddb60adf2fcf7e13e4f76d894bbad8",
+      "rows": 5940
+    },
+    {
+      "path": "LinearSVR/ONeil/evaluation_01.csv",
+      "sha256": "a7ab90a2aec06a378da2cb237fcbb959134e785ecb60293c4136335d593d45fd",
+      "source_sha256": "d273a38ac5155cee990f346ef20fbe0f6dfc040ebce8382185393dfd2c4b7e7d",
+      "rows": 5016
+    },
+    {
+      "path": "LinearSVR/ONeil/evaluation_02.csv",
+      "sha256": "293afb78562b4fdea21b212459010c44f502e7deddc5973077bc443804e941cc",
+      "source_sha256": "9173b586ef39de8d1b3a181a2c09c9c209c57163c3d9152659c123d991c053d4",
+      "rows": 5313
+    },
+    {
+      "path": "LinearSVR/ONeil/evaluation_03.csv",
+      "sha256": "60a0b10554802c63151640845c3d7f2d6e2380e0b5f6b2e627a42085bfa10f5c",
+      "source_sha256": "03d4fc5f31c3d2cec6f920a3c46e02ea7e49d08c6c2f954fb7c0b47c29139e48",
+      "rows": 4851
+    },
+    {
+      "path": "LinearSVR/ONeil/evaluation_04.csv",
+      "sha256": "9e5507b8fc929148b407f52349e69c7b382615b131d72318f755ca432135052b",
+      "source_sha256": "1deb6846c99a41d0e39213a56bca49dbdeaaec16327fae6da69919dc26372c86",
+      "rows": 3927
+    },
+    {
+      "path": "LinearSVR/ONeil/evaluation_05.csv",
+      "sha256": "954879d0a5d3ba75b3be8c2336520f6b4e669c667174e53dc8349660d342ef55",
+      "source_sha256": "479e67e3b7969dec20087be4a761f55333e102c3291f5f3a0b6211b234806046",
+      "rows": 4950
+    },
+    {
+      "path": "LinearSVR/ONeil/evaluation_06.csv",
+      "sha256": "c3787a8508e7206680afb691179978305f08260ff147cd688ff72fce2e55ebea",
+      "source_sha256": "2ea9f07cb79052375d45742f8a9e6564cdb5dc8a30ebe3a2cb45b623abef9b5e",
+      "rows": 5007
+    },
+    {
+      "path": "LinearSVR/ONeil/evaluation_07.csv",
+      "sha256": "f69bd7554811ac45c17819a81648b22c4705e2efd9fbbbb9ceb327aec857a8d8",
+      "source_sha256": "04570f19851029752733f0fa99bebd47ab60e046c938dfc2822975c4b22034eb",
+      "rows": 6047
+    },
+    {
+      "path": "LinearSVR/ONeil/evaluation_08.csv",
+      "sha256": "3c70f03fc73a235e146a14d1d94fb341cedd0bd29b3b0df722d3db655a6527c4",
+      "source_sha256": "df2a6624618ebe91e0e62f7f0662b135b904032a0c8538c2040296ca61810207",
+      "rows": 5313
+    },
+    {
+      "path": "LinearSVR/ONeil/evaluation_09.csv",
+      "sha256": "6884873b34d1db2b4a7f191bab66245f9f67364fb5c6c3e8883be64a1c31c27e",
+      "source_sha256": "a09fbdb712110d4a3603b5c419808d566553a84f7c3281e30f4b99a50e9bf275",
+      "rows": 3927
+    }
+  ],
+  "unit": "unordered drug pair x cell",
+  "primary_budget": 0.05,
+  "strong_label_threshold": 10,
+  "rank_rule": "Archived canonical-key ordering and descending score quicksort; rank_order preserved."
+}

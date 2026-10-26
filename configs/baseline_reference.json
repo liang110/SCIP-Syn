@@ -1,0 +1,82 @@
+{
+  "Molecular MLP": {
+    "configuration": {
+      "frozen_git_head": "a15e5b7b05d20cde71454bd725cb9aa2aec5fb51",
+      "feature_sha256": "2c5e4ac00e8619c1b8c1dc605b6cb78afeb5a7af3753c1ae311ba81a312a4447",
+      "folds": 10,
+      "seed": 42,
+      "mol_dim": 768,
+      "drug_dim": 128,
+      "cell_dim": 2000,
+      "cell_hidden": 128,
+      "context_dim": 64,
+      "pair_hidden": 64,
+      "operator_hidden": 32,
+      "rank": 16,
+      "optimizer": "Adam",
+      "lr": 0.0001,
+      "weight_decay": 1e-05,
+      "batch_size": 512,
+      "epochs": 50,
+      "patience": 12,
+      "grad_clip": 5.0,
+      "target_std_ddof": 1,
+      "target_epsilon": 0.0,
+      "loss": "MSE on fit-only standardized continuous Loewe",
+      "selection_metric": "inner-validation raw-row PCC only",
+      "strong_synergy_threshold": 10.0,
+      "primary_population": "Selection-Unseen Both-Unseen",
+      "inherited_supervised_weights": false
+    },
+    "parameter_count": 396757,
+    "source_manifest_sha256": "9503d46c684d16cd9f5e76b036f52dc14241b76693f564026ccc8cc7a2632065",
+    "inputs": [
+      "frozen MoLFormer 768",
+      "fixed cell expression 2000"
+    ],
+    "architecture": "shared drug 768-128; cell 2000-128-64; symmetric sum/absolute-difference/product 384; concatenated 448-74-1; no target/pathway input"
+  },
+  "ENV-Syn": {
+    "configuration": {
+      "frozen_git_head": "a15e5b7b05d20cde71454bd725cb9aa2aec5fb51",
+      "feature_sha256": "2c5e4ac00e8619c1b8c1dc605b6cb78afeb5a7af3753c1ae311ba81a312a4447",
+      "author_model_sha256": "f81b91a53f08bd00538ccef3f62f9d33bf0f22a4ec849541e0615bf007f64ee5",
+      "author_git_commit": "d1369cb649f22d62ce8f8d6831f56cc3cda11bb5",
+      "task": "reg",
+      "mol_dim": 768,
+      "cell_dim": 2000,
+      "hidden_dim": 512,
+      "seed": 42,
+      "optimizer": "Adam",
+      "lr": 0.0001,
+      "weight_decay": 1e-05,
+      "batch_size": 512,
+      "epochs": 50,
+      "patience": 12,
+      "grad_clip": 5.0,
+      "scheduler": "none (author executable default)",
+      "selection_metric": "inner-validation raw-row PCC only",
+      "target_std_ddof": 1,
+      "target_epsilon": 0.0,
+      "loss": "MSE on fit-only standardized continuous Loewe scores",
+      "folds": 10,
+      "strong_synergy_threshold": 10.0,
+      "primary_population": "Selection-Unseen Both-Unseen",
+      "secondary_populations": [
+        "Fit-Unseen Both-Unseen",
+        "Selection-Unseen One-Unseen",
+        "Fit-Unseen One-Unseen",
+        "Selection Both-Seen",
+        "Overall"
+      ],
+      "pretraining_limit": "Drug-label cold start is not absence from MoLFormer pretraining"
+    },
+    "parameter_count": 11415617,
+    "source_manifest_sha256": "8166fd1b26777a34dfe38d9e20a3b1cbe3d8bbf3efb5aab6883d214029a35798",
+    "inputs": [
+      "frozen MoLFormer 768",
+      "fixed cell expression 2000"
+    ],
+    "adaptation": "explicit continuous regression output; standardized MSE"
+  }
+}

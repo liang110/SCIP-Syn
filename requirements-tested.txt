@@ -1,0 +1,8 @@
+# Modern CPU environment; Python 3.12.14, Windows AMD64.
+# Install the matching torch CPU wheel from https://download.pytorch.org/whl/cpu
+# then install the remaining packages. Historical versions are documented separately.
+torch==2.10.0
+numpy==1.26.4
+pandas==3.0.6
+scipy==1.17.1
+matplotlib==3.11.2
