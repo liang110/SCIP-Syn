@@ -15,8 +15,6 @@ The canonical-score package contains only unordered drug identifiers, cell ident
 
 Molecular MLP uses molecular and expression features, without target/pathway input. Its 396,757 parameters do not capacity-match SCIP-Syn. ENV-Syn uses its explicit continuous-regression path. `configs/baseline_reference.json` records their actual settings and provenance hashes, without host paths. These comparisons do not isolate the attention operator.
 
-Historical XGBoost/LinearSVR caches have small floating-point differences in continuous truth values. Candidate identifiers and threshold-10 positive assignments are verified equal; original values are retained, and candidate replay reports the maximum discrepancy. Replay validates each method against its own frozen metrics rather than silently rewriting labels.
-
 `inner_assignments.csv.gz` gives original fitting/validation membership as zero-based row indices in the archived outer-training CSV. Repeated rows are matched by occurrence. Its manifest pins the source bytes; it does not silently resplit data or reconstruct labels from hashes.
 
 Figures 2–3 use lowercase parenthesized panel labels. Figure 2(a) explicitly uses a base-2 PCC axis; (b), (c) retain 3D correlation bars. Figure 4 is retained at its original raster resolution; label edits do not create a high-resolution original.
