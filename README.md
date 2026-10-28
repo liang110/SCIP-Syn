@@ -2,7 +2,13 @@
 
 **Symmetric Contextual Integration for Prioritization** is a cell-context-aware model for drug-synergy candidate ranking.
 
-![SCIP-Syn architecture](docs/architecture.png)
+<p align="center">
+  <img
+    src="./docs/architecture.png"
+    alt="SCIP-Syn architecture"
+    width="1100"
+  />
+</p>
 
 Frozen MoLFormer and target/pathway features form two exchange-invariant pair tokens. An independently encoded cell query reads the pair memory through cross-attention. The main application is finite-budget prioritization under drug-label cold start.
 
