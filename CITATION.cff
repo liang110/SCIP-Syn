@@ -3,7 +3,7 @@ message: "Please cite this software release when using SCIP-Syn. This is a softw
 type: software
 title: "SCIP-Syn"
 authors:
-  - name: "dan110liang110"
+  - name: "liang110"
     website: "https://github.com/liang110"
 version: 0.2.0
 date-released: "2026-10-15"

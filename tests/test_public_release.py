@@ -74,7 +74,8 @@ class PublicReleaseTests(unittest.TestCase):
         width,height=struct.unpack('>II',image[16:24])
         self.assertGreater(width,0)
         self.assertGreater(height,0)
-        self.assertIn('](docs/architecture.png)',(ROOT/'README.md').read_text(encoding='utf-8'))
+        readme = (ROOT/'README.md').read_text(encoding='utf-8')
+        self.assertIn('src="./docs/architecture.png"', readme)
 
 
 if __name__=='__main__':

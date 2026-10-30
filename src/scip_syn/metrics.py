@@ -44,9 +44,12 @@ def evaluate(frame, outer_training_drugs=None, population='all', threshold=10.0)
     result = {'N': len(y), 'population': population,
               'PCC': None if constant else float(pearsonr(y, p).statistic),
               'Spearman': None if constant else float(spearmanr(y, p).statistic)}
-    # Preserve the frozen ledger's sort semantics, including ties. The canonical
-    # frame is key-sorted first; do not introduce a new tie-breaker retrospectively.
-    ranked = canonical.sort_values('y_pred_reg', ascending=False, kind='quicksort')
+    # Rank by score with an explicit canonical key for deterministic ties.
+    ranked = canonical.sort_values(
+        ['y_pred_reg', 'drug1', 'drug2', 'cell_line_id'],
+        ascending=[False, True, True, True],
+        kind='stable',
+    )
     N, K = len(y), int((y >= threshold).sum())
     result['strong_labels'] = K
     for fraction in (0.01, 0.05):
